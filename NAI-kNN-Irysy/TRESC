@@ -1,5 +1,7 @@
 tresc:
-Napisz program, który wczytuje dane z pliku iris.txt i dzieli je na dwa zbiory: treningowy i testowy, w proporcjach 4:1, zachowując oryginalny rozkład klas. Następnie program prosi użytkowanika o podanie parametru k, a w końcu wykorzysta zbiór treningowy do zaklasyfikowania przykładów ze zbioru testowego używając klasyfikatora kNN i poda jego celność (procent poprawnie zaklasyfikowanych przykładów). 
+Napisz program, który wczytuje dane z pliku iris.txt i dzieli je na dwa zbiory: treningowy i testowy, w proporcjach 4:1, 
+zachowując oryginalny rozkład klas. Następnie program prosi użytkowanika o podanie parametru k, a w końcu wykorzysta zbiór treningowy 
+do zaklasyfikowania przykładów ze zbioru testowego używając klasyfikatora kNN i poda jego celność (procent poprawnie zaklasyfikowanych przykładów). 
 
 
 
