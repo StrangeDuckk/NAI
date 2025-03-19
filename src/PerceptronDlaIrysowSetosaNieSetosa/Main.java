@@ -54,7 +54,69 @@ public class Main {
             throw new RuntimeException(e);
         }
 
-        Perceptron perceptronik = new Perceptron(4,2,1);
+        Perceptron perceptronik = new Perceptron(zbiorTreningowy.get(0).getVektor().size(),0.0,0.1);
+
+        //klasyfikacja dla Setosa, pierwsza
+        double celnoscSetosa = 0.0;
+        for (int i = 0; i < zbiorTreningowy.size(); i++){
+            ArrayList<Double> pojedynczyIrys = zbiorTreningowy.get(i).getVektor();
+
+            zbiorTreningowy.get(i).setStrzal(
+                    perceptronik.Klasyfikacja(pojedynczyIrys)==1?KlasaIrysa.Iris_setosa:KlasaIrysa.Nie_setosa
+            );
+
+            if (zbiorTreningowy.get(i).getStrzal()==zbiorTreningowy.get(i).getKlasa()) {
+                celnoscSetosa++;
+            }
+        }
+
+        int licznikEpok = 0;
+        int licznikPoprawnychEpok = 0;
+        while (true){
+            celnoscSetosa = 0;
+
+            for (int i = 0; i < zbiorTreningowy.size(); i++){
+                ArrayList<Double> pojedynczyIrys = zbiorTreningowy.get(i).getVektor();
+
+                perceptronik.deltha(
+                        pojedynczyIrys, zbiorTreningowy.get(i).getKlasa()==KlasaIrysa.Iris_setosa?1:0
+                );
+
+                zbiorTreningowy.get(i).setStrzal(
+                        perceptronik.Klasyfikacja(pojedynczyIrys) == 1 ? KlasaIrysa.Iris_setosa : KlasaIrysa.Nie_setosa
+                );
+
+                if (zbiorTreningowy.get(i).getStrzal() == zbiorTreningowy.get(i).getKlasa()) {
+                    celnoscSetosa++;
+                }
+            }
+            System.out.println("celnosc epoki " + (licznikEpok++)+" = " + celnoscSetosa/zbiorTreningowy.size());
+
+
+            if ( (celnoscSetosa/ zbiorTreningowy.size())==1.0) {
+                licznikPoprawnychEpok++;
+                if (licznikPoprawnychEpok>=3) //dla douczenia sie zbioru treningowego, bez tego wychodzily kwiatki na testowym
+                    break;
+            }
+            else{
+                licznikPoprawnychEpok = 0;
+            }
+        }
+        celnoscSetosa=0;
+
+        for (int i = 0; i < zbiorTestowy.size(); i++){
+            ArrayList<Double> pojedynczyIrys = zbiorTestowy.get(i).getVektor();
+
+            zbiorTestowy.get(i).setStrzal(
+                    perceptronik.Klasyfikacja(pojedynczyIrys)==1?KlasaIrysa.Iris_setosa:KlasaIrysa.Nie_setosa
+            );
+
+            if (zbiorTestowy.get(i).getStrzal()==zbiorTestowy.get(i).getKlasa()) {
+                celnoscSetosa++;
+            }
+        }
+        System.out.println("wynik dla zbioru testowego: \n"+zbiorTestowy);
+        System.out.println("celnosc = " + celnoscSetosa/ zbiorTestowy.size());
 
 /*
     dzialanie:

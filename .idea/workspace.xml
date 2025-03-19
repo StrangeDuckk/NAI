@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fceaea6-fc98-4aec-9c5d-de923ca77113" name="Changes" comment="perceptron, dodanie danych z klawiatury">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Perceptron.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4fceaea6-fc98-4aec-9c5d-de923ca77113" name="Changes" comment="dodanie pliku do irysow i wciagniecie danych do projektu z pliku">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Irys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Irys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Perceptron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Perceptron.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/kasia/Desktop/szkoła/Astudia/s4/NAI/Perceptron/src/PerceptronDlaIrysowSetosaNieSetosa",
+    "last_opened_file_path": "C:/Users/kasia/Desktop/szkoła/Astudia/s4/NAI/Perceptron",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,6 +52,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kasia\Desktop\szkoła\Astudia\s4\NAI\Perceptron" />
       <recent name="C:\Users\kasia\Desktop\szkoła\Astudia\s4\NAI\Perceptron\src\PerceptronDlaIrysowSetosaNieSetosa" />
     </key>
   </component>
@@ -66,7 +66,7 @@
       <updated>1742329994826</updated>
       <workItem from="1742329995839" duration="164000" />
       <workItem from="1742330226449" duration="1607000" />
-      <workItem from="1742387146350" duration="2636000" />
+      <workItem from="1742387146350" duration="11109000" />
     </task>
     <task id="LOCAL-00001" summary="gotowe kNN i poczatek perceptronu">
       <option name="closed" value="true" />
@@ -84,15 +84,51 @@
       <option name="project" value="LOCAL" />
       <updated>1742388527615</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dodanie pliku do irysow i wciagniecie danych do projektu z pliku">
+      <option name="closed" value="true" />
+      <created>1742410698086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742410698086</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gotowe kNN i poczatek perceptronu" />
     <MESSAGE value="perceptron, dodanie danych z klawiatury" />
-    <option name="LAST_COMMIT_MESSAGE" value="perceptron, dodanie danych z klawiatury" />
+    <MESSAGE value="dodanie pliku do irysow i wciagniecie danych do projektu z pliku" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodanie pliku do irysow i wciagniecie danych do projektu z pliku" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Main.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Main.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,5 +1,7 @@
 package PerceptronDlaIrysowSetosaNieSetosa;
 
+import java.util.ArrayList;
+
 public class Irys {
     //pola:
     //sepal length in cm,sepal width in cm,petal length in cm,petal width in cm,class
@@ -21,14 +23,16 @@ public class Irys {
                 klasa = KlasaIrysa.Iris_setosa;
                 break;
             }
-            case "Iris-versicolor": {
-                klasa = KlasaIrysa.Iris_versicolor;
-                break;
-            }
-            case "Iris-virginica": {
-                klasa = KlasaIrysa.Iris_virginica;
-                break;
-            }
+            default:
+                klasa = KlasaIrysa.Nie_setosa;
+//            case "Iris-versicolor": {
+//                klasa = KlasaIrysa.Iris_versicolor;
+//                break;
+//            }
+//            case "Iris-virginica": {
+//                klasa = KlasaIrysa.Iris_virginica;
+//                break;
+//            }
         }
     }
 
@@ -36,29 +40,31 @@ public class Irys {
     public double getSepalLengthInCm() {
         return sepalLengthInCm;
     }
-
     public double getSepalWidthInCm() {
         return sepalWidthInCm;
     }
-
     public double getPetalLengthInCm() {
         return petalLengthInCm;
     }
-
     public double getPetalWidthInCm() {
         return petalWidthInCm;
     }
-
     public KlasaIrysa getKlasa() {
         return klasa;
     }
-
     public KlasaIrysa getStrzal() {
         return strzal;
     }
-
     public void setStrzal(KlasaIrysa strzal) {
         this.strzal = strzal;
+    }
+    public ArrayList<Double> getVektor(){
+        ArrayList<Double> pojedynczyIrys= new ArrayList<>();
+        pojedynczyIrys.add(petalLengthInCm);
+        pojedynczyIrys.add(petalWidthInCm);
+        pojedynczyIrys.add(sepalLengthInCm);
+        pojedynczyIrys.add(sepalWidthInCm);
+        return pojedynczyIrys;
     }
 
     @Override

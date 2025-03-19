@@ -26,13 +26,13 @@ public class Perceptron {
     public Perceptron(int dlugoscTablicaWag, double prog, double alpha) {
         tablicaWag = new ArrayList<>();
         for (int i = 0; i < dlugoscTablicaWag; i++) {
-            tablicaWag.add(Math.random()); //losowe wartosci wag
+            tablicaWag.add(0.0 /*Math.random()*2-1*/); //losowe wartosci wag
         }
         this.prog = prog;
         this.alpha = alpha;
     }
 
-    public double NetObliczenie(ArrayList<Double> tablicaWag, ArrayList<Double> inputVector) {
+    public double NetObliczenie(ArrayList<Double> inputVector) {
         double Net = 0;
         for (int i = 0; i < inputVector.size(); i++) {
             Net += inputVector.get(i)*tablicaWag.get(i);
@@ -40,20 +40,18 @@ public class Perceptron {
         return Net;
     }
     public int Klasyfikacja/*compute*/(ArrayList<Double> inputVektor) {//dla uczenia
-        return NetObliczenie(tablicaWag, inputVektor) >= prog?1:0;
+        return NetObliczenie(inputVektor) >= prog?1:0;
     }
-    public double deltha/*learn*/(ArrayList<Double> inputVector, int answer) {//dla kazdego w train jako pierwsza -> uczenie
+    public void deltha/*learn*/(ArrayList<Double> inputVector, int answer) {//dla kazdego w train jako pierwsza -> uczenie
         int wynik = Klasyfikacja(inputVector);
-        if (wynik==answer){
-            return answer; //potem sprawdzac czy wagi sie zmienily
-        }
-        else//odpowiedz jest inna, wracamy do nauki
-        {
-            ArrayList<Double> newWagi = new ArrayList<>();
-            double Net = NetObliczenie(tablicaWag, newWagi);
-            this.prog = prog - (answer-wynik)*alpha;//sprawdzic czy to bedzie dzialac
-
-            return Net>=prog?1:0;
+        if (wynik!=answer){
+            for (int i = 0; i < tablicaWag.size(); i++)//korekta wag
+            {
+                tablicaWag.set(i,
+                        tablicaWag.get(i) +  (answer - wynik) * alpha * inputVector.get(i)
+                        );
+            }
+            this.prog = prog - (answer-wynik)*alpha;//korekta progu
         }
     }
 }
