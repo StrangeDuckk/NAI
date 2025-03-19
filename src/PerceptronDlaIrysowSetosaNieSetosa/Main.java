@@ -95,7 +95,7 @@ public class Main {
 
         //-----------------------------------sprawdzenie dla zbioru testowego-----------------------------------
 
-        System.out.println("wynik dla zbioru testowego: \n"+zbiorTestowy);
+        System.out.println("wynik dla zbioru testowego: ");
         obliczanieDlaZbioru(zbiorTestowy,perceptronik);
     }
     public static void obliczanieDlaZbioru(ArrayList<Irys> zbior, Perceptron perceptron){
