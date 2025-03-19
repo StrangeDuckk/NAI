@@ -5,7 +5,6 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Scanner;
 /*
 *Napisz klasę "Perceptron", będącą dyskretnym perceptronem unipolarnym, w konstruktorze przyjmującą długość wektora wag,
 * próg i stałą uczenia alfa. Poza tym, przechowywać ma również sam wektor wag, a także dwie metody:
@@ -58,24 +57,13 @@ public class Main {
         //-----------------------------------klasyfikacja dla Setosa, pierwsza-----------------------------------
         Perceptron perceptronik = new Perceptron(zbiorTreningowy.get(0).getVektor().size(),0.0,0.1);
 
-        double celnoscSetosa = 0.0;
-        for (int i = 0; i < zbiorTreningowy.size(); i++){
-            ArrayList<Double> pojedynczyIrys = zbiorTreningowy.get(i).getVektor();
-
-            zbiorTreningowy.get(i).setStrzal(
-                    perceptronik.compute(pojedynczyIrys)==1?KlasaIrysa.Iris_setosa:KlasaIrysa.Nie_setosa
-            );
-
-            if (zbiorTreningowy.get(i).getStrzal()==zbiorTreningowy.get(i).getKlasa()) {
-                celnoscSetosa++;
-            }
-        }
+        obliczanieDlaZbioru(zbiorTreningowy,perceptronik);
 
         //-----------------------------------uczenie sie-----------------------------------
         int licznikEpok = 0;
         int licznikPoprawnychEpok = 0;
         while (true){
-            celnoscSetosa = 0;
+            double celnoscSetosa = 0;
 
             for (int i = 0; i < zbiorTreningowy.size(); i++){
                 ArrayList<Double> pojedynczyIrys = zbiorTreningowy.get(i).getVektor();
@@ -104,21 +92,26 @@ public class Main {
                 licznikPoprawnychEpok = 0;
             }
         }
-        celnoscSetosa=0;
 
         //-----------------------------------sprawdzenie dla zbioru testowego-----------------------------------
-        for (int i = 0; i < zbiorTestowy.size(); i++){
-            ArrayList<Double> pojedynczyIrys = zbiorTestowy.get(i).getVektor();
 
-            zbiorTestowy.get(i).setStrzal(
-                    perceptronik.compute(pojedynczyIrys)==1?KlasaIrysa.Iris_setosa:KlasaIrysa.Nie_setosa
+        System.out.println("wynik dla zbioru testowego: \n"+zbiorTestowy);
+        obliczanieDlaZbioru(zbiorTestowy,perceptronik);
+    }
+    public static void obliczanieDlaZbioru(ArrayList<Irys> zbior, Perceptron perceptron){
+        double celnoscSetosa = 0;
+        for (int i = 0; i < zbior.size(); i++){
+
+            ArrayList<Double> pojedynczyIrys = zbior.get(i).getVektor();
+
+            zbior.get(i).setStrzal(
+                    perceptron.compute(pojedynczyIrys)==1?KlasaIrysa.Iris_setosa:KlasaIrysa.Nie_setosa
             );
 
-            if (zbiorTestowy.get(i).getStrzal()==zbiorTestowy.get(i).getKlasa()) {
+            if (zbior.get(i).getStrzal()==zbior.get(i).getKlasa()) {
                 celnoscSetosa++;
             }
         }
-        System.out.println("wynik dla zbioru testowego: \n"+zbiorTestowy);
-        System.out.println("celnosc = " + celnoscSetosa/ zbiorTestowy.size());
+        System.out.println("celnosc = " + celnoscSetosa/ zbior.size());
     }
 }
