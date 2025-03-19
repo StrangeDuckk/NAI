@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fceaea6-fc98-4aec-9c5d-de923ca77113" name="Changes" comment="dodanie pliku do irysow i wciagniecie danych do projektu z pliku">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Irys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Irys.java" afterDir="false" />
+    <list default="true" id="4fceaea6-fc98-4aec-9c5d-de923ca77113" name="Changes" comment="dzialajacy perceptron">
       <change beforePath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Perceptron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Perceptron.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +63,7 @@
       <updated>1742329994826</updated>
       <workItem from="1742329995839" duration="164000" />
       <workItem from="1742330226449" duration="1607000" />
-      <workItem from="1742387146350" duration="11109000" />
+      <workItem from="1742387146350" duration="11662000" />
     </task>
     <task id="LOCAL-00001" summary="gotowe kNN i poczatek perceptronu">
       <option name="closed" value="true" />
@@ -92,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742410698086</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dzialajacy perceptron">
+      <option name="closed" value="true" />
+      <created>1742419188677</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742419188677</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,22 +118,7 @@
     <MESSAGE value="gotowe kNN i poczatek perceptronu" />
     <MESSAGE value="perceptron, dodanie danych z klawiatury" />
     <MESSAGE value="dodanie pliku do irysow i wciagniecie danych do projektu z pliku" />
-    <option name="LAST_COMMIT_MESSAGE" value="dodanie pliku do irysow i wciagniecie danych do projektu z pliku" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Main.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Main.java</url>
-          <line>72</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="dzialajacy perceptron" />
+    <option name="LAST_COMMIT_MESSAGE" value="dzialajacy perceptron" />
   </component>
 </project>

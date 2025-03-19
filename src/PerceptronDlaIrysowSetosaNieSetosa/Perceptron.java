@@ -26,7 +26,7 @@ public class Perceptron {
     public Perceptron(int dlugoscTablicaWag, double prog, double alpha) {
         tablicaWag = new ArrayList<>();
         for (int i = 0; i < dlugoscTablicaWag; i++) {
-            tablicaWag.add(0.0 /*Math.random()*2-1*/); //losowe wartosci wag
+            tablicaWag.add(/*0.0*/ Math.random()*2-1); //losowe wartosci wag
         }
         this.prog = prog;
         this.alpha = alpha;
@@ -39,11 +39,11 @@ public class Perceptron {
         }
         return Net;
     }
-    public int Klasyfikacja/*compute*/(ArrayList<Double> inputVektor) {//dla uczenia
+    public int compute(ArrayList<Double> inputVektor) {//dla uczenia
         return NetObliczenie(inputVektor) >= prog?1:0;
     }
-    public void deltha/*learn*/(ArrayList<Double> inputVector, int answer) {//dla kazdego w train jako pierwsza -> uczenie
-        int wynik = Klasyfikacja(inputVector);
+    public void learn(ArrayList<Double> inputVector, int answer) {//dla kazdego w train jako pierwsza -> uczenie
+        int wynik = compute(inputVector);
         if (wynik!=answer){
             for (int i = 0; i < tablicaWag.size(); i++)//korekta wag
             {

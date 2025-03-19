@@ -33,6 +33,7 @@ public class Main {
 
         //na teraz -> wejsciowe podane
 
+        //-----------------------------------wgranie danych z pliku-----------------------------------
         ArrayList<Irys> zbiorTreningowy = new ArrayList<>();
         ArrayList<Irys> zbiorTestowy = new ArrayList<>();
 
@@ -54,15 +55,15 @@ public class Main {
             throw new RuntimeException(e);
         }
 
+        //-----------------------------------klasyfikacja dla Setosa, pierwsza-----------------------------------
         Perceptron perceptronik = new Perceptron(zbiorTreningowy.get(0).getVektor().size(),0.0,0.1);
 
-        //klasyfikacja dla Setosa, pierwsza
         double celnoscSetosa = 0.0;
         for (int i = 0; i < zbiorTreningowy.size(); i++){
             ArrayList<Double> pojedynczyIrys = zbiorTreningowy.get(i).getVektor();
 
             zbiorTreningowy.get(i).setStrzal(
-                    perceptronik.Klasyfikacja(pojedynczyIrys)==1?KlasaIrysa.Iris_setosa:KlasaIrysa.Nie_setosa
+                    perceptronik.compute(pojedynczyIrys)==1?KlasaIrysa.Iris_setosa:KlasaIrysa.Nie_setosa
             );
 
             if (zbiorTreningowy.get(i).getStrzal()==zbiorTreningowy.get(i).getKlasa()) {
@@ -70,6 +71,7 @@ public class Main {
             }
         }
 
+        //-----------------------------------uczenie sie-----------------------------------
         int licznikEpok = 0;
         int licznikPoprawnychEpok = 0;
         while (true){
@@ -78,12 +80,12 @@ public class Main {
             for (int i = 0; i < zbiorTreningowy.size(); i++){
                 ArrayList<Double> pojedynczyIrys = zbiorTreningowy.get(i).getVektor();
 
-                perceptronik.deltha(
+                perceptronik.learn(
                         pojedynczyIrys, zbiorTreningowy.get(i).getKlasa()==KlasaIrysa.Iris_setosa?1:0
                 );
 
                 zbiorTreningowy.get(i).setStrzal(
-                        perceptronik.Klasyfikacja(pojedynczyIrys) == 1 ? KlasaIrysa.Iris_setosa : KlasaIrysa.Nie_setosa
+                        perceptronik.compute(pojedynczyIrys) == 1 ? KlasaIrysa.Iris_setosa : KlasaIrysa.Nie_setosa
                 );
 
                 if (zbiorTreningowy.get(i).getStrzal() == zbiorTreningowy.get(i).getKlasa()) {
@@ -104,11 +106,12 @@ public class Main {
         }
         celnoscSetosa=0;
 
+        //-----------------------------------sprawdzenie dla zbioru testowego-----------------------------------
         for (int i = 0; i < zbiorTestowy.size(); i++){
             ArrayList<Double> pojedynczyIrys = zbiorTestowy.get(i).getVektor();
 
             zbiorTestowy.get(i).setStrzal(
-                    perceptronik.Klasyfikacja(pojedynczyIrys)==1?KlasaIrysa.Iris_setosa:KlasaIrysa.Nie_setosa
+                    perceptronik.compute(pojedynczyIrys)==1?KlasaIrysa.Iris_setosa:KlasaIrysa.Nie_setosa
             );
 
             if (zbiorTestowy.get(i).getStrzal()==zbiorTestowy.get(i).getKlasa()) {
@@ -117,16 +120,5 @@ public class Main {
         }
         System.out.println("wynik dla zbioru testowego: \n"+zbiorTestowy);
         System.out.println("celnosc = " + celnoscSetosa/ zbiorTestowy.size());
-
-/*
-    dzialanie:
-    - uczenie na treningowym dopoki celnosc <5% np
-    - puszczenie na testowym
-
-        while(p.Klasyfikacja(input)!=znanaOdpowiedz){
-            System.out.println(p.Klasyfikacja(input));
-            p.deltha(input,znanaOdpowiedz);
-        }
-*/
     }
 }
