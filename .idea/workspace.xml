@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fceaea6-fc98-4aec-9c5d-de923ca77113" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Perceptron.iml" afterDir="false" />
+    <list default="true" id="4fceaea6-fc98-4aec-9c5d-de923ca77113" name="Changes" comment="gotowe kNN i poczatek perceptronu">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/podanieDanychZKlawiatury/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Perceptron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/podanieDanychZKlawiatury/Perceptron.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/kasia/Desktop/szkoła/Astudia/s4/NAI/Perceptron",
@@ -59,11 +58,25 @@
       <option name="presentableId" value="Default" />
       <updated>1742329994826</updated>
       <workItem from="1742329995839" duration="164000" />
-      <workItem from="1742330226449" duration="1156000" />
+      <workItem from="1742330226449" duration="1607000" />
+      <workItem from="1742387146350" duration="1256000" />
     </task>
+    <task id="LOCAL-00001" summary="gotowe kNN i poczatek perceptronu">
+      <option name="closed" value="true" />
+      <created>1742331733987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742331733987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gotowe kNN i poczatek perceptronu" />
+    <option name="LAST_COMMIT_MESSAGE" value="gotowe kNN i poczatek perceptronu" />
   </component>
 </project>

@@ -1,3 +1,5 @@
+package podanieDanychZKlawiatury;
+
 import java.util.ArrayList;
 
 public class Perceptron {
@@ -37,7 +39,9 @@ public class Perceptron {
         }
         return Net;
     }
-
+    public int Klasyfikacja/*compute*/(ArrayList<Double> inputVektor) {//dla uczenia
+        return NetObliczenie(tablicaWag, inputVektor) >= prog?1:0;
+    }
     public double deltha/*learn*/(ArrayList<Double> inputVector, int answer) {//dla kazdego w train jako pierwsza -> uczenie
         int wynik = Klasyfikacja(inputVector);
         if (wynik==answer){
@@ -51,9 +55,5 @@ public class Perceptron {
 
             return Net>=prog?1:0;
         }
-    }
-
-    public int Klasyfikacja(ArrayList<Double> inputVektor) {//dla uczenia
-        return NetObliczenie(tablicaWag, inputVektor) >= prog?1:0;
     }
 }
