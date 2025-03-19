@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fceaea6-fc98-4aec-9c5d-de923ca77113" name="Changes" comment="gotowe kNN i poczatek perceptronu">
+    <list default="true" id="4fceaea6-fc98-4aec-9c5d-de923ca77113" name="Changes" comment="perceptron, dodanie danych z klawiatury">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerceptronDlaIrysowSetosaNieSetosa/Perceptron.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/podanieDanychZKlawiatury/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Perceptron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/podanieDanychZKlawiatury/Perceptron.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -41,7 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/kasia/Desktop/szkoła/Astudia/s4/NAI/Perceptron",
+    "last_opened_file_path": "C:/Users/kasia/Desktop/szkoła/Astudia/s4/NAI/Perceptron/src/PerceptronDlaIrysowSetosaNieSetosa",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +51,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kasia\Desktop\szkoła\Astudia\s4\NAI\Perceptron\src\PerceptronDlaIrysowSetosaNieSetosa" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +66,7 @@
       <updated>1742329994826</updated>
       <workItem from="1742329995839" duration="164000" />
       <workItem from="1742330226449" duration="1607000" />
-      <workItem from="1742387146350" duration="1256000" />
+      <workItem from="1742387146350" duration="2636000" />
     </task>
     <task id="LOCAL-00001" summary="gotowe kNN i poczatek perceptronu">
       <option name="closed" value="true" />
@@ -69,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742331733987</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="perceptron, dodanie danych z klawiatury">
+      <option name="closed" value="true" />
+      <created>1742388527615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742388527615</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gotowe kNN i poczatek perceptronu" />
-    <option name="LAST_COMMIT_MESSAGE" value="gotowe kNN i poczatek perceptronu" />
+    <MESSAGE value="perceptron, dodanie danych z klawiatury" />
+    <option name="LAST_COMMIT_MESSAGE" value="perceptron, dodanie danych z klawiatury" />
   </component>
 </project>
