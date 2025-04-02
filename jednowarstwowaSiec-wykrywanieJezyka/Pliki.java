@@ -21,7 +21,6 @@ public class Pliki {
             System.out.println("utworzono klucz " + f.getName() + " w mapie");
         }
 
-        System.out.println(pliki);
         // ----------------------- dodanie zawartosci -----------------------
         for(File f : tlumaczenia) {
             if (f.isDirectory()) {
@@ -31,7 +30,6 @@ public class Pliki {
                         pliki.get(f.getName()).add(zawartosc(plik));
             }
         }
-        System.out.println(pliki);
 
         return pliki;
     }

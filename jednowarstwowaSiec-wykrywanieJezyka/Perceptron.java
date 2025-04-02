@@ -22,7 +22,6 @@ public class Perceptron {
     private double alpha;
 
     public Perceptron(int dlugoscTablicaWag, double prog, double alpha) {
-        //todo napisac elegantsza definicje dlugosci tablicy
         tablicaWag = new ArrayList<>();
         for (int i = 0; i < dlugoscTablicaWag; i++) {
             tablicaWag.add(Math.random()); //losowe wartosci wag
