@@ -1,0 +1,5572 @@
+
+The Tragedy of Hamlet, Prince of Denmark
+Shakespeare homepage | Hamlet | Entire play
+ACT I
+SCENE I. Elsinore. A platform before the castle.
+FRANCISCO at his post. Enter to him BERNARDO
+BERNARDO
+Who's there?
+FRANCISCO
+Nay, answer me: stand, and unfold yourself.
+BERNARDO
+Long live the king!
+FRANCISCO
+Bernardo?
+BERNARDO
+He.
+FRANCISCO
+You come most carefully upon your hour.
+BERNARDO
+'Tis now struck twelve; get thee to bed, Francisco.
+FRANCISCO
+For this relief much thanks: 'tis bitter cold,
+And I am sick at heart.
+BERNARDO
+Have you had quiet guard?
+FRANCISCO
+Not a mouse stirring.
+BERNARDO
+Well, good night.
+If you do meet Horatio and Marcellus,
+The rivals of my watch, bid them make haste.
+FRANCISCO
+I think I hear them. Stand, ho! Who's there?
+Enter HORATIO and MARCELLUS
+
+HORATIO
+Friends to this ground.
+MARCELLUS
+And liegemen to the Dane.
+FRANCISCO
+Give you good night.
+MARCELLUS
+O, farewell, honest soldier:
+Who hath relieved you?
+FRANCISCO
+Bernardo has my place.
+Give you good night.
+Exit
+
+MARCELLUS
+Holla! Bernardo!
+BERNARDO
+Say,
+What, is Horatio there?
+HORATIO
+A piece of him.
+BERNARDO
+Welcome, Horatio: welcome, good Marcellus.
+MARCELLUS
+What, has this thing appear'd again to-night?
+BERNARDO
+I have seen nothing.
+MARCELLUS
+Horatio says 'tis but our fantasy,
+And will not let belief take hold of him
+Touching this dreaded sight, twice seen of us:
+Therefore I have entreated him along
+With us to watch the minutes of this night;
+That if again this apparition come,
+He may approve our eyes and speak to it.
+HORATIO
+Tush, tush, 'twill not appear.
+BERNARDO
+Sit down awhile;
+And let us once again assail your ears,
+That are so fortified against our story
+What we have two nights seen.
+HORATIO
+Well, sit we down,
+And let us hear Bernardo speak of this.
+BERNARDO
+Last night of all,
+When yond same star that's westward from the pole
+Had made his course to illume that part of heaven
+Where now it burns, Marcellus and myself,
+The bell then beating one,--
+Enter Ghost
+
+MARCELLUS
+Peace, break thee off; look, where it comes again!
+BERNARDO
+In the same figure, like the king that's dead.
+MARCELLUS
+Thou art a scholar; speak to it, Horatio.
+BERNARDO
+Looks it not like the king? mark it, Horatio.
+HORATIO
+Most like: it harrows me with fear and wonder.
+BERNARDO
+It would be spoke to.
+MARCELLUS
+Question it, Horatio.
+HORATIO
+What art thou that usurp'st this time of night,
+Together with that fair and warlike form
+In which the majesty of buried Denmark
+Did sometimes march? by heaven I charge thee, speak!
+MARCELLUS
+It is offended.
+BERNARDO
+See, it stalks away!
+HORATIO
+Stay! speak, speak! I charge thee, speak!
+Exit Ghost
+
+MARCELLUS
+'Tis gone, and will not answer.
+BERNARDO
+How now, Horatio! you tremble and look pale:
+Is not this something more than fantasy?
+What think you on't?
+HORATIO
+Before my God, I might not this believe
+Without the sensible and true avouch
+Of mine own eyes.
+MARCELLUS
+Nem olyan, mint a király?
+HORATIO
+Mint önmagadnak:
+Ilyen volt a páncélja,
+amikor az ambiciózus Norvégia harcolt;
+Így ráncolta a szemöldökét egyszer, amikor egy dühös szóbeszédben
+megütötte a szánkózó Polackot a jégen.
+– Furcsa.
+MARCELLUS
+Így azelőtt kétszer, és ugorj ebben a holt órában,
+harci szárral ment el az óránk mellett.
+HORATIO
+Nem tudom, milyen konkrét gondolatban dolgozzam;
+De véleményem szerint
+ez valami furcsa kitörést sejtet államunkban.
+MARCELLUS
+Jó most, ülj le, és mondd meg nekem, aki tudja,
+Miért ugyanaz a szigorú és legszembetűnőbb őrszolgálat
+Éjszakánként fáradozik a föld témáján,
+És miért ilyen naponta öntött pimasz ágyú,
+És idegen mart a hadieszközökért;
+Miért van ilyen nagy benyomás a hajógyártókra, akiknek fájó dolga
+Nem választja el a vasárnapot a héttől;
+Mi lehet az, hogy ez az izzadt sietség
+az éjszakai munkatársat a nappallá teszi:
+Ki nem tud engem tájékoztatni?
+HORATIO
+Megtehetem;
+Legalábbis a suttogás így szól. Utolsó királyunkat,
+Akinek a képmása most is feltűnt előttünk,
+a norvég Fortinbras volt, amint tudod,
+akit a legutolsó büszkeség szúrt ki,
+mert harcba szállt; amelyben vitéz Hamletünk –
+Mert ismert világunknak ez az oldala így becsülte őt –
+Megölte ezt a Fortinbrast; aki pecséttel megkötött,
+törvény és heraldika által jól megerősített,
+életével elveszítette mindazokat a földjeit,
+amelyeket elfoglalt, a hódítónak:
+Amelyek ellen egy kompetens csoportot
+a mi királyunk elzárt; amely visszakerült
+Fortinbras örökségébe,
+ha legyőzője lett volna; mivel ugyanazzal a szövetséggel,
+És az árucikk fuvarozásával
+Hamletre esett. Nos, uram, ifjú Fortinbras,
+kiforrott és jóllakott, nem fejleszthető, hol
+Norvégia szoknyájában, hol
+ott
+.
+ami nem más -
+Amint az államunknak jól látszik -
+De hogy tőlünk, erős kézzel
+és kötelező kifejezésekkel visszaszerezzen tőlünk azokat az előre megmondott földeket,
+így az apja elvesztette: és ez, úgy értem,
+készülődésünk fő indítéka,
+óránk forrása és
+ennek a sietségnek és a földön való romlásnak a fő feje.
+BERNARDO
+Azt hiszem, ez nem más, mint e'en so:
+Nos, legyen úgy, hogy ez a fergeteges alak
+felfegyverkezve érkezik az óránkból; tehát mint a király
+Ez volt és ez a kérdése ezeknek a háborúknak.
+HORATIO
+Csekély dolog, hogy zavarja az elmét.
+Róma legmagasabb és legrosszabb államában,
+Egy kicsit azelőtt leesett a leghatalmasabb Julius,
+Bérlőtlenül álltak a sírok, s a lepedős halottak
+nyikorogtak és haboztak a római utcákon:
+Mint csillagok tűzcsonkkal és vérharmatokkal,
+Katasztrófák a napon; s a nedves csillag,
+melynek hatására a Neptun birodalma áll
+Szinte végítéletig beteg volt a napfogyatkozással:
+És még a heves események előfutára is,
+Mint előhírnökei a sorsoknak,
+és a bevezető előjelnek,
+ég és föld együtt mutatta be
+éghajlatunkat és honfitársainkat
+! íme, hol jön újra!
+Lépjen be újra a Ghostba
+
+Átmegyek rajta, bár felrobban. Maradj, illúzió!
+Ha van hangod vagy hangod,
+szólj hozzám:
+Ha valami jót kell tenni,
+az megkönnyebbül és kegyelmet tesz nekem,
+Szólj hozzám:
+Kakas kukorékol
+
+Ha hazád sorsának hírében vagy,
+Melyet szerencsére az előrelátás elkerülhet, ó, beszélj!
+Vagy ha felhalmoztál életedben
+Kicsalt kincset a föld méhében,
+Amiért, mondják, ti ​​lelkek gyakran jártok a halálban,
+Beszélj róla: maradj és beszélj! Hagyd abba, Marcellus.
+MARCELLUS
+Csapjak rá a partizánommal?
+HORATIO
+Tedd meg, ha nem fog állni.
+BERNARDO
+'Itt van!
+HORATIO
+'Itt van!
+MARCELLUS
+Eltűnt!
+Lépjen ki a Ghostból
+
+Rosszul tesszük, lévén olyan fenségesek,
+hogy erőszakosságot mutatunk neki;
+Mert az, mint a levegő, sebezhetetlen,
+S a mi hiábavaló fújásunk rosszindulatú gúny.
+BERNARDO
+Már beszélni készült, amikor a kakas szólt.
+HORATIO
+És akkor kezdődött, mint egy bűnös dolog
+Egy félelmetes idézésre. Hallottam:
+A kakas, amely a hajnali trombita,
+Doth az ő magasztos és éles hangú torkával
+Ébredjen a nap istene; és figyelmeztetésére:
+Akár tengerben, akár tűzben, földben vagy levegőben,
+a pazar és tévelygő szellem
+a határaihoz vonul: és az itt lévő igazságról
+Ez a jelen tárgy próbatételt tett.
+MARCELLUS
+A kakas kukorékolásán elhalványult.
+Egyesek azt mondják, hogy „mindig eljön az az idő,
+amikor Üdvözítőnk születését ünneplik,
+a hajnal madara egész éjjel énekel:
+És akkor azt mondják, egyetlen lélek sem merészkedik kifelé;
+Az éjszakák egészségesek; akkor nem ütnek le bolygók,
+Egy tündér sem vesz el, sem a boszorkánynak nincs hatalma elbűvölni,
+Olyan megszentelt és olyan kegyes az idő.
+HORATIO
+Így hallottam, és részben el is hiszem.
+De nézd, a reggel, rozsdaszín köpenybe burkolva,
+a magas keleti domb harmatán sétál:
+Törjük össze az óráinkat; és tanácsom szerint:
+Osszuk át a ma este látottakat
+az ifjú Hamletnek; mert az én életemen
+ez a lélek, aki néma hozzánk, szólni fog hozzá.
+Beleegyezel, hogy megismertessük vele,
+Mint szerelmünkben szükséges, kötelességünkhöz illően?
+MARCELLUS
+Ne tegyük, imádkozom; és ma reggel tudom,
+hol találjuk meg a legkényelmesebben.
+Kimennek.
+
+JELENET II. Állami szoba a kastélyban.
+Lépjen be CLAUDIUS KIRÁLY, GERTRUDE KIRÁLYNŐ, HAMLET, POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, urak és kísérők
+CLAUDIUS KIRÁLY
+Bár még Hamlet, kedves testvérünk haláláról
+Legyen zöld az emlék, és illik, hogy
+szívünket viseljük a bánatban és egész országunkat,
+hogy egy szemöldökbe szoruljunk a jajnak,
+Mégis mindeddig a bölcsesség harcolt a természettel
+Hogy a legbölcsebb szomorúsággal gondoljunk rá,
+Együtt emlékezzünk önmagunkra.
+Ezért valamikor nővérünk, most királynőnk,
+ennek a harcias állapotnak a császári társnője,
+Legyőzött örömmel voltunk-e
+jókedvű és lesuhanó szemmel,
+vidámsággal a temetésben és bánattal a házasságban,
+Egyenlő mérleggel, gyönyört és áldást mérve,-- Feleségül
+vettük-e ezt a jobbat ? végig. Mindenkiért köszönet. Most következik, hogy tudod, ifjú Fortinbras, gyenge feltételezésben értékünkről, Vagy úgy gondolja, hogy néhai drága testvérünk halála Állapotunk szétesett és kereten kívül van, Előnyének álmával együttműködve, Nem mulasztotta el, hogy megzavarjon bennünket azzal az üzenettel: Importálja azoknak a földeknek az átadását, amelyeket apja vesztett el, legvitézebb testvérünkkel együtt. Ennyit róla. Most magunkról és a találkozás idejéről: Ennyi az üzlet: itt írunk Norvégiának, az ifjú Fortinbras nagybátyjának, aki impotensként és ágyonként alig hallja unokaöccse szándékát, hogy elnyomja további járását; abban, hogy az illetékek, a listák és a teljes arányok mind az ő témájából készültek: és mi itt küldünk Téged, jó Kornél, és téged, Voltimand, Az üdvözlet hordozóinak a régi Norvégiába; Nem ad további személyes hatalmat A királlyal folytatott üzlethez többet, mint amennyit ezek a részletes cikkek megengednek. Búcsúzz el, és engedd, hogy sietséged dicsérje meg kötelességedet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CORNELIUS VOLTIMAND
+Ebben és mindenben meg fogjuk mutatni kötelességünket.
+CLAUDIUS KIRÁLY
+Semmiben sem kételkedünk: szívből búcsúzunk.
+Lépjen ki a VOLTIMAND-ból és a CORNELIUS-ból.
+
+És most, Laertes, mi újság veled?
+Valami öltönyről meséltél nekünk; mi nem, Laertes?
+Nem beszélhetsz értelemről a dánnak,
+és elengeded a hangodat: mit kérnél, Laertes,
+ez nem az én ajánlatom, nem a te kérésed?
+A fej nem honosabb a szívben,
+A kéz inkább a szájban,
+mint Dánia trónja atyádnak.
+Mit akarsz, Laertes?
+LAERTES
+Rettenetes uram,
+engedelmed és kegyed, hogy visszatérj Franciaországba;
+Ahonnan, bár önként jöttem Dániába,
+hogy megmutassam kötelességemet koronázásodban,
+de most, be kell vallanom, hogy kötelességem teljesítve,
+gondolataim és kívánságaim ismét Franciaország felé hajlanak
+, és meghajolnak kegyes búcsúd és bocsánatod előtt.
+CLAUDIUS KIRÁLY
+Apád szabadsága van? Mit mond Polonius?
+POLONIUS ÚR
+Fáradságos könyörgéssel megvonta tőlem, uram, lassú búcsúmat
+, és végre
+az ő akaratára megpecsételtem kemény beleegyezésemet:
+Kérlek, engedj neki, hogy elmenjen.
+CLAUDIUS KIRÁLY
+Fogadd el szép órádat, Laertes; időd legyen tiéd,
+S legjobb kegyelmed akaratod szerint töltsék!
+De most, az unokatestvérem, Hamlet és a fiam...
+HAMLET
+[Félre] Kicsit több, mint rokon, és kevesebb, mint kedves.
+CLAUDIUS KIRÁLY
+Hogy lehet, hogy még mindig rajtad lógnak a felhők?
+HAMLET
+Nem úgy, uram; Túl sok vagyok én a napnak.
+GERTRÚD KIRÁLYNŐ
+Jó Hamlet, vesd le éjszakai színedet,
+és nézz úgy, mint egy barát Dániában.
+Ne örökké fátyolos fedeleddel
+Keresd nemes atyádat a porban:
+Tudod, hogy ez gyakori; mindennek, ami él, meg kell halnia,
+áthaladva a természeten az örökkévalóságba.
+HAMLET
+Igen, hölgyem, ez általános.
+GERTRÚD KIRÁLYNŐ
+Ha igen,
+miért tűnik ez neked olyan különlegesnek?
+HAMLET
+Úgy tűnik, asszonyom! nem az; Tudom, hogy nem „úgy tűnik”.
+„Nem ez az egyedüli tintás köpenyem, jó anyám,
+sem a szokványos, ünnepélyes fekete öltönyök,
+sem az erőltetett lehelet szeles lélegzete,
+nem, sem a gyümölcsöző folyó a szemben,
+sem a levert „arckép, a
+gyász minden formájával, hangulatával, alakjával együtt,
+ami engem jelölhet igazán: ezek a
+tettek valóban
+úgy tűnnek, mintha egy ember játszhatna benne :
+Ezek csak a csapdák és a jaj öltönyei.
+CLAUDIUS KIRÁLY
+'Tis sweet and commendable in your nature, Hamlet,
+To give these mourning duties to your father:
+But, you must know, your father lost a father;
+That father lost, lost his, and the survivor bound
+In filial obligation for some term
+To do obsequious sorrow: but to persever
+In obstinate condolement is a course
+Of impious stubbornness; 'tis unmanly grief;
+It shows a will most incorrect to heaven,
+A heart unfortified, a mind impatient,
+An understanding simple and unschool'd:
+For what we know must be and is as common
+As any the most vulgar thing to sense,
+Why should we in our peevish opposition
+Take it to heart? Fie! 'tis a fault to heaven,
+A fault against the dead, a fault to nature,
+To reason most absurd: whose common theme
+Is death of fathers, and who still hath cried,
+From the first corse till he that died to-day,
+'This must be so.' We pray you, throw to earth
+This unprevailing woe, and think of us
+As of a father: for let the world take note,
+You are the most immediate to our throne;
+And with no less nobility of love
+Than that which dearest father bears his son,
+Do I impart toward you. For your intent
+In going back to school in Wittenberg,
+It is most retrograde to our desire:
+And we beseech you, bend you to remain
+Here, in the cheer and comfort of our eye,
+Our chiefest courtier, cousin, and our son.
+QUEEN GERTRUDE
+Let not thy mother lose her prayers, Hamlet:
+I pray thee, stay with us; go not to Wittenberg.
+HAMLET
+I shall in all my best obey you, madam.
+KING CLAUDIUS
+Why, 'tis a loving and a fair reply:
+Be as ourself in Denmark. Madam, come;
+This gentle and unforced accord of Hamlet
+Sits smiling to my heart: in grace whereof,
+No jocund health that Denmark drinks to-day,
+But the great cannon to the clouds shall tell,
+And the king's rouse the heavens all bruit again,
+Re-speaking earthly thunder. Come away.
+Exeunt all but HAMLET
+
+HAMLET
+Ó, bárcsak ez a túl szilárd hús is felolvadna
+, és harmattá oldódna!
+Vagy hogy az Örökkévaló nem javította
+kánonját az öngyilkosság ellen! Istenem! Isten!
+Milyen fáradt, ócska, lapos és veszteséges,
+úgy tűnik számomra, e világ minden haszna!
+Nyugi! ah szia! ' ez egy gyomtalanított kert,
+amely magva nő; a természetben rangos és durva dolgok
+csak birtokolják. Hogy idáig el kell jönnie!
+De két hónap halott: nem, nem annyira, nem is kettő:
+Olyan kiváló király; ez volt ehhez:
+Hyperion egy szatírnak; annyira szereti anyámat
+, hogy ne birja az ég szelét
+Látogassa meg az arcát túl durván. Ég és föld!
+Muszáj emlékeznem? miért, lógna rajta,
+Mintha nőtt volna az étvágy
+attól, amiből táplálkozott: és mégis, egy hónapon belül –
+Hadd ne gondoljak rá – Gyenge, nő a neved! –
+Egy kis hónap, vagy régen voltak azok a cipők,
+amelyekkel követte szegény apám testét,
+mint Niobe, minden könnycsepp: – ó, Istenem, még ő is
+! vadállat, amely az ész beszédét akarja,
+tovább gyászolna - férjhez ment volna a nagybátyámhoz,
+Apám bátyjához, de nem olyan, mint apám,
+mint én Herkuleshez: egy hónapon belül:
+Mégis a legigazságtalanabb könnyek sója
+Hagyta epedő szemében a kipirulást,
+férjhez ment. Ó, leggonoszabb gyorsaság, hogy
+ilyen ügyességgel posztolj vérfertőző lapokra!
+Nem jó, és nem is jöhet jóra:
+De törd össze szívem; mert fognom kell a nyelvem.
+Írja be HORATIO, MARCELLUS és BERNARDO
+
+HORATIO
+Üdvözlet uraságodnak!
+HAMLET
+Örülök, hogy jól látlak:
+Horatio, vagy elfelejtem magam.
+HORATIO
+Ugyanaz, uram, és a te szegény szolgád mindig.
+HAMLET
+Uram, jó barátom; Megváltoztatom veled ezt a nevet:
+És mitől vagy Wittenbergből, Horatio? Marcellus?
+MARCELLUS
+jó uram...
+HAMLET
+Nagyon örülök, hogy látlak. Még jó, uram.
+De mitől származol a hitből Wittenbergből?
+HORATIO
+Egy iskolakerülő hajlam, jó uram.
+HAMLET
+Nem hallanám, hogy ellenséged ezt mondaná,
+És te se tedd az én fülemet, hogy erőszakoskodj,
+Hogy a saját jelentésed megbízója legyen
+Önmagad ellen: Tudom, hogy nem vagy iskolakerülő.
+De mi a viszonyod Elsinore-ban?
+Megtanítunk mélyeket inni, mielőtt elindulsz.
+HORATIO
+Uram, azért jöttem, hogy megnézzem az apja temetését.
+HAMLET
+Kérlek, ne csúfolj, diáktárs;
+Azt hiszem, látni akartam anyám esküvőjét.
+HORATIO
+Valóban, nagyuram, ez keményen követte.
+HAMLET
+Takarékosság, takarékosság, Horatio! a temetési sült húsok
+Hidegen kiterítették a házassági asztalokat.
+Találkoztam volna a legkedvesebb ellenségemmel a mennyben,
+vagy valaha láttam volna aznap, Horatio!
+Apám! -- azt hiszi, látom az apámat.
+HORATIO
+Hol, uram?
+HAMLET
+Az én lelki szemeimben, Horatio.
+HORATIO
+Egyszer láttam őt; jó király volt.
+HAMLET
+Férfi volt, mindent egybevéve,
+nem nézek többé hasonlóra.
+HORATIO
+Uram, azt hiszem, láttam őt tegnap este.
+HAMLET
+Fűrész? WHO?
+HORATIO
+Uram, a király, a te apád.
+HAMLET
+A király az apám!
+HORATIO
+Édesítsd meg csodálatodat
+egy darabig figyelmes füllel, amíg meg nem tudom adni,
+ezeknek az uraknak tanúsága szerint
+ez a csoda számodra.
+HAMLET
+Isten szeretetére, hadd halljam.
+HORATIO
+Két együtt töltött éjszakán ezek az urak,
+Marcellus és Bernardo őrködtek.
+A halott hatalmasban és az éjszaka közepén
+így találkoztak. Egy alak, mint az apád,
+Pontosan felfegyverkezve, sapka-a-pe,
+Megjelenik előttük, és ünnepélyes menettel
+Lassan és méltóságteljesen halad mellettük: háromszor járt
+elnyomott és félelemtől meglepett szemük mellett,
+gumibot hosszában; mialatt ők
+a félelemtől szinte kocsonyává desztillálva
+álljanak némán, és ne beszéljenek vele. Ezt nekem
+rettenetes titoktartással tették;
+És én velük tartottam harmadik éjjel az őrséget;
+Ahol, ahogy ők szállították, mind az időben,
+A dolog formája, minden szó igaz és jó,
+Jön a jelenés: Ismertem apádat;
+Ezek a kezek nem olyanok.
+HAMLET
+De hol volt ez?
+MARCELLUS
+Uram, azon az emelvényen, ahol néztük.
+HAMLET
+nem szóltál hozzá?
+HORATIO
+Uram, megtettem;
+De a válasz nem tette semmivé: egyszer mégis arra gondolt,
+hogy felemelte a fejét, és
+mozgáshoz fordult, mintha beszélne;
+De akkor is hangosan szólt a hajnali kakas,
+és a hangra sietve összezsugorodott,
+és eltűnt szemünk elől.
+HAMLET
+Nagyon furcsa.
+HORATIO
+Ahogy élek, tisztelt uram, ez igaz;
+És úgy gondoltuk, hogy kötelességünk
+tudatni veled.
+HAMLET
+Valóban, valóban, uraim, de ez zavar engem.
+Ma éjjel tartod az órát?
+MARCELLUS BERNARDO
+Igen, uram.
+HAMLET
+Armod, mondod?
+MARCELLUS BERNARDO
+Arm'd, uram.
+HAMLET
+Tetőtől talpig?
+MARCELLUS BERNARDO
+Uram, tetőtől talpig.
+HAMLET
+Akkor nem láttad az arcát?
+HORATIO
+Ó, igen, uram; hordta a hódját.
+HAMLET
+Mi van, nézett ráncolva a homlokát?
+HORATIO
+Inkább szomorúság, mint harag.
+HAMLET
+Sápadt vagy vörös?
+HORATIO
+Nem, nagyon sápadt.
+HAMLET
+És rád szegezte a tekintetét?
+HORATIO
+Leginkább állandóan.
+HAMLET
+bár ott lettem volna.
+HORATIO
+Nagyon meglepett volna.
+HAMLET
+Nagyon tetszik, nagyon tetszik. Sokáig maradt?
+HORATIO
+Míg egy mérsékelt sietséggel százat is elmondhat.
+MARCELLUS BERNARDO
+Hosszabb, hosszabb.
+HORATIO
+Nem amikor nem láttam.
+HAMLET
+A szakálla zsörtölődött – nem?
+HORATIO
+Ez volt, ahogy életében láttam,
+ezüstözött sable.
+HAMLET
+Ma este megnézem;
+Valószínűleg újra járni fog.
+HORATIO
+Garantálom, hogy lesz.
+HAMLET
+Ha nemes atyám személyét ölti,
+beszélek hozzá, bár magának a pokolnak kellene tátongania,
+és megkér, hogy maradjak csendben. Könyörgök mindnyájatokhoz,
+ha eddig titkolta ezt a látványt,
+legyen tartható csendben még;
+És bármi más is lesz ma este,
+Adj neki értelmet, de ne beszélj:
+viszonzom a szerelmedet. Szóval jól jársz:
+a peronon, tizenegy és tizenkettő között,
+meglátogatlak.
+Minden
+Kötelességünk a becsületed iránt.
+HAMLET
+Szerelmeid, mint az enyém neked: búcsú.
+Lépjen ki mindenből, kivéve HAMLET-et.
+
+Apám szelleme karban! nincs minden rendben;
+Kétlem, hogy valami szabálytalanság történt volna: eljönne az éjszaka!
+Addig ülj le, lelkem: gonosz tettek támadnak,
+bár az egész föld elárasztja őket, az emberek szemébe.
+Kijárat
+
+JELENET III. Egy szoba Polonius házában.
+Lépjen be LAERTES-be és OPHELIA-ba
+LAERTES
+Beszállnak a szükségleteim: búcsú:
+És húgom, ahogy a szelek hasznot adnak
+És konvoj segéd, ne aludj,
+De hadd halljam.
+OPHELIA
+Kételkedsz ebben?
+LAERTES
+Hamletnek és kegyeinek csekélységéért,
+Tartsd divatnak és játéknak a vérben,
+Ibolya az őstermészet fiatalságában,
+Előre, nem állandó, édes, nem tartós,
+Egy perc illata és ellátása; Nincs több.
+OPHELIA
+Nem több, de így?
+LAERTES
+Ne gondold tovább;
+Mert a természet, a félhold, nem növekszik egyedül,
+zúzmarában és tömegben, hanem ahogy ez a templom gyarapodik,
+az elme és a lélek belső szolgálata
+szélesedik vele. Lehet, hogy most szeret téged,
+és most sem föld, sem gond nem mocskolja be
+akaratának erényét: de félned kell,
+az ő nagysága meg van mérve, akarata nem az övé;
+Hiszen ő maga is alá van vetve születésének:
+Nem
+faraghat magának, mint az értéktelen személyek; mert választásától függ
+ennek az egész államnak a biztonsága és egészsége;
+És ezért választását
+annak a testnek a hangjára és engedésére kell korlátozni
+, amelynek ő a feje. Aztán ha azt mondja, hogy szeret téged,
+eddigi bölcsességedhez illik, hogy elhiggyed,
+ahogy ő adott cselekedetében és helyén
+megadhatja mondó tettét; ami nincs messzebb
+, mint Dánia fő hangja megy vele.
+Akkor mérlegeld, milyen veszteséget szenvedhet el becsületed,
+Ha túl hiteles füllel sorolod a dalait,
+vagy elveszíted a szívedet, vagy tisztességes kincsed nyílik meg
+az ő mestertelen keservének.
+Félj tőle, Ophelia, félj tőle, kedves nővérem,
+és tarts meg szereteted hátterében,
+távol a vágy lövésétől és veszélyétől.
+Elég tékozló a cselédlány,
+ha leleplezi szépségét a hold előtt:
+Az erény maga 'megmenekül, nem a rágalmazó ütések:
+A rák epekedik a tavasz csecsemőire,
+Túl gyakran, mielőtt a gombjaik megjelennének,
+És a fiatalság reggelén és folyékony harmatában
+A fertőző robbanások a legközvetlenebbek.
+Akkor légy óvatos; A legjobb biztonság a félelemben rejlik:
+A fiatalság önmagáért lázad, bár nincs más a közelben.
+OPHELIA
+Megőrzöm ennek a jó leckének a hatását,
+mint őrt szívemnek. De jó testvérem,
+ne
+mutasd meg nekem a mennybe vezető meredek és tüskés utat, mint némely kegyetlen pásztor;
+Miközben, mint egy felfuvalkodott és vakmerő libertinus,
+maga járja a tréfás kankalin ösvényét,
+S nem a saját redejét számolja.
+LAERTES
+Ó, ne félj tőlem.
+Túl sokáig maradok: de itt jön az apám.
+Írja be a POLONIUS-t
+
+A kettős áldás kettős kegyelem,
+Alkalom mosolyog a második szabadságon.
+POLONIUS ÚR
+Mégis itt, Laertes! fedélzetre, fedélzetre, szégyenért!
+A szél a vitorlád vállában ül,
+és kitartasz. Ott; áldásom veled!
+És ez a néhány előírás az emlékezetedben
+Lásd te jellemet. Ne adj nyelvet gondolataidnak,
+se aránytalan gondolatoknak a tetteit.
+Legyen ismerős, de semmiképpen ne vulgáris.
+Azok a barátaid, akik megvannak, és az örökbefogadásuk megpróbálkozott,
+Ragadd le őket acélkarikákkal a lelkedre;
+De ne tompítsd el a tenyeredet
+minden újonnan kikelt, kibontakozó elvtárs szórakoztatásával. Óvakodj
+a veszekedéstől, de ha benne vagy,
+ne tartsd, hogy az ellenfél óvakodjon tőled.
+Mindenki hallgassa fülét, de kevesen a te hangodat;
+Fogadd el mindenki szidalmazását, de tartsd fenn az ítéletedet.
+Drága a szokásod, mint amennyire a pénztárcád megveheti,
+de nem fejezed ki képzeletben; gazdag, nem rikító;
+Mert a ruházat gyakran a férfit hirdeti,
+és Franciaországban a legjobb rangú és státuszúak
+ebben a legválogatottabb és legnagylelkűbb főnökök.
+Sem hitelfelvevő, sem hitelező nem lehet;
+Mert a kölcsön gyakran elveszíti önmagát és barátját is,
+a kölcsönfelvétel pedig eltompítja a gazdálkodás szélét.
+Ez mindenekelőtt: önmagadhoz legyen igaz,
+és ebből kell következnie, mint az éjszaka a nappal,
+akkor nem lehetsz hamis senkivel szemben.
+Búcsú: áldásom ez a szezon benned!
+LAERTES
+A legalázatosabb búcsút veszem, uram.
+POLONIUS ÚR
+Az idő meghív; megy; szolgáid hajlamosak.
+LAERTES
+Viszlát, Ophelia; és jól emlékezz
+arra, amit mondtam neked.
+OPHELIA
+Ez az emlékezetemben zárva van,
+és a kulcsát magának kell megtartania.
+LAERTES
+Búcsú.
+Kijárat
+
+POLONIUS ÚR
+Mit nem mondott neked, Ophelia?
+OPHELIA
+Szóval kérlek, valami, ami megérinti Hamlet urat.
+POLONIUS ÚR
+Házasodj meg, jól meggondolva:
+„Azt mondta nekem, hogy nagyon gyakran kapott
+magánidőt önnek; és te magad
+A közönséged közül a legszabadabb és legbőkezűbb voltál:
+Ha ez így van, ahogy rám rónak,
+és óvatosságból meg kell mondanom neked, hogy
+nem érted meg magad olyan tisztán,
+ahogy az az én lányomnak és a te becsületednek illik.
+mi van köztetek? add fel az igazat.
+OPHELIA
+Uram, az utóbbi időben sok
+szeretettel folyamodott hozzám.
+POLONIUS ÚR
+Szeretet! micimackó! úgy beszélsz, mint egy zöld lány,
+nem szitálva ilyen veszélyes körülmények között.
+Hiszel az ajánlatainak, ahogy nevezed?
+OPHELIA
+Nem tudom, uram, mit gondoljak.
+POLONIUS ÚR
+Házasodj meg, megtanítalak: gondold magad babának;
+Hogy van ta'en ezeket a pályázatokat valódi fizetésért,
+amelyek nem fontok. Kíméli magát drágábban;
+Vagy – hogy ne törje fel a szelet a szegényes kifejezésnek,
+így futva – bolonddá teszel.
+OPHELIA
+Uram, szeretettel , tiszteletreméltó módon behozott engem .
+
+POLONIUS ÚR
+Igen, divatnak nevezheted; megy, megy.
+OPHELIA
+És arcot adott beszédének, uram,
+az ég szinte minden szent fogadalmával.
+POLONIUS ÚR
+Igen, rugók az erdei kakasok fogásához. Tudom én,
+Mikor ég a vér, milyen tékozló lélek
+Nyelvet kölcsönöz fogadalmak: e lángok, leányom,
+Több fényt adva, mint meleget, kialudva mindkettőben,
+Ígéretükben is, mint a-csinálás,
+Nem szabad tűznek venni. Ettől az időtől fogva
+légy némileg szűkölködő leánykori jelenlétedről;
+Állítsa be a kéréseit magasabb ütemre,
+mint egy parley parancs. Mert Hamlet Uram,
+annyira higgy benne, hogy fiatal
+És nagyobb kötéllel járjon,
+mint amennyi neked adatik: kevésben, Ophelia,
+ne higgy fogadalmának; mert brókerek,
+nem annak a festéknek, amit a befektetéseik mutatnak,
+hanem pusztán szentségtelen öltönyök kérői,
+úgy lélegznek, mint a megszentelt és jámbor csattanók,
+Jobban elcsábítani. Ez mindenkinek szól:
+világosan fogalmazva, innentől kezdve nem akarom, hogy
+szabadidőben olyan rágalmazzon,
+hogy szót adjon vagy beszéljen Hamlet Úrral.
+Ne figyelj, megkérlek: jöjjön a maga útja.
+OPHELIA
+Engedelmeskedni fogok, uram.
+Kimennek.
+
+JELENET IV. A platform.
+Írja be HAMLET, HORATIO és MARCELLUS
+HAMLET
+A levegő ravaszul harap; nagyon hideg van.
+HORATIO
+Ez egy csípős és mohó levegő.
+HAMLET
+Most hány óra?
+HORATIO
+Szerintem tizenkettő hiányzik belőle.
+HAMLET
+Nem, el van ütve.
+HORATIO
+Valóban? Nem hallottam: akkor közeledik az évszak
+, amelyben a szellem járni akart.
+Trombiták virágzása, és lövedékek lőttek ki belülről
+
+Mit jelent ez, uram?
+HAMLET
+A király felébred ma éjjel, és felkelt,
+megtartja a vitorlát és a feltörő tavaszi orsókat;
+És amint leereszti a rajnai hordókat,
+a kancsódob és a trombita így sugározza
+zálogának diadalát.
+HORATIO
+Ez szokás?
+HAMLET
+Igen, házasodj meg, nem:
+De az én elmém szerint, bár itt vagyok bennszülött
+És a megszületett modor szerint ez a szokás
+Inkább a megszegés, mint a betartás.
+Ez a nehézfejű mulatság keleten és nyugaton
+más nemzetektől levezetett és megadóztat bennünket:
+Részegeket csepegtetnek, és a
+Soil szóval a mi kiegészítésünk; és valóban eléri
+eredményeinket, jóllehet magasan teljesítjük,
+tulajdonságunk magját és velőjét.
+Tehát gyakran előfordul, hogy különösen az emberek,
+hogy a természet valamilyen gonosz vakondja bennük,
+Mint születésükkor – amiben nem vétkesek,
+mivel a természet nem tudja megválasztani eredetét –
+némi arcbőr kifejlődése miatt,
+gyakran lerombolva az értelem sápadtságát és erődítményeit,
+vagy valami olyan szokás miatt, hogy túlságosan is
+kovászos modorokat
+alakítok ki, Egy hiba bélyegét,
+Mivel a természet színe, vagy a szerencse csillaga, -
+Más erényeik - legyenek olyan tiszták, mint a kegyelem,
+Bármilyen végtelen, amilyennek az ember áteshet
+- Az általános bírálat elveszi a korrupciót
+attól a bizonyos hibától: az eale drámája
+a kétség minden nemes anyagát
+a saját botrányára teszi.
+HORATIO
+Nézd, uram, jön!
+Lépjen be a Ghostba
+
+HAMLET
+Az angyalok és a kegyelem szolgái védelmezzenek minket!
+Légy te az egészség szelleme vagy a rohadt kobold,
+Hozz magaddal levegőt a mennyből vagy robbanást a pokolból,
+Legyél gonosz vagy jótékony szándékod,
+Olyan megkérdőjelezhető formában jössz
+, hogy szólok hozzád: Hamletnek hívlak,
+király, atyám, királyi dán: Ó, válaszolj!
+Hadd ne törjek ki a tudatlanságból; de mondd el, hogy miért törték szét
+a te szentté avatott csontjaidat, akik meghaltak a halálban ;
+miért a sír,
+melyben láttunk némán megbújni,
+Kinyitotta nehéz és márvány állkapcsait,
+hogy újra feldobjon. Mit jelenthet ez,
+Hogy te, döglött, újra teljes acélban
+.
+és mi, a természet bolondjai
+Olyan szörnyű, hogy megrázzuk hajlamunkat
+Lelkünk által elérhetetlen gondolatokkal?
+Mondd, miért van ez? miért? mit tegyünk?
+Szellem int HAMLET
+
+HORATIO
+Arra int, hogy menj el vele,
+Mintha
+csak rád vágyna valami rész.
+MARCELLUS
+Nézze, milyen udvarias cselekedettel
+int egy távolabbi földre:
+De ne menj vele.
+HORATIO
+Nem, semmiképpen.
+HAMLET
+Nem fog beszélni; akkor követni fogom.
+HORATIO
+Ne, uram.
+HAMLET
+Miért, mitől kell félni?
+Nem tűzöm ki az életemet gombostűdíjba;
+És a lelkemnek mit tehet ezzel,
+hogy olyan halhatatlan, mint önmaga?
+Megint integet: követni fogom.
+HORATIO
+Mi van, ha az árvíz felé csábít, uram,
+vagy a szikla rettenetes csúcsára,
+amely a tengerbe bogarazza alapját,
+és ott valami más szörnyű alakot ölt,
+amely megfosztja az ész szuverenitását
+, és az őrületbe vonja? Gondolj csak bele:
+A hely a kétségbeesés játékait helyezi el,
+több indíték nélkül minden agyba,
+amely oly sok ölnyire néz a tenger felé,
+és hallja, ahogy zúg alatta.
+HAMLET
+Még mindig integet.
+Folytasd; Követni foglak.
+MARCELLUS
+Nem fogsz elmenni, uram.
+HAMLET
+Tartsa le a kezét.
+HORATIO
+uralkodni kell; nem fogsz menni.
+HAMLET
+Sorsom kiált,
+és minden apró artériát e testben
+olyan szívóssá tesz, mint a nemeai oroszlán idege.
+Még mindig hívnak. Oldja ki a kezemet, uraim.
+Az égre, szellemet csinálok belőle, aki megengedi!
+Mondom, el! Folytasd; Követni foglak.
+Lépj ki a Ghostból és a HAMLET-ből.
+
+HORATIO
+Kétségbeesett a képzelete.
+MARCELLUS
+Kövessük; így nem illik engedelmeskedni neki.
+HORATIO
+Legyen utána. Milyen kérdéshez fog ez jönni?
+MARCELLUS
+Valami elromlott Dánia államban.
+HORATIO
+Az ég irányítja.
+MARCELLUS
+Nem, kövessük őt.
+Kimennek.
+
+V. JELENET. Az emelvény másik része.
+Lépjen be a GHOST-ba és a HAMLET-be
+HAMLET
+Hova vezetsz engem? beszél; Nem megyek tovább.
+Szellem
+Jelölj meg.
+HAMLET
+megteszem.
+Szellem
+Mindjárt eljött az én órám,
+Mikor kénköves és gyötrő lángoknak
+kell feladnom magam.
+HAMLET
+Jaj, szegény szellem!
+Szellem
+Ne sajnálj, hanem kölcsönözd komoly hallásodat
+annak, amit ki fogok bontani.
+HAMLET
+Beszél; köteles hallani.
+Szellem
+Tehát bosszút állsz, ha hallod.
+HAMLET
+Mi?
+Szellem
+Én vagyok atyád szelleme,
+Egy bizonyos időre elítéltem, hogy éjszaka járjak,
+és a nappal tűzben böjtöljön,
+amíg a természet napjaiban elkövetett gonosz bűnöket
+meg nem égetik és megtisztítják. De hogy tilos
+elárulnom börtönöm titkait,
+kibontakozhatnék egy mese, melynek legkönnyebb szava
+megboronázná lelkedet, megfagyasztaná ifjú véredet,
+Két szemed, mint a csillagok, kiinduljon a gömbökből,
+Csomós és kombinált tincseid váljanak szét
+, és minden egyes szőrszála felálljon,
+Mint tolltollak a bosszankodó fülre
+és
+fülre : vér. Lista, lista, ó, lista!
+Ha valaha is szeretted drága apádat...
+HAMLET
+Istenem!
+Szellem
+Bosszút álljon a csúnya és legtermészetellenesebb gyilkosságáért.
+HAMLET
+Gyilkosság!
+Szellem
+Gyilkosság a legrosszabb, ahogy a legjobb is;
+De ez a legrosszabb, furcsa és természetellenes.
+HAMLET
+Siess, hogy ne tudjam, hogy én, olyan gyors szárnyakkal,
+mint a meditáció vagy a szerelem gondolatai,
+bosszúmra söpörhetek.
+Szellem
+találónak talállak;
+És tompábbnak kell lenned, mint a kövér gaz,
+amely könnyedén gyökerezik a Lethe rakparton,
+nem keveredsz-e ebbe. Most, Hamlet, hallgasd meg:
+'Az adatott, hogy a gyümölcsöskertemben aludva
+egy kígyó csípett meg; így Dánia egész füle
+halálom kovácsolt folyamata által
+Rendesen bántalmazott: de tudd meg, te nemes ifjú,
+A kígyó, aki megszúrta atyád életét,
+most hordja koronáját.
+HAMLET
+Ó, prófétai lelkem! A nagybátyám!
+Szellem
+Ó, az a vérfertőző, az a hamisított vadállat,
+boszorkányságával, áruló ajándékokkal, - Ó, gonosz ész
+és ajándékok, amelyeknek ereje van
+elcsábítani! - megnyerte szégyenletes vágyát
+. Tőlem, akinek szeretete olyan méltóság volt , hogy ez kéz a kézben járt még a házasságban neki tett fogadalommal is, és megtagadni egy nyomorulton, akinek természeti adottságai szegényesek Az enyéimnek! De az erény, ahogy soha meg nem mozdul, Bár a sivárság mennyország alakjában udvarol neki, Így a vágy, bár egy sugárzó angyalhoz kötődik, Mennyei ágyba ül, és szemetet zsákmányol. De puha! azt hiszi, illatozom a reggeli levegőt; Hadd legyek röviden. Gyümölcsöskertemben alszom, Délutáni szokásom, Biztonságos órámon nagybátyád lopott, Ákos hebenon levével fiolában, és fülem tornáczába öntötte a leprás párlatot; kinek hatása olyan ellenségeskedést tart az embervérrel, amely sebesen, mint az ezüstös, áthalad a test természetes kapuin és sikátorain, és hirtelen lendülettel árasztja a túrót, mint lelkes ürüléket a tejbe, A híg és egészséges vért: így járt az enyém; És a legazonnalibb tetter ugatott, A leglazarszerűbb, aljas és utálatos kéreggel, Egész sima testem. Így aludtam, egy testvér keze által Az élet, a korona, a királyné, azonnal elküldve: Levágott még bűnöm virágaiban is, Házatlan, csalódott, unanel'd, Nem történt számonkérés, de számlámra küldték minden tökéletlenségemmel a fejemen: Ó, szörnyű! Ó, szörnyű! legszörnyűbb! Ha természet van benned, ne viseld el; Ne legyen Dánia királyi ágya a luxus és az átkozott vérfertőzés kanapéja. De akárhogyan is folytatod ezt a cselekedetet, ne rontsd elmédet, és ne hagyd, hogy lelked harcoljon anyád ellen: hagyd őt az égre, és azoknak a töviseknek, amelyek keblében laknak, hogy megszurkálja és szúrja. Jobbulást egyszerre! Az izzóféreg megmutatja a matint, hogy közel van, És 'gins elhalványítja hatástalan tüzét: Adieu, adieu! Hamlet, emlékezz rám.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kijárat
+
+HAMLET
+Ó, a menny minden serege! ó föld! mi mást?
+És párosítsak a pokolba? Ó, fia! Tarts, tarts, szívem;
+És ti, inaim, nem azonnal öregszetek meg,
+hanem mereven viseljetek. Emlékezz rád!
+Igen, te szegény szellem, míg az emlékezet helyet foglal
+ezen a szétszórt földgömbön. Emlékezz rád!
+Igen, emlékezetem asztaláról
+letörlök minden csekély mértékű feljegyzést,
+minden könyvfűrészt, minden formát, minden múltbeli nyomást,
+azt a fiatalságot és megfigyelést, amit odamásoltak;
+És a te parancsod egymaga élni fog
+agyam könyvében és kötetében,
+összekeverve az alacsonyabb rendű anyagokkal: igen, az ég által!
+Ó, legveszedelmesebb nő!
+Ó gazember, gazember, mosolygós, átkozott gazember!
+Az én asztalaim, találkozzunk vele, leraktam,
+hogy mosolyogjon, mosolyogjon, és gazember legyen;
+Legalábbis Dániában biztos vagyok benne, hogy így van:
+Írás
+
+Szóval, bácsi, itt vagy. Most szavamra;
+Ez a 'Viszont, adieu! emlékezz rám.
+Megesküdtem, hogy nem.
+MARCELLUS HORATIO
+[Belül] Uram, uram...
+MARCELLUS
+[Belül] Lord Hamlet,...
+HORATIO
+[Belül] Az ég óvja őt!
+HAMLET
+Így legyen!
+HORATIO
+[Belül] Hillo, ho, ho, uram!
+HAMLET
+Szia, ho, ho, fiú! gyere, madár, gyere.
+Írja be HORATIO és MARCELLUS
+
+MARCELLUS
+Hogy nem, nemes uram?
+HORATIO
+Mi újság, uram?
+HAMLET
+Ó, csodálatos!
+HORATIO
+Jó, uram, mondd el.
+HAMLET
+Nem; majd felfedi.
+HORATIO
+Nem én, uram, az ég által.
+MARCELLUS
+Én sem, uram.
+HAMLET
+Hogy mondod akkor; gondolná az ember szíve egyszer?
+De titokban maradsz?
+HORATIO MARCELLUS
+Ó, az égre, uram.
+HAMLET
+Nem lakik gazember egész Dániában,
+de ő egy ügyes gazember.
+HORATIO
+Nincs szükség szellemre, uram, jöjjön ki a sírból,
+hogy ezt elmondja nekünk.
+HAMLET
+Miért, ugye; neked van igazam;
+Ezért minden további körülmény nélkül
+tartom szükségesnek, hogy kezet fogunk és elváljunk egymástól:
+Te, mint dolgod és vágyad, mutasd meg;
+Mert minden embernek van dolga és vágya,
+olyan, amilyen; és az én szegényemre nézve:
+Nézzétek, elmegyek imádkozni.
+HORATIO
+Ezek csak vad és kavargó szavak, uram.
+HAMLET
+Sajnálom, hogy megbántottak, szívből;
+Igen, szívből hitt.
+HORATIO
+Nincs sértés, uram.
+HAMLET
+Igen, Saint Patricktól, de van, Horatio,
+és sok sértés is. Megérintve ezt a látomást,
+ez egy őszinte kísértet, és hadd mondjam el:
+A vágyad miatt, hogy megtudd, mi van közöttünk,
+ó'ermaster 'nem akar. És most, jó barátok,
+mint barátok, tudósok és katonák vagytok,
+tegyetek egy rossz kérést.
+HORATIO
+Mi nem, uram? fogunk.
+HAMLET
+Soha ne áruld el, mit láttál ma este.
+HORATIO MARCELLUS
+Uram, nem fogjuk.
+HAMLET
+Nem, de ne esküdj meg.
+HORATIO
+Hitben,
+Uram, nem én.
+MARCELLUS
+Én sem, uram, hitben.
+HAMLET
+A kardomra.
+MARCELLUS
+Már megesküdtünk, uram.
+HAMLET
+Valóban, a kardomon, valóban.
+Szellem
+[Alul] Esküdj.
+HAMLET
+Ah, ha, fiú! ezt mondod? ott vagy,
+truepenny?
+Gyerünk... hallod ezt a fickót a pincében...
+Beleegyezés az esküdéshez.
+HORATIO
+Javasolja az esküt, uram.
+HAMLET
+Soha ne beszélj erről, amit láttál,
+esküdj a kardomra.
+Szellem
+[Alul] Esküdj.
+HAMLET
+Hic et ubique? akkor áthelyezzük a terepet.
+Jöjjetek, uraim,
+és tegyétek újra kezeteket kardomra:
+Soha ne beszéljetek erről, amit hallottatok,
+esküdjetek kardomra.
+Szellem
+[Alul] Esküdj.
+HAMLET
+Jól mondod, vén vakond! nem tudok ilyen gyorsan dolgozni a földön?
+Méltó úttörő! Még egyszer távolítsd el, jó barátok.
+HORATIO
+Ó éjjel-nappal, de ez csodálatosan furcsa!
+HAMLET
+És ezért idegenként üdvözölje.
+Több dolog van égen és földön, Horatio,
+mint amennyiről filozófiádban álmodoztál. De gyere;
+Itt, mint azelőtt, soha, hát segíts kegyelmet,
+milyen furcsát vagy furcsát viselek el magam,
+Amint talán a későbbiekben is azt hiszem, találkozom
+, hogy antik hajlamot öltsek magamra,
+Hogy ilyenkor látva engem, soha ne,
+így megterhelt fegyverekkel, vagy ez a fejrázás,
+vagy valami kétes mondat kiejtésével,
+ha tudnánk, vagy tudnánk, "
+Vagy "Ha azt akarjuk, hogy beszéljünk" vagy "Lenne, és ha lehetne"
+Vagy ilyen kétértelmű kiadás, hogy megjegyezzem,
+hogy semmit sem tudsz rólam: ezt nem szabad megtenni,
+Tehát a kegyelemnek és az irgalmasságnak a legnagyobb szüksége van segítségedre, esküdj.
+Szellem
+[Alul] Esküdj.
+HAMLET
+Pihenj, nyugi, zavart lélek!
+Esküsznek
+
+Tehát, uraim,
+teljes szeretetemmel ajánlom önöknek:
+És amit egy olyan szegény ember, mint Hamlet,
+megtehet, hogy szeretetét és barátságát kifejezze felétek, ha
+Isten úgy akarja. Menjünk be együtt;
+És továbbra is az ujjaid az ajkadon, imádkozom.
+Kifogyott az idő: Ó, átkozott rosszindulat,
+hogy valaha is azért születtem, hogy helyreállítsam!
+Nem, gyere, menjünk együtt.
+Kimennek.
+
+
+FELVÉTEL II
+I. JELENET. Egy szoba POLONIUS házában.
+Írja be: POLONIUS és REYNALDO
+POLONIUS ÚR
+Add neki ezt a pénzt és ezeket a jegyzeteket, Reynaldo.
+REYNALDO
+Megteszem, uram.
+POLONIUS ÚR
+Csodálatos bölcsen fogsz cselekedni, jó Reynaldo,
+mielőtt meglátogatnád, hogy érdeklődj
+a viselkedéséről.
+REYNALDO
+Uram, szándékomban állt.
+POLONIUS ÚR
+Házasodj meg, jól mondod; nagyon jól mondták. Nézze, uram,
+kérdezze meg először, mi a Danskers Párizsban;
+És hogyan, és kik, mit jelentenek, és hol tartanak,
+Milyen társaságot, milyen költséggel; és
+a kérdés e körülhatárolásával és sodródásával azt találni
+, hogy ismerik a fiamat, közelebb jöjjenek hozzád, mint ahogyan a
+sajátos követeléseid érintenék. Így: „Ismerem az apját és a barátait, és részben őt is: „Megjelölöd ezt, Reynaldo?
+
+
+
+REYNALDO
+Ó, nagyon jó, uram.
+POLONIUS ÚR
+– És részben őt; de azt mondhatod, hogy nem jól:
+De ha nem ő, úgy értem, nagyon vad;
+Függő így és úgy:' és ott tedd rá,
+milyen hamisítványokat kérsz; házasodj meg, senki se legyen olyan rangú,
+mint amilyen meggyalázza őt; erre figyelj;
+De uram, olyan ócska, vad és szokásos csúsztatások,
+mint
+a fiatalság és a szabadság által ismert és legismertebb társak.
+REYNALDO
+Mint játék, uram.
+POLONIUS ÚR
+Ja, vagy inni, vívni, káromkodni, veszekedni,
+drabbing: lehet, hogy idáig jutsz.
+REYNALDO
+Uram, ez megbecstelenítené őt.
+POLONIUS ÚR
+– Hit, nem; ahogy fűszerezheti a vádban
+Nem szabad újabb botrányt hozni rá,
+Hogy nyitott az inkontinenciára;
+Nem ez az én értelmem: de lélegezzen hibáit olyan furcsán,
+hogy a szabadság szennyeződésének tűnjenek,
+a tüzes elme felvillanása és kitörése,
+a vissza nem kapott vér vadsága,
+az általános támadás.
+REYNALDO
+De jó uram...
+POLONIUS ÚR
+Miért kell ezt csinálni?
+REYNALDO
+Igen, uram,
+én ezt tudnám.
+POLONIUS ÚR
+Házasodjon meg, uram, itt az én sodródásom;
+És azt hiszem, ez egy okoskodás:
+Te ezeket az enyhe szennyeződéseket rakod a fiamra,
+Mintha egy kis föld lett volna a dolgozó, Jelölj meg téged,
+Párod fordítva, őt hangoztatnád,
+Ha valaha is láttad a prenominált bűnökben
+A fiatalságot, akit bűnösnek lehelsz, biztos lehetsz benne,
+hogy ebben a következményben veled zár;
+„Jó uram”, vagy úgy, vagy „barát”, vagy „úriember”, az ember és ország
+kifejezés vagy kiegészítése szerint .
+
+REYNALDO
+Nagyon jó, uram.
+POLONIUS ÚR
+És akkor, uram, ő ezt – csinálja –, amit
+mondani akartam? A misén már-már mondani akartam
+valamit: hova mentem?
+REYNALDO
+A „bezárás a következményben”, a „barát vagy úgy”
+és az „úriember”.
+POLONIUS ÚR
+At 'closes in the consequence,' ay, marry;
+He closes thus: 'I know the gentleman;
+I saw him yesterday, or t' other day,
+Or then, or then; with such, or such; and, as you say,
+There was a' gaming; there o'ertook in's rouse;
+There falling out at tennis:' or perchance,
+'I saw him enter such a house of sale,'
+Videlicet, a brothel, or so forth.
+See you now;
+Your bait of falsehood takes this carp of truth:
+And thus do we of wisdom and of reach,
+With windlasses and with assays of bias,
+By indirections find directions out:
+So by my former lecture and advice,
+Shall you my son. You have me, have you not?
+REYNALDO
+My lord, I have.
+LORD POLONIUS
+God be wi' you; fare you well.
+REYNALDO
+Good my lord!
+LORD POLONIUS
+Observe his inclination in yourself.
+REYNALDO
+I shall, my lord.
+LORD POLONIUS
+And let him ply his music.
+REYNALDO
+Well, my lord.
+LORD POLONIUS
+Farewell!
+Exit REYNALDO
+
+Enter OPHELIA
+
+How now, Ophelia! what's the matter?
+OPHELIA
+O, my lord, my lord, I have been so affrighted!
+LORD POLONIUS
+With what, i' the name of God?
+OPHELIA
+My lord, as I was sewing in my closet,
+Lord Hamlet, with his doublet all unbraced;
+No hat upon his head; his stockings foul'd,
+Ungarter'd, and down-gyved to his ancle;
+Pale as his shirt; his knees knocking each other;
+And with a look so piteous in purport
+As if he had been loosed out of hell
+To speak of horrors,--he comes before me.
+LORD POLONIUS
+Mad for thy love?
+OPHELIA
+My lord, I do not know;
+But truly, I do fear it.
+LORD POLONIUS
+What said he?
+OPHELIA
+He took me by the wrist and held me hard;
+Then goes he to the length of all his arm;
+And, with his other hand thus o'er his brow,
+He falls to such perusal of my face
+As he would draw it. Long stay'd he so;
+At last, a little shaking of mine arm
+And thrice his head thus waving up and down,
+He raised a sigh so piteous and profound
+As it did seem to shatter all his bulk
+And end his being: that done, he lets me go:
+And, with his head over his shoulder turn'd,
+He seem'd to find his way without his eyes;
+For out o' doors he went without their helps,
+And, to the last, bended their light on me.
+LORD POLONIUS
+Come, go with me: I will go seek the king.
+This is the very ecstasy of love,
+Whose violent property fordoes itself
+And leads the will to desperate undertakings
+As oft as any passion under heaven
+That does afflict our natures. I am sorry.
+What, have you given him any hard words of late?
+OPHELIA
+No, my good lord, but, as you did command,
+I did repel his fetters and denied
+His access to me.
+LORD POLONIUS
+That hath made him mad.
+I am sorry that with better heed and judgment
+I had not quoted him: I fear'd he did but trifle,
+And meant to wreck thee; but, beshrew my jealousy!
+By heaven, it is as proper to our age
+To cast beyond ourselves in our opinions
+As it is common for the younger sort
+To lack discretion. Come, go we to the king:
+This must be known; which, being kept close, might
+move
+More grief to hide than hate to utter love.
+Exeunt
+
+SCENE II. A room in the castle.
+Enter KING CLAUDIUS, QUEEN GERTRUDE, ROSENCRANTZ, GUILDENSTERN, and Attendants
+KING CLAUDIUS
+Welcome, dear Rosencrantz and Guildenstern!
+Moreover that we much did long to see you,
+The need we have to use you did provoke
+Our hasty sending. Something have you heard
+Of Hamlet's transformation; so call it,
+Sith nor the exterior nor the inward man
+Resembles that it was. What it should be,
+More than his father's death, that thus hath put him
+So much from the understanding of himself,
+I cannot dream of: I entreat you both,
+That, being of so young days brought up with him,
+And sith so neighbour'd to his youth and havior,
+That you vouchsafe your rest here in our court
+Some little time: so by your companies
+To draw him on to pleasures, and to gather,
+So much as from occasion you may glean,
+Whether aught, to us unknown, afflicts him thus,
+That, open'd, lies within our remedy.
+QUEEN GERTRUDE
+Good gentlemen, he hath much talk'd of you;
+And sure I am two men there are not living
+To whom he more adheres. If it will please you
+To show us so much gentry and good will
+As to expend your time with us awhile,
+For the supply and profit of our hope,
+Your visitation shall receive such thanks
+As fits a king's remembrance.
+ROSENCRANTZ
+Both your majesties
+Might, by the sovereign power you have of us,
+Put your dread pleasures more into command
+Than to entreaty.
+GUILDENSTERN
+But we both obey,
+And here give up ourselves, in the full bent
+To lay our service freely at your feet,
+To be commanded.
+KING CLAUDIUS
+Thanks, Rosencrantz and gentle Guildenstern.
+QUEEN GERTRUDE
+Thanks, Guildenstern and gentle Rosencrantz:
+And I beseech you instantly to visit
+My too much changed son. Go, some of you,
+And bring these gentlemen where Hamlet is.
+GUILDENSTERN
+Heavens make our presence and our practises
+Pleasant and helpful to him!
+QUEEN GERTRUDE
+Ay, amen!
+Exeunt ROSENCRANTZ, GUILDENSTERN, and some Attendants
+
+Enter POLONIUS
+
+LORD POLONIUS
+The ambassadors from Norway, my good lord,
+Are joyfully return'd.
+KING CLAUDIUS
+Thou still hast been the father of good news.
+LORD POLONIUS
+Have I, my lord? I assure my good liege,
+I hold my duty, as I hold my soul,
+Both to my God and to my gracious king:
+And I do think, or else this brain of mine
+Hunts not the trail of policy so sure
+As it hath used to do, that I have found
+The very cause of Hamlet's lunacy.
+KING CLAUDIUS
+O, speak of that; that do I long to hear.
+LORD POLONIUS
+Give first admittance to the ambassadors;
+My news shall be the fruit to that great feast.
+KING CLAUDIUS
+Thyself do grace to them, and bring them in.
+Exit POLONIUS
+
+He tells me, my dear Gertrude, he hath found
+The head and source of all your son's distemper.
+QUEEN GERTRUDE
+I doubt it is no other but the main;
+His father's death, and our o'erhasty marriage.
+KING CLAUDIUS
+Well, we shall sift him.
+Re-enter POLONIUS, with VOLTIMAND and CORNELIUS
+
+Welcome, my good friends!
+Say, Voltimand, what from our brother Norway?
+VOLTIMAND
+Most fair return of greetings and desires.
+Upon our first, he sent out to suppress
+His nephew's levies; which to him appear'd
+To be a preparation 'gainst the Polack;
+But, better look'd into, he truly found
+It was against your highness: whereat grieved,
+That so his sickness, age and impotence
+Was falsely borne in hand, sends out arrests
+On Fortinbras; which he, in brief, obeys;
+Receives rebuke from Norway, and in fine
+Makes vow before his uncle never more
+To give the assay of arms against your majesty.
+Whereon old Norway, overcome with joy,
+Gives him three thousand crowns in annual fee,
+And his commission to employ those soldiers,
+So levied as before, against the Polack:
+With an entreaty, herein further shown,
+Giving a paper
+
+That it might please you to give quiet pass
+Through your dominions for this enterprise,
+On such regards of safety and allowance
+As therein are set down.
+KING CLAUDIUS
+It likes us well;
+And at our more consider'd time well read,
+Answer, and think upon this business.
+Meantime we thank you for your well-took labour:
+Go to your rest; at night we'll feast together:
+Most welcome home!
+Exeunt VOLTIMAND and CORNELIUS
+
+LORD POLONIUS
+This business is well ended.
+My liege, and madam, to expostulate
+What majesty should be, what duty is,
+Why day is day, night night, and time is time,
+Were nothing but to waste night, day and time.
+Therefore, since brevity is the soul of wit,
+And tediousness the limbs and outward flourishes,
+I will be brief: your noble son is mad:
+Mad call I it; for, to define true madness,
+What is't but to be nothing else but mad?
+But let that go.
+QUEEN GERTRUDE
+More matter, with less art.
+LORD POLONIUS
+Madam, I swear I use no art at all.
+That he is mad, 'tis true: 'tis true 'tis pity;
+And pity 'tis 'tis true: a foolish figure;
+But farewell it, for I will use no art.
+Mad let us grant him, then: and now remains
+That we find out the cause of this effect,
+Or rather say, the cause of this defect,
+For this effect defective comes by cause:
+Thus it remains, and the remainder thus. Perpend.
+I have a daughter--have while she is mine--
+Who, in her duty and obedience, mark,
+Hath given me this: now gather, and surmise.
+Reads
+
+'To the celestial and my soul's idol, the most
+beautified Ophelia,'--
+That's an ill phrase, a vile phrase; 'beautified' is
+a vile phrase: but you shall hear. Thus:
+Reads
+
+'In her excellent white bosom, these, & c.'
+QUEEN GERTRUDE
+Came this from Hamlet to her?
+LORD POLONIUS
+Good madam, stay awhile; I will be faithful.
+Reads
+
+'Doubt thou the stars are fire;
+Doubt that the sun doth move;
+Doubt truth to be a liar;
+But never doubt I love.
+'O dear Ophelia, I am ill at these numbers;
+I have not art to reckon my groans: but that
+I love thee best, O most best, believe it. Adieu.
+'Thine evermore most dear lady, whilst
+this machine is to him, HAMLET.'
+This, in obedience, hath my daughter shown me,
+And more above, hath his solicitings,
+As they fell out by time, by means and place,
+All given to mine ear.
+KING CLAUDIUS
+But how hath she
+Received his love?
+LORD POLONIUS
+What do you think of me?
+KING CLAUDIUS
+As of a man faithful and honourable.
+LORD POLONIUS
+Szívesen bebizonyítanám. De mit gondolhatna,
+amikor ezt a forró szerelmet láttam a szárnyon -
+Ahogy észrevettem, el kell mondanom, hogy
+mielőtt a lányom elmondaná, mit gondolhatna ön,
+vagy drága felségem, királyné itt,
+ha az íróasztalon vagy az asztali könyvön játszottam volna,
+vagy kacsintottam volna a szívemet, némán és némán,
+vagy tétlenül nézném ezt a szerelmet;
+Mit gondolhat? Nem, elmentem dolgozni,
+és ifjú úrnőm így szólt:
+»Hamlet úr királyfi, a te csillagodból;
+Ennek nem szabad így lennie:' és akkor parancsot adtam neki,
+Hogy zárkózza el üdülőjéből,
+ne fogadjon be hírvivőt, ne fogadjon jelzőt.
+Ami megtörtént, megfogadta tanácsom gyümölcsét;
+És visszataszított - egy rövid mese -
+szomorúságba esett, majd böjtbe,
+onnan őrségbe, onnan gyengeségbe,
+onnan könnyedségbe, és ezzel az elhajlással
+az őrületbe, amelyben most tombol,
+és mindent, amit gyászolunk.
+CLAUDIUS KIRÁLY
+Szerinted ez?
+GERTRÚD KIRÁLYNŐ
+Lehet, nagyon valószínű.
+POLONIUS ÚR
+Volt-e olyan idő – aligha tudnám –,
+hogy határozottan azt mondtam, hogy „Igen”,
+amikor az ellenkezőjét bizonyította?
+CLAUDIUS KIRÁLY
+Nem mintha tudom.
+POLONIUS ÚR
+[Fejére és vállára mutat]
+Ha ez másképp van, vedd ki ezt:
+Ha a körülmények vezetnek, megtalálom, hol van elrejtve az igazság, bár a középpontban
+valóban el volt rejtve .
+
+CLAUDIUS KIRÁLY
+Hogyan próbálhatjuk tovább?
+POLONIUS ÚR
+Tudod, néha négy órát sétál együtt
+itt a hallban.
+GERTRÚD KIRÁLYNŐ
+Tehát valóban megteszi.
+POLONIUS ÚR
+Ilyenkor elengedem neki a lányomat:
+Légy hát te meg én egy arras mögött;
+Jelölje meg a találkozást: ha nem szereti
+, és nem essen az eszétől,
+ne legyek egy állam segédje,
+hanem tartsatok gazdaságot és kocsikat.
+CLAUDIUS KIRÁLY
+Ki fogjuk próbálni.
+GERTRÚD KIRÁLYNŐ
+De nézd, ahová szomorúan jön a szegény nyomorult olvasni.
+POLONIUS ÚR
+Menj el, kérlek, mindketten távolodjanak el:
+mindjárt felszállok rá.
+Lépjen ki KING CLAUDIUS, GERTRUDE KIRÁLYNŐ és kísérők
+
+Lépjen be HAMLET-be, olvas
+
+Ó, engedj el:
+Hogy van jóságos Hamlet uram?
+HAMLET
+Nos, Isten kegyelme.
+POLONIUS ÚR
+Ismer engem, uram?
+HAMLET
+Kiváló kút; te halkereskedő vagy.
+POLONIUS ÚR
+Nem én, uram.
+HAMLET
+Akkor szeretném, ha olyan őszinte ember lennél.
+POLONIUS ÚR
+Őszintén, uram!
+HAMLET
+Igen, uram; hogy őszinte legyek, ahogy ez a világ megy, azt jelenti, hogy
+egy embert választottak ki a tízezer közül.
+POLONIUS ÚR
+Ez nagyon igaz, uram.
+HAMLET
+Mert ha egy döglött kutyában a napfaj kukacok közé kerül, lévén
+dögöt csókoló isten, akkor van-e lányod?
+POLONIUS ÚR
+Megvan, uram.
+HAMLET
+Ne járjon a napon: a fogantatás áldás
+, de nem úgy, ahogy a lányod fogan.
+Barátom, ne nézz rá.
+POLONIUS ÚR
+[Félre] Hogy mondod ezt? Még mindig hárpel
+a lányomon: mégsem ismert eleinte; azt mondta
+, hogy halárus vagyok: messzire, messzire elment, és
+valóban ifjúkoromban sok szélsőséget szenvedtem
+a szerelem miatt; nagyon közel ehhez. Még egyszer beszélek vele.
+Mit olvas, uram?
+HAMLET
+Szavak, szavak, szavak.
+POLONIUS ÚR
+Mi a baj, uram?
+HAMLET
+kik között?
+POLONIUS ÚR
+Úgy értem, amit olvas, uram.
+HAMLET
+Rágalmak, uram: mert a szatirikus zsivány itt azt mondja,
+hogy az öregeknek ősz szakálluk van, az arcuk
+ráncos, a szemük sűrű borostyán- és
+szilvafagumikat öblít, és bőven hiányzik bennük az
+esze, a legtöbb gyenge sonkával együtt: mindezt, uram,
+bár a legerőteljesebben és legerőteljesebben hiszek, de
+nem tartom tisztességesnek
+, ha öregnek tartom, uram. rák
+visszamehetnél.
+POLONIUS ÚR
+[Félre] Bár ez őrület, mégis van módszer
+ebben. Kisétálsz a levegőből, uram?
+HAMLET
+A síromba.
+POLONIUS ÚR
+Valóban, ez a levegőből van.
+Félre
+
+Milyen terhesek néha a válaszai! boldogság
+, amelyre gyakran az őrület csap le, és amelyből az ész és a józanság
+nem tud olyan boldogulni. El fogom
+hagyni, és hirtelen kiagyalom a találkozás módját
+közte és a lányom között. - Tisztelt
+uram, alázatosan búcsúzom tőled.
+HAMLET
+Nem vehet el tőlem semmit, uram, amitől
+szívesebben megválnék: csak az életemet, kivéve
+az életemet, kivéve az életemet.
+POLONIUS ÚR
+Jó egészséget, uram.
+HAMLET
+Ezek az unalmas vén bolondok!
+Írja be a ROSENCRANTZ-t és a GUILDENSTERN-t
+
+POLONIUS ÚR
+Elmész, hogy megkeresd az Urat Hamletet; ott van.
+ROSENCRANTZ
+[POLONIUSNAK] Isten mentsen, uram!
+Lépjen ki POLONIUS-ból
+
+GUILDENSTERN
+tisztelt uram!
+ROSENCRANTZ
+Legkedvesebb uram!
+HAMLET
+Kiváló jó barátaim! Hogy vagy,
+Guildenstern? Ó, Rosencrantz! Jó fiúk, hogy vagytok?
+ROSENCRANTZ
+Mint a föld közömbös gyermekei.
+GUILDENSTERN
+Boldogok, mert nem vagyunk túl boldogok;
+A Fortune's sapkán nem mi vagyunk a gombok.
+HAMLET
+A cipője talpát sem?
+ROSENCRANTZ
+Egyik sem, uram.
+HAMLET
+Akkor a dereka körül élsz, vagy a kegyei közepette ?
+
+GUILDENSTERN
+– Faith, az ő közlegényei mi.
+HAMLET
+A szerencse titkos részein? Ó, nagyon igaz; ő
+egy trombita. Mi a hír?
+ROSENCRANTZ
+Egyik sem, uram, de a világ őszinte lett.
+HAMLET
+Akkor közeleg a végítélet: de a híred nem igaz.
+Hadd kérdezzem meg közelebbről: mit érdemeltetek ti,
+jó barátaim, a szerencse által,
+hogy börtönbe küld ide?
+GUILDENSTERN
+Börtön, uram!
+HAMLET
+Dánia egy börtön.
+ROSENCRANTZ
+Akkor a világ egy.
+HAMLET
+Egy jó; ahol sok a határ,
+a kórterem és a börtön, Dánia az egyik legrosszabb.
+ROSENCRANTZ
+Szerintünk nem így van, uram.
+HAMLET
+Akkor hát neked ez semmi; mert nincs
+sem jó, sem rossz, de a gondolkodás teszi azzá: számomra
+ez börtön.
+ROSENCRANTZ
+Akkor miért, az Ön ambíciója teszi azzá; túl
+szűk az elmédnek.
+HAMLET
+Istenem, dióhéjba zárhatnék, és
+a végtelen űr királyának tarthatnám magam, ha nem
+álmodnék rosszat.
+GUILDENSTERN
+Amelyek az álmok valóban ambíciók, mert
+az ambiciózus lényege csupán egy álom árnyéka.
+HAMLET
+Az álom önmagában csak árnyék.
+ROSENCRANTZ
+Valóban, és olyan szellős és könnyed minőségre törekszem,
+hogy az csak egy árnyék árnyéka.
+HAMLET
+Aztán koldusaink teste, uralkodóink és
+kinyújtott hőseink pedig a koldusok árnyékai. Menjünk
+a bíróságra? mert az eszemből nem tudok okoskodni.
+ROSENCRANTZ GUILDENSTERN
+Várunk rád.
+HAMLET
+Na mindegy: nem válogatlak össze a többi
+szolgámmal, mert hogy becsületes emberként beszéljek veled
+, nagyon félelmetesen foglalkozom veled. De a
+barátság ütött-kopott módján mi tesz téged Elsinore-ban?
+ROSENCRANTZ
+Meglátogatni, uram; nincs más alkalom.
+HAMLET
+Koldus, hogy vagyok, még hála szegény is vagyok; de
+köszönöm: és bizony, kedves barátaim, az én köszönetem
+túl drága félpennys. Nem küldtek érte? Ez
+a saját hajlamod? Ez ingyenes látogatás? Gyere,
+bánj velem igazságosan: gyere, gyere; nem, beszélj.
+GUILDENSTERN
+Mit mondjunk, uram?
+HAMLET
+Miért, bármit, csak a cél érdekében. Téged küldtek
+; és van egyfajta vallomás a tekintetedben,
+amelyet szerénységeid nem tudnak eléggé kiszínezni:
+Tudom, hogy a jó király és királyné küldött érted.
+ROSENCRANTZ
+Mi célból, uram?
+HAMLET
+Hogy meg kell tanítanod. De hadd varázsoljalak rád
+közösségünk jogaival,
+fiatalságunk összhangjával, örökké megmaradt szeretetünk kötelezettségével
+, és mi több kedves ajánlattevővel
+róhatna rád, légy egyenlő és közvetlen velem,
+akár azért küldték, akár nem?
+ROSENCRANTZ
+[GUILDENSTERN mellett] Mit szólsz?
+HAMLET
+[Félre] Nem, akkor szemem van rád. - Ha szeretsz
+, ne tartsd vissza.
+GUILDENSTERN
+Uram, azért küldtek minket.
+HAMLET
+Megmondom, miért; így az én várakozásom
+megakadályozza a felfedezését, és a király és a királyné előtti titkolózás
+nem veti tollat. Későn – de
+miért nem tudom – elvesztettem minden vidámságomat, elhagytam minden
+gyakorlatot; s valóban olyan erősen illik
+hozzám, hogy ez a szép keret, a
+föld egy steril hegyfoknak tűnik számomra, ez a legkiválóbb
+lombkorona, a levegő, nézd csak, ez a bátor,
+lelógó égbolt, ez a fenséges tető, amelyet
+arany tűz borít, miért, nem tűnik nekem másnak,
+mint egy csúnya és döghalál gyülekezetének.
+Micsoda munka az ember! milyen nemes ésszel!
+milyen végtelen a karban! formában és megindítóan milyen
+kifejező és csodálatra méltó! működés közben milyen mint egy angyal!
+aggodalommal, mennyire olyan, mint egy isten! a világ szépsége
+! az állatok mintaképe! És mégis, számomra
+mi a por kvintesszenciája? a férfi nem engem gyönyörködtet
+: nem, a nő sem, bár a mosolyoddal
+úgy tűnik, ezt mondod.
+ROSENCRANTZ
+Uram, nem volt ilyesmi a gondolataimban.
+HAMLET
+Miért nevettél akkor, amikor azt mondtam, hogy az ember nem engem gyönyörködtet?
+ROSENCRANTZ
+Arra gondolni, uram, ha nem gyönyörködik az emberben, micsoda
+böjti mulatságot kapnak tőled a játékosok
+: útközben meglátogattuk őket; és ide jönnek
+, hogy szolgáljanak nektek.
+HAMLET
+Aki a királyt játssza, azt szívesen látják; őfelsége
+adót fizet nekem; a kalandvágyó lovag
+használja a fóliáját és a célpontját; a szerető nem
+sóhajt fel ingyen; a humoros ember
+békével fejezze be szerepét ; a bohóc megnevetteti azokat, akiknek
+a tüdejét csiklandozza a sere; és a hölgy
+szabadon mondja ki véleményét, különben az üres igeszakasz leáll
+. Milyen játékosok ezek?
+ROSENCRANTZ
+Még azok is, akikben szoktál gyönyörködni,
+a város tragédiái.
+HAMLET
+Mennyi esély van arra, hogy utaznak? lakóhelyük mind
+a hírnév, mind a profit szempontjából jobb volt mindkét irányban.
+ROSENCRANTZ
+Azt gondolom, hogy a gátlásuk a késői innováció eszközével jön létre .
+
+HAMLET
+Ugyanazt a becslést tartják, mint amikor
+a városban jártam? annyira követik őket?
+ROSENCRANTZ
+Nem, valóban nem.
+HAMLET
+Hogy jön ez? berozsdásodnak?
+ROSENCRANTZ
+Nem, igyekezetük a megszokott ütemben halad: de
+van, uram, a gyerekek, a kis szemek légköre,
+akik a kérdés tetejébe kiáltoznak, és a legzsarnokosabban
+tapsolnak érte: ezek most a
+divatok, és annyira összezavarják a közös szakaszokat – így
+hívják őket –, hogy sok karkötőt viselő fél fél
+a menéstől, és félnek.
+HAMLET
+Mi van, gyerekek? ki tartja karban? hogyan
+kísérik őket? Nem fognak tovább törekedni a minőségre,
+mint amennyit énekelni tudnak? vajon nem mondják-
+e utólag, hogy ha közönséges játékosokká nőnek fel
+– ahogy ez leginkább úgy tűnik, ha nem jobbak az eszközeik
+–, akkor íróik rosszat tesznek velük, hogy
+saját utódlásuk ellen felkiáltanak?
+ROSENCRANTZ
+– Hit, sok a tennivaló mindkét oldalon; és
+a nemzet nem tartja bűnnek, ha vitába kényszeríti őket
+: egy ideig nem licitáltak pénzt
+vitára, hacsak a költő és a játékos nem ment
+bilincsbe a kérdésben.
+HAMLET
+Nem lehetséges?
+GUILDENSTERN
+Ó, sokat dobogtak az agyon.
+HAMLET
+A fiúk elviszik?
+ROSENCRANTZ
+Igen, ezt teszik, uram; Hercules és a terhe is.
+HAMLET
+Nem túl furcsa; mert a nagybátyám Dánia királya
+, és azok, akik kaszáltak vele, amíg
+apám élt, húsz, negyven, ötven, száz
+dukátot adnak darabonként a képéért.
+– Vér, van ebben valami több, mint
+természetes, ha a filozófia rájönne.
+Trombiták virágzása belül
+
+GUILDENSTERN
+Ott vannak a játékosok.
+HAMLET
+Uraim, üdvözöljük Elsinore-ban. Jöjjön hát a kezetek
+: a fogadtatás kelléke a divat
+és a szertartás: hadd feleljek meg neked ebben a köntösben,
+nehogy az én mértékem a játékosok felé, aminek, mondom,
+kifelé kell mutatkoznia, inkább
+szórakozásnak tűnjön, mint a tied. Szívesen: de
+a nagybátyám-apám és a nagynéném-anyám becsaptak.
+GUILDENSTERN
+Miben, kedves uram?
+HAMLET
+Csak őrült vagyok észak-északnyugat: ha
+déli szél fúj, ismerek egy sólymot a kézifűrészről.
+Írja be a POLONIUS-t
+
+POLONIUS ÚR
+Jó legyen veletek, uraim!
+HAMLET
+Kérlek, Guildenstern; és te is: minden fülnél egy
+halló: az a nagyszerű baba, akit látsz, még nincs
+kipelenkázva.
+ROSENCRANTZ
+Szerencsére másodszor jött el hozzájuk; mert azt
+mondják, egy öreg kétszer gyerek.
+HAMLET
+Megjövendölni fogom, hogy eljön, hogy meséljen nekem a játékosokról;
+jelölje meg. Jól mondja, uram: o' hétfő reggel;
+tényleg olyan volt.
+POLONIUS ÚR
+Uram, hírt kell mondanom önnek.
+HAMLET
+Uram, hírt kell mondanom önnek.
+Amikor Roscius színész volt Rómában,...
+POLONIUS ÚR
+Megjöttek a színészek, uram.
+HAMLET
+Jég, jég!
+POLONIUS ÚR
+Becsületemre...
+HAMLET
+Aztán mindegyik színész a fenekére ült...
+POLONIUS ÚR
+A világ legjobb színészei akár tragédiához,
+vígjátékhoz, történelemhez, pásztorkodáshoz, pásztorkomikushoz,
+történelmi-pásztorkodáshoz, tragikus-történelmi, tragikus-
+komikus-történeti-pásztorhoz, jelenethez személyre szabható, vagy
+korlátlan vershez: Seneca nem lehet túl nehéz, sem
+Plautus túl könnyű. Az írásjog és a
+szabadság tekintetében csak ezek az emberek.
+HAMLET
+Jefte, Izrael bírája, micsoda kincsed volt!
+POLONIUS ÚR
+Milyen kincse volt, uram?
+HAMLET
+Miért:
+"Egy szép lány, és nem több,
+akit szeretett jól elmenni."
+POLONIUS ÚR
+[Félre] Még mindig a lányomon.
+HAMLET
+Nem nekem van igazam, öreg Jefte?
+POLONIUS ÚR
+Ha Jeftének hívsz, uram, van egy lányom,
+akit szeretek jól elmenni.
+HAMLET
+Nem, ebből nem következik.
+POLONIUS ÚR
+Mi következik akkor, uram?
+HAMLET
+Miért:
+„Ahogyan sors szerint, Istenem!”,
+majd, tudod,
+„Létrejött, ahogy a legtöbben volt” –
+a jámbor sanzon első sora
+többet fog mutatni; nézd, honnan jön a rövidítésem.
+Adjon meg négy vagy öt játékost
+
+Szívesen, mesterek; üdvözöllek mindenkit. Örülök
+, hogy jól látlak. Üdvözöllek, jó barátok. Ó, régi
+barátom! arcod fehér, mióta utoljára láttalak:
+szakállal jöttél Dániába? Mi van, kisasszonyom
+és úrnőm! Asszonyod, a te úrnőd
+közelebb van a mennyhez, mint amikor utoljára láttalak,
+egy szelet magasságában. Imádkozz Isten, ne repedjen meg a hangod
+a gyűrűn belül, mint a nem folyó arany darabja
+. Mesterek, szeretettel várunk mindenkit. Nem
+szeretjük a francia solymászokat, repüljünk mindenre, amit látunk:
+egyenesen beszélünk: gyere, kóstolj meg a
+minőségedből; gyere, egy szenvedélyes beszéd.
+Első Játékos
+Milyen beszéd, uram?
+HAMLET
+Egyszer hallottam, hogy beszédet mondasz nekem, de
+soha nem történt meg; vagy ha volt, nem egyszer; mert a
+darab, emlékszem, nem a milliónak tetszett; „Cavire
+volt a tábornoknak: de ez – ahogy én kaptam
+, és mások, akiknek az ilyen ügyekben hozott ítéletei
+az enyémet siratták – kiváló darab volt, jól
+megemészthető a jelenetekben, és éppoly
+szerénységgel, mint ravaszsággal lejátszották. Emlékszem, az egyik azt mondta, hogy
+a sorokban nincs sallet, ami
+jóízűvé tenné a dolgot, és nem számít az a kifejezés, amely vádat
+emelhet a meghatottság szerzője ellen; de őszinte módszernek nevezte
+, amely éppoly egészséges, mint édes, és sokkal
+inkább szép, mint finom. Egy beszédet nagyon szerettem benne
+: „Aeneas volt” Didóhoz írt mese; és
+erről különösen, ahol
+Priamosz lemészárlásáról beszél: ha ez él az emlékezetedben, kezdd
+ezzel a sorral: hadd lássam, hadd lássam
+- 'A zord Pyrrhus, mint a hirkán vadállat' -
+nem így van: - Pyrrhusszal kezdődik:-
+'A zord Pyrrhus, akinek
+az éjszaka célja volt, tette újra a karját.
+Amikor heverőn feküdt az ominózus lovon,
+most ez a rettegés és a fekete arcszín elkenődött
+a heraldikával még szomorúbbá; fejtől-lábig
+. rettenetesen becsapott
+apák, anyák, leányok, fiak vérével,
+sütöttek és elkeseredetten a kiszáradó utcáktól,
+amelyek zsarnoki és átkozott fényt adnak
+uruk meggyilkolásához: haragban és tűzben pörköltek,
+és így véralvadt vérrel,
+olyan szemekkel, mint a karbunkúrok, a pokoli
+grandiózusok.
+Szóval folytasd.
+POLONIUS ÚR
+– Isten előtt, uram, jól beszél, jó akcentussal és
+jó diszkrécióval.
+Első Játékos
+– Anon túl rövidnek találja
+a görögöket; antik kardja,
+Lázadó a karjára, ott fekszik, ahol leesik,
+Utálatos parancsolni: egyenlőtlen match'd,
+Pyrrhus Priamusnál hajt; dühében szélesre csap;
+De elesett kardja leheletével és szelével
+Az ideges apa elesik. Aztán értelmetlen Ilium,
+mintha érezné ezt az ütést, lángoló felsővel
+lehajol a tövére, és iszonyatos csattanással
+foglyul ejti Pyrrhus fülét: mert, íme! kardja,
+mely Priamosz tisztelendő tejes fejére ereszkedett
+, úgy tűnt, a levegő megragad:
+így, mint egy festett zsarnok, Pyrrhus állt,
+S mint akaratának és anyagának semleges,
+Nem tett semmit.
+De, mint gyakran látjuk, valami vihar ellen,
+Csend az egekben, áll a fogas,
+A merész szelek szótlanok és a gömb odalent
+Csendben, mint a halál, anon a rettentő mennydörgés
+Doth felhasítja a vidéket, így Pyrrhus szünete után
+a Felkelt bosszúállás új munkát állít neki;
+És soha nem zuhantak le a küklopsz kalapácsai
+Mars páncéljára, amelyet az örökkévalóságra kovácsoltak.
+Kevesebb lelkiismeret-furdalással, mint Pyrrhus vérző kardja
+Most esik Priamoszra.
+Ki, ki, te trombita, szerencse! Minden istenek,
+általában zsinat 'vegyétek el tőle a hatalmat;
+Törd le kerekéről a küllőket és a könyöklőket,
+és dobd le a kerek hajót az ég dombjáról,
+olyan alacsonyan, mint a gonoszok!
+POLONIUS ÚR
+Ez túl hosszú.
+HAMLET
+A borbélyhoz kell, a szakálladdal együtt. Prithee,
+mondd tovább: egy zsigeri vagy egy búbos mese, vagy
+alszik: mondd tovább: gyere Hecubába.
+Első Játékos
+– De ki, ó, aki látta a mozgalmas királynőt…
+HAMLET
+– A mozgósított királynő?
+POLONIUS ÚR
+Ez jó; 'mobiled queen' jó.
+Első Játékos
+„Fuss mezítláb fel-alá, fenyegetve a lángokat
+Bisson rheummal; befolyás azon a fejen
+Ahol későn a diadém állt, s egy köntösért,
+Sovány és csípős ágyékáról,
+Egy takaró, a félelem riadalma fogott el;
+Akit ez látott, méregbe meredt nyelvvel,
+"Gainst Fortune állapota árulást mondott volna
+:
+De ha maguk az istenek látták volna őt, akkor
+Amikor látta, hogy Pyrrhus rosszindulatú sportot űz,
+kardjával vagdalja férje végtagjait,
+A lárma azonnali kitörése, amit ő csinált, és
+ha a halandó szeme egyáltalán nem égette
+volna meg őket,
+szenvedély az istenekben.
+POLONIUS ÚR
+Nézd, nem változtatta-e meg a színét, és nincs-e
+könnyes a szeme. Imádkozz, ne többet.
+HAMLET
+Jól van: hamarosan szólni fogom a többit.
+Jó, uram, látni fogja, hogy a játékosok jól
+vannak? Hallod-e, hadd használják őket jól; mert
+ezek a korabeli elvont és rövid krónikák
+: halálod után jobb, ha rossz
+sírfeliratot kapsz, mint a beteges jelentésüket, amíg élsz.
+POLONIUS ÚR
+Uram, sivataguk szerint fogom használni őket.
+HAMLET
+Isten teste, ember, sokkal jobb: használj fel mindenkit
+a sivatag után, és kinek szabadulnia kell a korbácsolástól?
+Használd őket saját becsületed és méltóságod után: minél kevesebbet
+érdemelnek, annál több érdeme lesz a bőkezednek.
+Vedd be őket.
+POLONIUS ÚR
+Gyerünk, uraim.
+HAMLET
+Kövessétek, barátaim: holnap hallunk egy darabot.
+Lépj ki a POLONIUS-ból az összes játékossal, kivéve az elsőt
+
+Hallod-e, öreg barátom; el tudod játszani a
+Gonzago gyilkosságát?
+Első Játékos
+Ó, uram.
+HAMLET
+Holnap este nem lesz. Szükség esetén tanulmányozhatna
+egy tucat-tizenhat soros beszédet, amit
+leraknék és beillesztek, nem?
+Első Játékos
+Ó, uram.
+HAMLET
+Nagyon jól. Kövesd azt az urat; és nézd, nem csúfolsz vele
+.
+Lépjen ki a First Playerből
+
+Jó barátaim, estig hagylak benneteket: üdvözöljük
+Elsinore-ban.
+ROSENCRANTZ
+jó uram!
+HAMLET
+Igen, szóval, Isten wi';
+Exeunt ROSENCRANTZ és GUILDENSTERN
+
+Most egyedül vagyok.
+Ó, milyen gazember és parasztszolga vagyok!
+Hát nem szörnyű, hogy ez a játékos itt,
+de egy fikcióban, a szenvedély álmában,
+a lelkét a saját beképzeltségére kényszerítheti
+, hogy attól, hogy minden arcát megmozgatja,
+könnyek a szemében, elterelődik a szemében,
+Megtört a hangja, és egész funkciója
+a formákhoz illik az önképéhez? és mindez a semmiért!
+Hecubának!
+Mi neki Hecuba, vagy ő Hecubának,
+Hogy sírjon érte? Mit tenne,
+ha nálam lenne az indíték és a jelzés a szenvedélyre
+? Könnybe fojtja a színpadot
+, iszonyatos beszéddel hasítaná az általános fület,
+megőrjítené a bűnöst és megrémítené a szabadokat,
+megzavarná a tudatlanokat, és valóban megdöbbentené
+a szem és a fül képességeit. Mégis én,
+Tompa és sáros gazember, csúcs,
+Mint John-a-álmok, nem terhes ügyem,
+S nem mondhatok semmit; nem, nem egy királyért,
+akinek vagyonán és legdrágább életén
+átkozott vereséget szenvedtek. gyáva vagyok?
+Ki nevez engem gazembernek? áttöri a pástétomot?
+Letépi a szakállam, és az arcomba fújja?
+Megcsípi az orromnál? ad nekem a hazugságot i' a torkot,
+Olyan mélyen, mint a tüdőig? ki csinálja ezt nekem?
+Ha!
+– Sebek, el kell fogadnom: mert nem lehet,
+de galambmáj vagyok, és nincs epém,
+hogy megkeserítsem az elnyomást, vagy mielőtt ez megtörtént volna,
+meg kellett volna hizlalnom a vidék összes sárkányát
+Ezzel a rabszolga belsőségével: véres, gaz gazember!
+Könyörtelen, áruló, léha, kegyetlen gazember!
+Ó, bosszú!
+Miért, mekkora szamár vagyok! Ez a legbátrabb,
+Hogy engem, egy drága apa fiát meggyilkoltam,
+bosszúmra késztetett a menny és a pokol,
+ki kell, hogy szajhának bontsa ki a szívemet szavakkal,
+és essek átkozódva, mint egy nagyon sápadt
+csikó!
+Ne haragudj! foh! Körülbelül az agyam! Azt hallottam
+, hogy a színdarabon ülő bűnös lények
+a jelenet ravaszsága miatt
+annyira eltalálták a lelket, hogy mostanra
+kihirdették a gonosztetteiket;
+Mert a gyilkosság, bár nincs nyelve,
+a legcsodálatosabb szervvel fog beszélni. Megkérem ezeket a játékosokat,
+hogy játsszanak olyasmit, mint az apám meggyilkolása
+A nagybátyám előtt: Megfigyelem a kinézetét;
+A gyorsaságra sátrazom: ha nem fürdik,
+ismerem az irányt. A szellem, amelyet láttam,
+lehet az ördög, és az ördögnek ereje van
+, hogy tetszetős alakot öltsön; igen, és talán
+gyengeségemből és melankóliámból,
+mivel nagyon erős az ilyen szellemekkel,
+Visszaél velem, hogy átkozzon: Lesz indokom,
+ennél sokkal relatívabb: a darab az,
+amiben megfogom a király lelkiismeretét.
+Kijárat
+
+
+FELVÉTEL III
+I. JELENET. Egy szoba a kastélyban.
+Lépjen be CLAUDIUS KIRÁLY, GERTRUDE KIRÁLYNŐ, POLONIUS, OPHELIA, ROSENCRANTZ és GUILDENSTERN
+CLAUDIUS KIRÁLY
+És meg tudod-e kapni tőle, hogy a körülmény semmiképpen,
+miért ölti magára ezt a zűrzavart,
+olyan keményen reszelve minden csendes napját
+viharos és veszélyes őrültséggel?
+ROSENCRANTZ
+Valóban bevallja, hogy elzavartnak érzi magát;
+De mi okból semmiképpen nem fog beszélni.
+GUILDENSTERN
+Nem is találjuk őt előre, hogy megszólaljon,
+hanem ravasz őrültséggel, távol tartja magát,
+amikor valamiféle megvallásra visszük
+valódi állapotáról.
+GERTRÚD KIRÁLYNŐ
+Jól fogadott?
+ROSENCRANTZ
+Leginkább egy úriember.
+GUILDENSTERN
+De hajlamának nagy erőltetésével.
+ROSENCRANTZ
+A kérdés hanyaga; de követeléseink közül
+a legszabadabb válaszában.
+GERTRÚD KIRÁLYNŐ
+Megvizsgáltad őt?
+Bármilyen időtöltésre?
+ROSENCRANTZ
+Hölgyem, úgy esett ki, hogy bizonyos játékosok
+ugrásszerűen megbotránkoztunk az úton: ezekről meséltünk neki;
+És látszott benne, hogy valamiféle öröm
+hallatszott róla: az udvarról szólnak,
+és, ahogy gondolom, már elrendelték,
+hogy ez az este játsszon előtte.
+POLONIUS ÚR
+Ez a legigazabb:
+és könyörgött, hogy kérjem felségeiket,
+hallgassák meg és lássák a dolgot.
+CLAUDIUS KIRÁLY
+Teljes szívemből; és nagyon megelégedem,
+ha hallom, hogy ilyen hajlamos.
+Jó uraim, adjatok neki még egy élt,
+és hajtsátok célját ezekre a gyönyörökre.
+ROSENCRANTZ
+Megtesszük, uram.
+Exeunt ROSENCRANTZ és GUILDENSTERN
+
+CLAUDIUS KIRÁLY
+Édes Gertrud, hagyj el minket is;
+Hiszen szorosan elküldtük ide Hamletet,
+hogy véletlenül
+megsértse Opheliát:
+Apja és jómagam, törvényes cselekmények,
+úgy megajándékozzuk magunkat, hogy látva, láthatatlanul,
+őszintén ítélkezzünk a találkozásukról,
+és gyűjtögessünk általa, ahogy ő viselkedik,
+ha nem szenved a szerelmének nyomorúságában, vagy nem
+.
+GERTRÚD KIRÁLYNŐ
+engedelmeskedni fogok neked.
+És a te részedről, Ophelia, azt kívánom
+, hogy szép szépségeid boldog ok legyenek
+Hamlet vadságának: remélem, hogy erényeid
+ismét a megszokott útjára viszik,
+mindkettőtök tiszteletére.
+OPHELIA
+Asszonyom, bárcsak így lenne.
+Lépjen ki Gertrud királynőből
+
+POLONIUS ÚR
+Ophelia, kísérj ide. Kegyelmes, ezért kérlek,
+megajándékozzuk magunkat.
+OPHELIA-nak
+
+Olvassa el ezt a könyvet;
+Egy ilyen gyakorlat bemutatása kiszínezheti
+magányodat. Sokszor mi vagyunk a hibásak ebben...
+Túlságosan is bebizonyosodott, hogy odaadó arckifejezéssel
+és jámbor cselekedetekkel cukrozzuk fel
+magát az ördögöt.
+CLAUDIUS KIRÁLY
+[Félre] Ó, ez túl igaz!
+Milyen okos korbácsot ad lelkiismeretemnek ez a beszéd!
+A parázna arca, vakolóművészettel megszépült,
+Nem csúnyább ahhoz, ami segít,
+mint tettem legfestettebb szavamhoz:
+Ó, nehéz teher!
+POLONIUS ÚR
+Hallom, hogy jön: vonuljunk vissza, uram.
+Lépjen ki KING CLAUDIUS és POLONIUS.
+
+Lépjen be a HAMLET-be
+
+HAMLET
+Lenni vagy nem lenni, ez a kérdés:
+Vajon nemesebb-e az elmében elszenvedni
+a felháborító szerencse hevedereit és nyilait,
+vagy fegyvert fogni a bajok tengere ellen,
+és ellenszegülve véget vetni nekik? Meghalni: aludni;
+Nincs több; és egy alvással, hogy azt mondjuk, véget vetünk
+A szívfájdalomnak és az ezer természetes megrázkódtatásnak.
+Ez a hús örököse, 'ez a beteljesülés,
+amelyet áhítatosan kívánunk'. Meghalni, aludni;
+Aludni: esetleg álmodni: igen, ott a dörzsölés;
+Mert a halál álmában micsoda álmok jöhetnek.
+Amikor kikevertük ezt a halandó tekercset,
+szünetet kell adnunk: ott a tisztelet,
+ami szerencsétlenné teszi a hosszú életet;
+Mert ki viselné el az idő korbácsát és gúnyát,
+Az elnyomó vétkét, a büszke ember gyalázatát,
+A megvetett szerelem kínjait, a törvény késedelmeit,
+A hivatal pimaszságát és a megvetést
+A méltatlanok türelmes érdeme elviszi,
+Mikor ő maga
+csupaszon csupaszon csinálhatná csendességét? Ki viselné el a fardeleket,
+hogy morogjon és izzadjon a fáradt élet alatt,
+de hogy rettegés valamitől a halál után,
+A felfedezetlen ország, ahonnan
+nem tér vissza utazó, meggondolja az akaratot,
+és inkább elviseli azokat a bajokat, amelyekben szenvedünk
+, mint másokhoz repülni, akikről nem tudunk?
+Így a lelkiismeret gyávává tesz mindannyiunkat;
+És így az elhatározás őshonos árnyalata
+be van szegezve a sápadt gondolatvilágtól,
+és a nagy mélységű és pillanatnyi vállalkozások
+E tekintetben az áramlatok félrefordulnak,
+és elvesztik a cselekvés nevét. - Lágy te most!
+A szép Ophelia! Nimfa, oriszonodban
+Emlékezz minden bűnömre.
+OPHELIA
+Te jó uram,
+hogyan tisztelsz ennyi napon keresztül?
+HAMLET
+alázatosan köszönöm; na jó, jó.
+OPHELIA
+Uram, emlékeim vannak a tiédről,
+Hogy már régen vágytam újra átadni;
+Könyörgöm, most fogadd be őket.
+HAMLET
+Nem, nem én;
+Soha nem adtam neked semmit.
+OPHELIA
+Méltóságos uram, jól tudja, hogy megtette;
+És velük olyan édes leheletű szavak álltak össze,
+Amint gazdagabbá tették a dolgokat: parfümjük elveszett,
+Vedd vissza ezeket; mert a nemes elme számára
+a gazdag ajándékok szegények lesznek, ha az ajándékozók rosszindulatúnak bizonyulnak.
+Ott, uram.
+HAMLET
+Ha, ha! őszinte vagy?
+OPHELIA
+uram?
+HAMLET
+Igazságos vagy?
+OPHELIA
+Mit jelent az uraságod?
+HAMLET
+Hogy ha őszinte és tisztességes vagy, akkor az őszinteséged
+ne engedjen beszédet szépségedről.
+OPHELIA
+Lehetne-e a szépségnek jobb kereskedelme, uram, mint
+az őszinteséggel?
+HAMLET
+Igen, tényleg; mert a szépség ereje hamarabb
+megváltoztatja az őszinteséget abból, amilyen, mint az
+őszinteség ereje a szépséget az ő hasonlatosságává tudja fordítani
+: ez valamikor paradoxon volt, de most az
+idő ezt bizonyítja. Egyszer szerettelek.
+OPHELIA
+Valóban, uram, elhitette velem.
+HAMLET
+Nem kellett volna hinned nekem; mert az erény nem
+olthatja be úgy régi állományunkat, de élvezni fogjuk
+: nem szerettelek.
+OPHELIA
+Én voltam a becsapottabb.
+HAMLET
+Vigyél kolostorba: miért lennél
+bűnösök tenyésztője? Én magam közömbös vagyok őszinte;
+de mégis megvádolhatnék olyan dolgokkal, hogy
+jobb lenne, ha anyám nem viselt volna el: nagyon
+büszke vagyok, bosszúálló, ambiciózus vagyok, több sértés van a
+hátam mögött, mint amennyi gondolatom van, hogy
+formát adjon, vagy időm van, hogy megformáljam őket, vagy időm, hogy cselekedjem őket . Mit tegyenek az olyan fickók, mint én, ha föld és ég között
+mászkálnak ?
+Rendes gazemberek vagyunk,
+mindannyian; egyikünknek sem hisz. Menj el egy kolostorba.
+Hol van az apád?
+OPHELIA
+Otthon, nagyuram.
+HAMLET
+Zárják be előtte az ajtókat, hogy bolondot játsszon
+sehol, csak a saját házában. Búcsú.
+OPHELIA
+Ó, segíts neki, te édes ég!
+HAMLET
+Ha megházasodsz, ezt a csapást adom neked
+hozományodért: légy tiszta, mint a jég, tiszta, mint
+a hó, nem kerülöd el a rágalmakat. Vigyél egy
+kolostorba, menj: búcsú. Vagy ha férjhez akarsz
+menni, bolondhoz menj feleségül; mert a bölcsek elég jól tudják,
+milyen szörnyetegeket csinálsz belőlük. Egy kolostorba, menj,
+és gyorsan is. Búcsú.
+OPHELIA
+Ó, mennyei hatalmak, állítsd helyre őt!
+HAMLET
+Én is hallottam a festményeidről, elég jól; Isten
+egy arcot adott nektek, ti ​​pedig
+egy másikat csináltok magatoknak: dörömbölök, koccantok, nyüzsögtek, és
+Isten teremtményeinek becézgettek, és
+tudatlanságotokká tesztek a hitványságotokat. Menj ide, nem fogok többet rajta; ez
+megőrjített. Azt mondom, nem lesz több házasságunk:
+akik már házasok, egy kivételével mind
+élnek; a többi maradjon meg úgy, ahogy van. Egy
+kolostorba, menj.
+Kijárat
+
+OPHELIA
+O, what a noble mind is here o'erthrown!
+The courtier's, soldier's, scholar's, eye, tongue, sword;
+The expectancy and rose of the fair state,
+The glass of fashion and the mould of form,
+The observed of all observers, quite, quite down!
+And I, of ladies most deject and wretched,
+That suck'd the honey of his music vows,
+Now see that noble and most sovereign reason,
+Like sweet bells jangled, out of tune and harsh;
+That unmatch'd form and feature of blown youth
+Blasted with ecstasy: O, woe is me,
+To have seen what I have seen, see what I see!
+Re-enter KING CLAUDIUS and POLONIUS
+
+KING CLAUDIUS
+Love! his affections do not that way tend;
+Nor what he spake, though it lack'd form a little,
+Was not like madness. There's something in his soul,
+O'er which his melancholy sits on brood;
+And I do doubt the hatch and the disclose
+Will be some danger: which for to prevent,
+I have in quick determination
+Thus set it down: he shall with speed to England,
+For the demand of our neglected tribute
+Haply the seas and countries different
+With variable objects shall expel
+This something-settled matter in his heart,
+Whereon his brains still beating puts him thus
+From fashion of himself. What think you on't?
+LORD POLONIUS
+It shall do well: but yet do I believe
+The origin and commencement of his grief
+Sprung from neglected love. How now, Ophelia!
+You need not tell us what Lord Hamlet said;
+We heard it all. My lord, do as you please;
+But, if you hold it fit, after the play
+Let his queen mother all alone entreat him
+To show his grief: let her be round with him;
+And I'll be placed, so please you, in the ear
+Of all their conference. If she find him not,
+To England send him, or confine him where
+Your wisdom best shall think.
+KING CLAUDIUS
+It shall be so:
+Madness in great ones must not unwatch'd go.
+Exeunt
+
+SCENE II. A hall in the castle.
+Enter HAMLET and Players
+HAMLET
+Kérlek, mondd el a beszédet, ahogy kiejtettem neked
+, botladozva a nyelveden: de ha kimondod,
+ahogy sok játékosod teszi, én hazudtam, hogy a
+város kiáltója mondta a soraimat. Ne fűrészelje
+túl a levegőt a kezével, így, hanem használja óvatosan;
+mert a szenvedély záporában, viharában és, ahogy mondhatom,
+forgószelében, olyan mértékletességet kell elsajátítanod és ki kell szülned,
+amely simaságot adhat. Ó,
+sérti a lelket, amikor azt hallom, hogy egy robosztus
+, perifériás fickó a szenvedélyét rongyosra, nagyon
+rongyra tépi, a földönfutók fülét széthasítja, akik
+többnyire nem képesek másra, mint
+megmagyarázhatatlan butaságokra és zajokra.
+ez
+felülmúlja Heródeset: imádkozz, kerüld el.
+Első Játékos
+garantálom a becsületedet.
+HAMLET
+Ne légy túl szelíd sem, hanem a saját belátásod
+legyen a nevelőd: igazítsd a cselekvést a szóhoz, a
+szót a cselekvéshez; ezzel a különleges lépéssel nem
+a természet szerénységét: mert minden túlzásba vitt dolog
+a játék céljából fakad, amelynek célja kezdetben
+és most is az volt és az volt, hogy
+tükröt tartson a természetnek; hogy megmutassa az erénynek a saját vonásait,
+megvesse saját képét, és magát az akkori kort és testet
+formáját és nyomását. Nos, ez a túlzás
+vagy késés, bár az ügyetleneket megnevetteti
+, az értelmeseket elszomorítja; annak a
+bírálata, hogy melyiknek kell az ön juttatásában
+a többiek egész színházát lemérnie. Ó, vannak olyan
+játékosok, akiket láttam játszani, és hallottam mások
+dicséretét, és akiket – hogy ne mondjam gyalázatosan – annyira döcögősek és bömbölők, hogy
+a természet vándorai közül némelyek embert csináltak
+, és nem jóvá, annyira utálatos módon utánozták az emberiséget.
+
+
+
+Első Játékos
+Remélem, ezt közömbösen megreformáltuk velünk,
+uram.
+HAMLET
+Ó, reformálja meg teljesen. És azok, akik
+a te bohócoidat játsszák, ne beszéljenek többet, mint amennyit megszabnak nekik;
+mert vannak köztük, akik maguk is nevetni fognak, és a meddő nézőket is
+nevetésre késztetik ;
+mindeközben azonban
+meg kell fontolni a darab néhány szükséges kérdését:
+ez aljas, és nagyon szánalmas ambíciót mutat
+az ezt használó bolondban. Menj, készülj fel.
+A játékosok távoznak.
+
+Írja be: POLONIUS, ROSENCRANTZ és GUILDENSTERN
+
+Hogy most, uram! Hallani fogom a király ezt a művet?
+POLONIUS ÚR
+És a királynő is, és ez jelenleg.
+HAMLET
+Kérd meg a játékosokat, hogy siessenek.
+Lépjen ki POLONIUS-ból
+
+Segítesz siettetni őket?
+ROSENCRANTZ GUILDENSTERN
+Megtesszük, uram.
+Exeunt ROSENCRANTZ és GUILDENSTERN
+
+HAMLET
+Mi ho! Horatio!
+Írja be a HORATIO-t
+
+HORATIO
+Tessék, édes uram, az ön szolgálatában.
+HAMLET
+Horatio, te olyan ember vagy,
+mint ahogy a beszélgetésem megbirkózott vele.
+HORATIO
+Ó, kedves uram...
+HAMLET
+Nem, ne gondold, hogy hízelegnék;
+Milyen előrelépést remélhetek tőled,
+hogy nincs bevételed, csak jókedved,
+hogy táplálj és ruházz fel? Miért lenne hízelgő szegény?
+Nem, a cukrozott nyelv nyaljon abszurd pompát,
+és görbítse meg a térd terhes zsanérait,
+ahol a takarékosság követheti az őzést. Hallod?
+Mivel kedves lelkem az általa választott úrnője volt,
+és az emberek közül meg tudott különböztetni, az ő kiválasztása
+pecsételte meg magát; Mert olyan voltál
+, mint egy, a szenvedésben mindenki, aki semmit sem szenved,
+Ember, akit a szerencse áraszt és
+egyenlő köszönettel jutalmazza Hast ta'ent: és boldogok azok
+, akiknek vére és ítélete oly jól keveredik,
+Hogy nem pipa a szerencse ujjának
+Hogy megszólaljon, amit megszólal. Add ide azt az embert,
+aki nem a szenvedély rabszolgája, és én viselem őt
+a szívem mélyén, igen, a szívemben,
+ahogyan téged. - Valami túl sok ebből. -
+Ma este színdarab van a király előtt;
+Ennek egyik jelenete közel áll ahhoz a körülményhez,
+amelyet apám haláláról mondtam neked:
+örvendek, ha látod, hogy az a cselekmény zajlik,
+Még a lelked megjegyzésére is
+figyeld meg nagybátyámat: ha rejtett bûnössége
+Egy beszédben nem szabadul ki,
+Átkozott kísértet, amit láttunk,
+És az én fohásztságom
+. Figyelmesen jegyezze meg neki;
+Mert én szemeim az ő arcára szegeződnek,
+és miután mindketten ítéleteink egyesülnek
+az ő látszatának rovására.
+HORATIO
+Nos, uram:
+Ha semmit sem lop, miközben ez a darab játssza,
+és menekülést észlel, én fizetem a lopást.
+HAMLET
+Jönnek a darabra; Biztosan tétlen vagyok:
+szerezz egy helyet.
+dán felvonulás. Egy virágzás. Lépjen be KING CLAUDIUS, QUEEN GERTRUDE, POLONIUS, OPHELIA, ROSENCRANTZ, GUILDENSTERN és mások
+
+CLAUDIUS KIRÁLY
+Hogy jár az unokatestvérünk, Hamlet?
+HAMLET
+Kiváló, i' hit; a kaméleon edényéből: Eszem
+a levegőt, ígéret-zsúfolt: nem tudod így etetni a kaponokat.
+CLAUDIUS KIRÁLY
+Nem tudok mit válaszolni, Hamlet; ezek a szavak
+nem az enyémek.
+HAMLET
+Nem, most sem az enyém.
+POLONIUS-nak
+
+Uram, ön egyszer játszott az egyetemen, azt mondja?
+POLONIUS ÚR
+Ezt tettem én, uram; és jó színésznek tartották.
+HAMLET
+Mit vittél végbe?
+POLONIUS ÚR
+Eljátszottam Julius Caesart: A Capitoliumban öltek meg
+; Brutus megölt.
+HAMLET
+Durva része volt, hogy ekkora borjút ölt
+ott. Készen állnak a játékosok?
+ROSENCRANTZ
+Igen, uram; kitartanak a türelmeden.
+GERTRÚD KIRÁLYNŐ
+Gyere ide, kedves Hamlet, ülj mellém.
+HAMLET
+Nem, jó anyám, itt a fém vonzóbb.
+POLONIUS ÚR
+[CLAUDIUS KIRÁLYHOZ] Ó, ho! megjelölöd?
+HAMLET
+Hölgyem, feküdjek az ölébe?
+Lefeküdni OPHELIA lábaihoz
+
+OPHELIA
+Nem, uram.
+HAMLET
+Úgy értem, a fejem az öledben?
+OPHELIA
+Ó, uram.
+HAMLET
+Szerinted országügyekre gondoltam?
+OPHELIA
+Nem gondolok semmit, uram.
+HAMLET
+Helyes gondolat a szobalányok lábai között feküdni.
+OPHELIA
+Mi az, uram?
+HAMLET
+Semmi.
+OPHELIA
+Vidám vagy, uram.
+HAMLET
+Ki, én?
+OPHELIA
+Ó, uram.
+HAMLET
+Ó, Istenem, az egyetlen jig-készítőd. Mit tegyen egy férfi,
+mint hogy vidám legyen? mert nézd csak, milyen jókedvűen
+néz ki az anyám, és az apám ezen a két órán belül meghalt.
+OPHELIA
+Nem, ez kétszer két hónap, uram.
+HAMLET
+Amíg? Akkor nem, az ördög viseljen feketét, mert
+lesz egy sable öltönyöm. Ó egek! két
+hónapja meghalt, és még nem felejtették el? Aztán van
+remény, hogy egy nagy ember emléke fél évvel túléli az életét
+: de, asszonyom,
+akkor templomokat kell építenie; különben el kell szenvednie, hogy ne gondoljon
+a hobbilóra, amelynek sírfelirata „Mert, ó, mert, ó,
+a hobbiló elfelejtve van”.
+Hautboys játszanak. Belép a buta-show
+
+Lépj be egy királyt és egy királynőt nagyon szeretettel; a királynő átöleli, ő pedig őt. Letérdel, és tiltakozását fejezi ki előtte. Felveszi, fejét a nyakába hajtja: virágpartra fekteti: a nő, látva, hogy alszik, otthagyja. Anon bejön egy fickó, leveszi a koronáját, megcsókolja, mérget önt a király fülébe, és kilép. A királynő visszatér; holtan találja a királyt, és szenvedélyesen cselekszik. A Mérgező, néhány két-három Némával, ismét bejön, úgy tűnik, vele együtt siránkozik. A holttestet elviszik. A mérgező ajándékokkal kedveskedik a királynőnek: undorodónak és vonakodónak tűnik egy ideig, de végül elfogadja szerelmét
+
+Kimennek.
+
+OPHELIA
+Mit jelent ez, uram?
+HAMLET
+Házasodj meg, ez miching mallecho; huncutságot jelent.
+OPHELIA
+Úgy tűnik, ez a műsor importálja a darab érvelését.
+Lépjen be a Prológusba
+
+HAMLET
+Ettől a fickótól megtudjuk: a játékosok nem tudnak
+tanácsot tartani; mindent elmondanak.
+OPHELIA
+Elmondja nekünk, mit jelentett ez a műsor?
+HAMLET
+Igen, vagy bármilyen műsor, amit megmutatsz neki: ne szégyelld
+megmutatni, ő nem fogja szégyellni elmondani, mit jelent.
+OPHELIA
+Semmi vagy, semmi vagy: megjelölöm a darabot.
+Prológus
+Értünk, és a mi tragédiánkért,
+Itt lehajolva kegyelmedre,
+Türelmesen könyörgünk hallásodért.
+Kijárat
+
+HAMLET
+Ez egy prológus, vagy egy gyűrű poénja?
+OPHELIA
+– Röviden, uram.
+HAMLET
+Mint női szerelem.
+Lépjen be két játékos, a király és a királynő
+
+Játékos király
+Phoebus szekere harmincszor megkerülte
+Neptunusz sómosását és Tellus gömbölyű földjét,
+és harminctucatnyi holdat kölcsönhatásban.
+A világról már tizenkét harmincas évei voltak,
+Mióta szeretjük szívünket és Szűzhártyánkat, kezeink
+egyesülnek a legtöbb szent csapatban.
+Játékos királynő
+Oly sok utazást a nap és a hold
+adjon nekünk újra, hogy számítsunk a szerelem megtörténte előtt!
+De jaj nekem, olyan rosszul vagy már,
+olyan távol a jókedvtől és korábbi állapotodtól,
+hogy nem bízom benned. Mégis, bár nem bízom,
+kellemetlen érzés, uram, semmi sem kell:
+Mert a nők félelme és szeretete tart számot;
+Sem semmiben, sem szélsőségesen.
+Nos, mi az én szerelmem, a bizonyíték tudatta veletek;
+És amilyen nagy a szerelmem, olyan a félelmem:
+ahol nagy a szeretet, ott a legkisebb kétség is félelem;
+Ahol a kis félelmek nagyra nőnek, ott nő a nagy szerelem.
+Játékos király
+– Hit, el kell hagynom téged, szerelmem, és rövidesen;
+Az én operáns hatalmaim feladataik elvégzését hagyják:
+És te ebben a mögöttes szép világban fogsz élni,
+tisztelt, kedvesem; és valószínűleg egy olyan kedves
+Mert férjnek leszel...
+Játékos királynő
+Ó, keverd össze a többit!
+Az ilyen szerelemnek árulásnak kell lennie a mellemben:
+A második férjemben hadd legyek gonosz!
+Senki sem ment férjhez a másodikhoz, de ki ölte meg az elsőt.
+HAMLET
+[Félre] Üres, üröm.
+Játékos királynő
+Az esetek, amikor a második házasság megmozgat,
+a takarékosság alapvető tisztelete, de semmi a szerelemé:
+Másodszor holtan ölöm meg a férjemet,
+amikor a második férj megcsókol az ágyban.
+Játékos király
+Hiszem, hogy azt gondolja, amit most beszél;
+De amit mi határozunk meg, azt gyakran megszegjük.
+A cél nem más, mint az emlékezet rabszolgája,
+erőszakos születésű, de rossz érvényű;
+Ami most, mint éretlen gyümölcs, ráragad a fára;
+De essen rendületlenül, amikor megpuhulnak.
+A legszükségesebb az, hogy elfelejtjük
+Fizetni magunknak, ami önmagunknak adósság:
+Amit szenvedélyünkben ajánlunk magunknak,
+A szenvedély véget ér, a cél elveszti.
+Akár a bánat, akár az öröm erőszakossága. A
+saját magukkal való megnyilvánulásaik megsemmisítik:
+Ahol a legtöbb öröm mulat, ott a bánat a leginkább siránkozik;
+Gyász örömök, öröm gyászol, karcsú baleseten.
+Ez a világ nem való, és nem is furcsa,
+hogy még szerelmeink is megváltozzanak a szerencsénkkel együtt;
+Egy kérdés ugyanis még bizonyítandó:
+vajon a szerelem hoz-e szerencsét, vagy a szerencse a szerelem.
+Le a nagy ember, megjelölöd kedvenc legyeit;
+A szegény haladó megbarátkozik az ellenségekkel.
+És ez idáig a szerelem a szerencsén múlott;
+Mert akinek nincs szüksége, annak soha nem hiányzik barátja,
+és aki üres barátra vágyik, megpróbálja,
+közvetlenül ellenségévé teszi.
+De rendesen véget érve ott, ahol elkezdtem,
+Akaratunk és sorsunk ellenkezik,
+hogy a mi eszközeink még mindig felboruljanak;
+Gondolataink a mieink, céljaik nem a miénk:
+Gondold hát, hogy nem akarsz második férjhez menni;
+De hald meg gondolataidat, amikor az első urad meghal.
+Játékos királynő
+Sem föld adjon enni, sem az ég világosságot!
+Sport és pihenés zár tőlem éjjel-nappal!
+Kétségbeesésbe fordítsa bizalmam és reményem!
+A horgony ujjongása a börtönben legyen a célom!
+Mindegyik ellentét, amely eltünteti az öröm arcát
+.
+Mind itt, mind innen folytasson tartós viszályt,
+Ha egyszer özvegy leszek, feleség leszek!
+HAMLET
+Ha most megtörné!
+Játékos király
+– Mélyen megesküdtem. Édes, hagyj itt egy kicsit; Lelkem eltompul, és alighanem alvással
+csábítanám az unalmas napot.
+
+Alszik
+
+Játékos királynő
+Aludj, ringasd az agyad,
+és soha ne legyen balhé kettőnk között!
+Kijárat
+
+HAMLET
+Hölgyem, hogy tetszik ez a darab?
+GERTRÚD KIRÁLYNŐ
+A hölgy túl sokat tiltakozik, gondolja.
+HAMLET
+Ó, de be fogja tartani a szavát.
+CLAUDIUS KIRÁLY
+Hallottad az érvelést? Nincs benne sértés?
+HAMLET
+Nem, nem, csak tréfálkoznak, méreg a tréfa; ne bántsd
+meg a világot.
+CLAUDIUS KIRÁLY
+Hogy hívod a darabot?
+HAMLET
+Az egércsapda. Házasodj meg, hogyan? Trópusilag. Ez a darab
+egy Bécsben elkövetett gyilkosság képe: Gonzago
+a herceg neve; felesége, Baptista: meglátod
+anon; Ez egy ravasz munka: de mi ez
+? felséged és mi, akiknek szabad lelkünk van,
+nem érint meg minket: hadd ránduljon a gazos jáde,
+kicsavarodott a marunk.
+Írja be a LUCIANUS-t
+
+Ez egy Lucianus, a király unokaöccse.
+OPHELIA
+Olyan jó vagy, mint egy kórus, uram.
+HAMLET
+Tudnék tolmácsolni közted és szerelmed között, ha látnám
+a bábukat dülöngélni.
+OPHELIA
+Lelkes vagy, uram, lelkes vagy.
+HAMLET
+Egy nyögdécselésbe kerülne, ha levennéd az élemet.
+OPHELIA
+Még mindig jobb és rosszabb.
+HAMLET
+Tehát el kell fogadnod a férjedet. Kezdd, gyilkos;
+pox, hagyd el átkozott arcodat, és kezdd. Jöjjön:
+'a károgó holló bosszúból ordít.'
+LUCIANUS
+A gondolatok feketék, a kezek találóak, a gyógyszerek megfelelőek, és az idő megegyezik;
+Konföderációs szezon, különben nem lát lény;
+Te keverék rang, az éjféli gazból,
+Hecate tilalmával háromszor felrobbantott, háromszor fertőzött,
+Természetes varázslatod és szörnyű tulajdonod,
+Az egészséges életet azonnal bitorolja.
+Az alvó fülébe önti a mérget
+
+HAMLET
+Megmérgezi őt, a birtok kertjét. A neve
+Gonzago: a történet fennmaradt,
+olaszul van leírva: meglátod, hogyan
+szerzi meg a gyilkos Gonzago feleségének szerelmét.
+OPHELIA
+A király felemelkedik.
+HAMLET
+Micsoda, hamis tűztől megijedve!
+GERTRÚD KIRÁLYNŐ
+Hogy van uram?
+POLONIUS ÚR
+Add oda a darabot.
+CLAUDIUS KIRÁLY
+Adj egy kis fényt: el!
+Minden
+Fények, fények, fények!
+Lépjen ki mindenből, kivéve HAMLET-et és HORATIO-t.
+
+HAMLET
+Miért, hadd sírjon a sújtott szarvas,
+Játssz a szarvas, aki nem tud;
+Mert egyeseknek nézniük kell, míg másoknak aludniuk:
+így elfut a világ.
+Ez, uram, és a tollak erdeje – ha
+a vagyonom többi része is Törökké válna velem –, két
+tartományi rózsával a lerombolt cipőmen, nem kapok-e
+közösséget a játékosok kiáltásában, uram?
+HORATIO
+Fél részesedés.
+HAMLET
+Egy egész, I.
+Mert tudod, ó, drága Damon,
+ez a szétszedett birodalom
+Joveé volt; és most itt uralkodik
+Egy nagyon-nagyon--pajock.
+HORATIO
+Lehet, hogy rimánkodtál.
+HAMLET
+Ó jó Horatio, ezer fontért fogadom a szellem szavát
+. Észrevette?
+HORATIO
+Nagyon jól, uram.
+HAMLET
+A mérgezésről beszélve?
+HORATIO
+Nagyon jól megjegyeztem őt.
+HAMLET
+Ah, ha! Gyere, egy kis zene! gyertek a felvevők!
+Mert ha a király nem szereti a vígjátékot,
+akkor hát, belike, nem szereti, perdy.
+Gyere, egy kis zene!
+Írja be újra a ROSENCRANTZ-t és a GUILDENSTERN-t
+
+GUILDENSTERN
+Te jó, uram, biztosítson egy szót önnel.
+HAMLET
+Uram, egy egész történelem.
+GUILDENSTERN
+A király uram...
+HAMLET
+Aha, uram, mi lesz vele?
+GUILDENSTERN
+Nyugdíjas évei alatt csodálatosan elkeseredett.
+HAMLET
+Ital, uram?
+GUILDENSTERN
+Nem, uram, inkább cholerrel.
+HAMLET
+Your wisdom should show itself more richer to
+signify this to his doctor; for, for me to put him
+to his purgation would perhaps plunge him into far
+more choler.
+GUILDENSTERN
+Good my lord, put your discourse into some frame and
+start not so wildly from my affair.
+HAMLET
+I am tame, sir: pronounce.
+GUILDENSTERN
+The queen, your mother, in most great affliction of
+spirit, hath sent me to you.
+HAMLET
+You are welcome.
+GUILDENSTERN
+Nay, good my lord, this courtesy is not of the right
+breed. If it shall please you to make me a
+wholesome answer, I will do your mother's
+commandment: if not, your pardon and my return
+shall be the end of my business.
+HAMLET
+Sir, I cannot.
+GUILDENSTERN
+What, my lord?
+HAMLET
+Make you a wholesome answer; my wit's diseased: but,
+sir, such answer as I can make, you shall command;
+or, rather, as you say, my mother: therefore no
+more, but to the matter: my mother, you say,--
+ROSENCRANTZ
+Then thus she says; your behavior hath struck her
+into amazement and admiration.
+HAMLET
+O wonderful son, that can so astonish a mother! But
+is there no sequel at the heels of this mother's
+admiration? Impart.
+ROSENCRANTZ
+She desires to speak with you in her closet, ere you
+go to bed.
+HAMLET
+We shall obey, were she ten times our mother. Have
+you any further trade with us?
+ROSENCRANTZ
+My lord, you once did love me.
+HAMLET
+So I do still, by these pickers and stealers.
+ROSENCRANTZ
+Good my lord, what is your cause of distemper? you
+do, surely, bar the door upon your own liberty, if
+you deny your griefs to your friend.
+HAMLET
+Sir, I lack advancement.
+ROSENCRANTZ
+How can that be, when you have the voice of the king
+himself for your succession in Denmark?
+HAMLET
+Ay, but sir, 'While the grass grows,'--the proverb
+is something musty.
+Re-enter Players with recorders
+
+O, the recorders! let me see one. To withdraw with
+you:--why do you go about to recover the wind of me,
+as if you would drive me into a toil?
+GUILDENSTERN
+O, my lord, if my duty be too bold, my love is too
+unmannerly.
+HAMLET
+I do not well understand that. Will you play upon
+this pipe?
+GUILDENSTERN
+My lord, I cannot.
+HAMLET
+I pray you.
+GUILDENSTERN
+Believe me, I cannot.
+HAMLET
+I do beseech you.
+GUILDENSTERN
+I know no touch of it, my lord.
+HAMLET
+'Tis as easy as lying: govern these ventages with
+your lingers and thumb, give it breath with your
+mouth, and it will discourse most eloquent music.
+Look you, these are the stops.
+GUILDENSTERN
+But these cannot I command to any utterance of
+harmony; I have not the skill.
+HAMLET
+No, nézd csak, milyen méltatlan dolgot csinálsz belőlem
+! Rám játszanál; úgy tűnik, ismered
+a megállásaimat; kiragadnád rejtélyem szívét
+; megszólalnál a legalsó hangomtól
+az iránytűm tetejéig: és sok zene,
+kiváló hang van ebben a kis orgonában; mégsem tudod
+beszélni. – Sblood, azt hiszed,
+könnyebben játszanak rajtam, mint egy pipán? Hívj, milyen
+hangszert akarsz, bár idegesíthetsz, de
+nem játszhatsz rajtam.
+Írja be a POLONIUS-t
+
+Isten éltesse, uram!
+POLONIUS ÚR
+Uram, a királynő beszélni fog önnel, és
+mindjárt.
+HAMLET
+Látsz ott felhőt, ami majdnem teve alakú?
+POLONIUS ÚR
+A tömeg szerint, és valóban olyan, mint egy teve.
+HAMLET
+Azt hiszi, olyan, mint egy menyét.
+POLONIUS ÚR
+Hátul van, mint egy menyét.
+HAMLET
+Vagy mint egy bálna?
+POLONIUS ÚR
+Nagyon olyan, mint egy bálna.
+HAMLET
+Aztán időnként eljövök anyámhoz. Becsapnak
+a hajlásom tetejére. Egyszerre jövök.
+POLONIUS ÚR
+azt fogom mondani.
+HAMLET
+Könnyen megmondható.
+Lépjen ki POLONIUS-ból
+
+Hagyjatok, barátaim.
+Lépjen ki mindenből, kivéve HAMLET-et.
+
+Ez most az éjszaka nagyon varázslatos ideje,
+Amikor a templomkertek ásítanak, és maga a pokol leheli ki
+a fertőzést erre a világra: most ihatnék forró vért,
+és olyan keserű ügyeket intézhetnék, mint a nappal
+Remegne nézni. Puha! most anyámnak.
+Ó szív, ne veszítsd el természetedet;
+Nero lelke soha ne lépjen be ebbe a szilárd kebelbe:
+Hadd legyek kegyetlen, ne természetellenes:
+tőrt beszélek hozzá, de nem használok;
+Legyen ebben a nyelvem és lelkem képmutató;
+Hogy az én szavaimban akármilyen is shent,
+hogy soha, lelkem, ne adjak nekik pecsétet!
+Kijárat
+
+JELENET III. Egy szoba a kastélyban.
+Lépjen be KING CLAUDIUS, ROSENCRANTZ és GUILDENSTERN
+CLAUDIUS KIRÁLY
+Nem szeretem, és nem is áll biztonságban velünk,
+hogy elengedje az őrültségét. Ezért készülj fel;
+A megbízásodat azonnal elküldöm,
+ő pedig veled együtt Angliába:
+A birtokunk feltételei nem viselhetik el
+Hazardot olyan veszélyesen, mint ahogy óránként kinő
+az őrültségeiből.
+GUILDENSTERN
+Mi magunk biztosítjuk:
+A legszentebb és vallásos félelem az, hogy
+biztonságban tartsuk azt a sok testet,
+amely él és táplálkozik felségeddel.
+ROSENCRANTZ
+Az egyedülálló és különös élet meg van kötve,
+az elme minden erejével és fegyverével,
+hogy megóvja magát a zsivajtól; de sokkal több
+Az a szellem, akinek vagyona függ és nyugszik
+Sokak élete. A felség megszűnése
+nem egyedül hal meg; de, mint egy szakadék, azt vonja,
+ami közel van hozzá: egy masszív kerék,
+a legmagasabb hegy csúcsára van rögzítve,
+melynek hatalmas küllőihez tízezer kisebb holmi
+van bevésve és szomszédos; mely, ha leesik,
+Minden kis melléklet, kicsinyes következmény,
+Járja a dühöngő romot. Soha nem egyedül
+Sóhajtott a király, hanem általános nyögéssel.
+CLAUDIUS KIRÁLY
+Fegyverezzen fel, kérlek, erre a gyors utazásra;
+Mert bilincseket fogunk rávenni erre a félelemre,
+amely most túlságosan szabadlábú.
+ROSENCRANTZ GUILDENSTERN
+Sietni fogunk.
+Exeunt ROSENCRANTZ és GUILDENSTERN
+
+Írja be a POLONIUS-t
+
+POLONIUS ÚR
+Uram, az anyja szekrényébe megy:
+Az arras mögé közvetítem magam,
+Hallani a folyamatot; És
+amint mondtad, és bölcsen mondták:
+'Több közönségnek találkozunk, mint egy anyának.
+Mivel a természet részrehajlóvá teszi őket, hallgassák meg
+a beszédet. Légy jó, úristen:
+felhívlak, mielőtt lefekszel,
+és elmondom, amit tudok.
+CLAUDIUS KIRÁLY
+Köszönöm, kedves uram.
+Lépjen ki POLONIUS-ból
+
+Ó, az én sértettségem az, hogy az égig szagol;
+A legidősebb átok van rajta,
+egy testvér meggyilkolása. Nem tudok imádkozni,
+bár a hajlam olyan éles, mint akar:
+Erősebb bűntudatom legyőzi erős szándékomat;
+És mint a kettős üzlethez kötődő ember,
+szünetben állok, ahol először kezdem,
+és mindkettőt elhanyagolom. Mi van, ha ez az elátkozott kéz
+vastagabb lenne magánál a testvéri vértől,
+Hát nincs-e elég eső az édes mennyben,
+hogy fehérre moshassa, mint a hó? Hol szolgálja az irgalmat,
+de szembe kell nézni a sértés képével?
+És mi más az imádságban, mint ez a kettős erő,
+hogy megelőzzük, mielőtt elesünk,
+vagy bocsánat, hogy lezuhanunk? Akkor felnézek;
+Az én hibám elmúlt. De ó, milyen ima
+szolgálhat az én soromban? „Bocsásd meg a csúnya gyilkosságomat”?
+Ez nem lehet; mivel még mindig birtokában vagyok
+azoknak a hatásoknak, amelyekért a gyilkosságot elkövettem, a
+koronám, a saját ambícióm és a királynőm.
+Megkegyelmezhetnek valakinek, és megtarthatják a vétket?
+E világ romlott áramlataiban
+a sértés aranyozott keze lökheti az igazságszolgáltatást,
+és gyakran látni magát a gonosz nyereményt,
+amely kivásárolja a törvényt: de nem áll fenn;
+Nincs csoszogó, ott rejlik a cselekvés
+az ő igazi természetében; és mi magunk is kénytelenek vagyunk,
+hibáink fogáig és homlokáig,
+hogy bizonyítékot adjunk. Mi van akkor? mi pihen?
+Próbáld ki, mit tud a bűnbánat: mit nem?
+Mégis mi lehet az, ha valaki nem tud bűnbánatot tartani?
+Ó, nyomorult állam! Ó kebl fekete, mint a halál!
+Ó, meszelt lélek, az a szabadlá válásért küzdő,
+a művészet elkötelezettebb! Segítség, angyalok! Készíts tesztet!
+Íj, makacs térd; és, szív acélfüzérekkel,
+Légy puha, mint az újszülött baba ina!
+Minden rendben lehet.
+Visszavonul és letérdel
+
+Lépjen be a HAMLET-be
+
+HAMLET
+Most megtenném, megsimogassa, most imádkozik;
+És most nem teszem. És így megy a mennybe;
+És én is bosszút állok. Ez lenne beolvasva:
+Egy gazember megöli az apámat; és ezért
+én, az egyetlen fia, ugyanazt a gonosztevőt küldöm
+a mennybe.
+Ó, ez bér és fizetés, nem bosszú.
+Durván elvitte apámat, tele kenyérrel;
+Minden bûnével eltûnt, olyan sima, mint május;
+És hogy áll a könyvvizsgálata, ki tudja, mentse a mennyet?
+De a mi helyzetünkben és gondolatmenetünkben:
+'Nehéz vele, és akkor bosszút állok,
+hogy elvigyem őt a lelkének megtisztításában,
+ha alkalmas és felkészült az átmenetére?
+Nem!
+Fel, kard; és ismerj meg egy szörnyűbb hentést:
+Amikor részeg alszik, vagy haragjában,
+vagy ágya vérfertőző örömében;
+Játéknál, káromkodásnál vagy valami olyan cselekménynél
+, amiben nincs üdvösség íze;
+Azután buktasd meg, hogy a sarka az égbe rúgjon,
+S hogy a lelke olyan átkozott és fekete legyen
+, mint a pokol, hová megy. Anyám marad:
+Ez a fizika, de meghosszabbítja a beteg napjaidat.
+Kijárat
+
+CLAUDIUS KIRÁLY
+[Felkelés] Szavaim felszállnak, gondolataim lent maradnak:
+A gondolatok nélküli szavak soha nem mennek a mennybe.
+Kijárat
+
+JELENET IV. A királynő szekrénye.
+Lépjen be GERTRUDE KIRÁLYNŐ és POLONIUS
+POLONIUS ÚR
+Egyenesen jön. Nézd, otthon feküdtél neki:
+Mondd meg neki, hogy a csínytevései túl szélesek voltak ahhoz, hogy elviselje,
+és hogy kegyelmed elárasztotta, és ott állt
+Sok hőség és közte. Még itt is elkalandozok.
+Imádkozz, légy vele kerek.
+HAMLET
+[Belül] Anya, anya, anya!
+GERTRÚD KIRÁLYNŐ
+Garantálom,
+Ne félj tőlem: vonulj vissza, hallom, hogy jön.
+POLONIUS az arras mögé bújik
+
+Lépjen be a HAMLET-be
+
+HAMLET
+Nos, anya, mi a baj?
+GERTRÚD KIRÁLYNŐ
+Hamlet, nagyon megbántottad apádat.
+HAMLET
+Anya, nagyon megbántottad apámat.
+GERTRÚD KIRÁLYNŐ
+Gyere, gyere, válaszolsz tétlen nyelvvel.
+HAMLET
+Menj, menj, kérdezed gonosz nyelvvel.
+GERTRÚD KIRÁLYNŐ
+Miért, hogyan most, Hamlet!
+HAMLET
+most mi a baj?
+GERTRÚD KIRÁLYNŐ
+Elfelejtettél engem?
+HAMLET
+Nem, a rood mellett, nem úgy:
+Te vagy a királyné, a férjed testvérének felesége;
+És – ha nem így lenne! – te vagy az anyám.
+GERTRÚD KIRÁLYNŐ
+Nem, akkor megadom neked azokat, akik tudnak beszélni.
+HAMLET
+Gyere, gyere, és ülj le; meg ne mozdulj;
+Addig nem mész, amíg nem teszek fel neked egy poharat,
+ahol láthatod a legbelsőbb részed.
+GERTRÚD KIRÁLYNŐ
+mit fogsz tenni? nem ölsz meg?
+Segítség, segítség, szia!
+POLONIUS ÚR
+[Mögött] Mi, ho! segíts, segíts, segíts!
+HAMLET
+[Rajz] Hogyan most! egy patkány? Halott, dukátnak, halott!
+Áthalad az arrason
+
+POLONIUS ÚR
+[Mögött] Ó, megöltek!
+Leesik és meghal
+
+GERTRÚD KIRÁLYNŐ
+Ó én, mit csináltál?
+HAMLET
+Nem, nem tudom:
+a király az?
+GERTRÚD KIRÁLYNŐ
+Ó, micsoda kiütés és véres tett ez!
+HAMLET
+Véres tett! majdnem olyan rossz, jó anya,
+mint megölni egy királyt, és feleségül venni a testvérét.
+GERTRÚD KIRÁLYNŐ
+Mint megölni egy királyt!
+HAMLET
+Igen, hölgyem, ez volt a szavam.
+Felemeli a tömböt, és felfedezi POLONIUST
+
+Te nyomorult, kiütéses, betolakodó bolond, búcsú!
+jobbá tettelek: vedd el vagyonodat;
+Ha túl elfoglaltnak találod, az veszélyt jelent.
+Hagyd a kezed tördelését: békesség! ülj le,
+És hadd csavarjam ki a szívedet; mert így fogok tenni,
+ha áthatolható anyagból van,
+ha az átkozott szokás nem rézezte volna úgy
+, hogy bizonyíték és véd az értelem ellen.
+GERTRÚD KIRÁLYNŐ
+Mit tettem, hogy csóválni merted a nyelvedet
+az ellenem durva zajban?
+HAMLET
+Oly cselekedet
+, mely a szerénység kegyelmét és pirulását elhomályosítja,
+az erényt képmutatónak nevezi, a rózsát leveszi
+az ártatlan szerelem szép homlokáról ,
+és ott hólyagot tesz, házassági fogadalmat tesz
+Hamis, mint a kockák esküje: Ó, olyan tett,
+mint a zsugorodás testéből . Igen, ez a szilárdság és összetett tömeg, zord arckifejezéssel, mint a végzet ellen, elgondolkodtató a tetttől.
+
+
+
+
+
+GERTRÚD KIRÁLYNŐ
+Jaj én, milyen cselekedet,
+ami olyan hangosan üvölt, és mennydörög az indexben?
+HAMLET
+Nézze meg ezt a képet, és ezt:
+Két testvér hamis bemutatása.
+Lám, micsoda kegyelem ült ezen a homlokon;
+Hyperion fürtjei; maga Jove eleje;
+Egy szem, mint a Mars, fenyegetni és parancsolni;
+Egy állomás, mint a Mercury
+New hírnöke, megvilágítva egy eget csókoló dombon;
+Valóban kombináció és forma,
+Ahová minden isten rányomta a pecsétjét,
+Hogy egy ember biztosítsa a világot:
+Ez a te férjed volt. Nézze meg most, mi következik:
+Itt a férje; mint a penészes fül,
+Felrobbantja egészséges testvérét. Van szemed?
+El tudnál-e ezen a szép hegyen elmenni táplálkozni,
+és lécezni ezen a lápon? Ha! van szemed?
+Nem nevezheted szerelemnek; mert a te korodban
+szelíd a vérben a virágzás, alázatos,
+S vár az ítéletre: s melyik ítélet
+lépne ebből erre? Érzéke, bizony, van,
+különben nem lehetne mozgása; de az biztos, hogy ez az érzék
+apoplex; mert az őrület nem tévedett,
+az eksztázis értelme sem volt annyira elragadtatva,
+de fenntartott némi választási lehetőséget,
+hogy ilyen különbséget szolgálhasson. Mi az ördög nem volt,
+aki így megragadta a csuklyás-vakot?
+Szemek érzés nélkül, érzés látás nélkül,
+fülek kéz és szemek nélkül, szaglás nélkül minden,
+Vagy csak egy igazi érzék beteges része
+.
+Ó szégyen! hol van a pírod? Lázadó pokol,
+Ha lázadhatsz a matróna csontjaiban,
+A lángoló ifjúságnak az erény olyan legyen, mint a viasz,
+S olvadjon el saját tüzében: ne hirdess szégyent,
+ha a kényszeres buzgóság tölti el,
+mert a fagy maga is cselekvően ég,
+és az értelem is meggyógyul.
+GERTRÚD KIRÁLYNŐ
+Ó, Hamlet, ne beszélj többet:
+Te a lelkemre fordítod szemeimet;
+És ott olyan fekete és szemcsés foltokat látok
+, amelyek nem hagyják el árnyalatukat.
+HAMLET
+
+Nem, de egy behálózott ágy izzadtságában élni ,
+korrupcióban pörkölt, mézzel és szerelmeskedni
+a csúnya büfé felett...
+GERTRÚD KIRÁLYNŐ
+Ó, ne szólj hozzám többet;
+Ezek a szavak, mint a tőrök, behatolnak a fülembe;
+Nincs több, édes Hamlet!
+HAMLET
+Egy gyilkos és egy gazember;
+Egy rabszolga, aki nem huszadik része a ti tizedének a
+ti precedens uratok; a királyok bűne;
+A birodalom és az uralom pénztárcája,
+Hogy a polcról ellopták a drága diadémet,
+És tedd a zsebébe!
+GERTRÚD KIRÁLYNŐ
+Nincs több!
+HAMLET
+A foszlányok és foltok királya...
+Lépjen be a Ghostba
+
+Ments meg, és lebegj felettem szárnyaiddal,
+ti mennyei őrök! Milyen lenne a kegyes alakod?
+GERTRÚD KIRÁLYNŐ
+Jaj, de megőrült!
+HAMLET
+Nem jössz késedelmes fiad szidni, Hogy az időben és szenvedélyben elszállt, félelmetes parancsod fontos szereplését
+elengedi ?
+Ó, mondd!
+Szellem
+Ne felejtsd el: ez a látogatás
+csak a szinte tompa célod megvalósítására szolgál.
+De nézd, anyádon ül a csodálkozás:
+Ó, lépj közte és harcos lelke közé:
+A leggyengébb testben az önhittség legerősebb munkája:
+Szólj hozzá, Hamlet.
+HAMLET
+Hogy van veled, hölgyem?
+GERTRÚD KIRÁLYNŐ
+Jaj, hogy nincs veled,
+hogy az üresedésekre szegezed a szemed,
+és a testetlen levegővel beszélsz?
+Szemeid elé vadul kukucskál lelked;
+És, mint az alvó katonák a riadóban,
+Ágyazott hajad, mint az élet a ürülékben,
+Megindul, és feláll. Ó, szelíd fiam, szarvasod
+melegére és lángjára
+Hints hűvös türelmet. hova nézel?
+HAMLET
+Rajta, rajta! Nézd csak, milyen sápadt pillantást vet!
+Alakja és ügye egyesült, a kövekhez prédikált,
+képessé tette őket. Ne nézz rám;
+Nehogy ezzel a szánalmas cselekedettel átváltsd
+az én szigorú hatásaimat: akkor mit kell tennem,
+igaz színt akarok; könnyeket valószínűleg vér után.
+GERTRÚD KIRÁLYNŐ
+kinek mondod ezt?
+HAMLET
+Nem látsz ott semmit?
+GERTRÚD KIRÁLYNŐ
+Egyáltalán semmi; mégis mindent látok.
+HAMLET
+És nem is hallottál semmit?
+GERTRÚD KIRÁLYNŐ
+Nem, semmi más, csak mi magunk.
+HAMLET
+Miért, nézz oda! nézd, hogy ellopja!
+Apám, szokása szerint, ahogy élt!
+Nézd, hová megy, még most is, kint a portálon!
+Lépjen ki a Ghostból
+
+GERTRÚD KIRÁLYNŐ
+Ez az agyad pénzverése:
+Ez a test nélküli teremtés-extázis
+nagyon ravasz.
+HAMLET
+Eksztázis!
+Az én pulzusom, mint a tied, mérsékelten tartja az időt,
+és olyan egészséges zenét csinál: nem őrültség,
+amit kimondtam: vidd próbára,
+és én újra szóba fogom a dolgot; amely őrülettől
+kockáztatna. Anya, a kegyelem szeretetéért,
+ne tedd lelkednek azt a fontos kenetet,
+hogy ne a te vétked, hanem az én őrültségem szóljon:
+Csak nyúzni és filmezni fog a fekélyes helyet,
+Míg a korrupció rangja, a bányászat minden belül,
+Láthatatlanul megfertőz. Valld meg magad az égnek;
+Bánd meg, ami elmúlt; kerülje el azt, ami jön;
+És ne szórja a komposztot a gazra,
+hogy rangsorolja őket. Bocsásd meg ezt az erényemet;
+Mert e nyavalyás idők kövérségében
+magának a bűnnek az erénynek kell bocsánatot kérnie,
+igen, fékezze meg és kérjen szabadságot, hogy jót tegyen neki.
+GERTRÚD KIRÁLYNŐ
+Ó, Hamlet, kettészakítottad szívemet.
+HAMLET
+Ó, dobd el a rosszabbik részét,
+és éld meg a tisztábbat a másik felével.
+Jó éjt: de ne menj a nagybátyám ágyába;
+Tegyél fel egy erényt, ha nincs.
+Az a szörnyeteg, szokás, aki minden érzékkel eszik,
+Szokások ördöge, még ebben angyal,
+Hogy a tisztességes és jó cselekedetek használatára
+ugyanúgy ruhát ad, vagy ruhát,
+Amit találóan viselnek. Tartózkodj ma este,
+és ez egyfajta könnyedséget kölcsönöz
+a következő absztinenciának: a következő könnyebb;
+Használatával szinte megváltoztathatja a természet bélyegét,
+S vagy [ ] az ördögöt, vagy kidobhatja
+csodálatos erővel. Még egyszer, jó éjszakát:
+És amikor áldásra vágysz,
+áldást kérek tőled. Ugyanennek az úrnak,
+POLONIUS-ra mutatva
+
+Bűnbánatot tartok, de úgy tetszett az ég,
+hogy velem ezzel és ezzel megbüntessen,
+hogy csapásuk és szolgájuk legyek.
+Megadom neki, és jól válaszolok
+A halálra, amit adtam neki. Szóval még egyszer jó éjszakát.
+Kegyetlennek kell lennem, csak hogy kedves legyek:
+így kezdődik a rossz, és a rosszabb mögött marad.
+Még egy szót, jó hölgy.
+GERTRÚD KIRÁLYNŐ
+Mit tegyek?
+HAMLET
+Nem ez, semmi esetre sem az, amit én kérek:
+Hadd csábítson újra ágyba a dagadt király;
+Csípje meg az arcát. hívja az egerét;
+És engedd, hogy egy pár nyájas csókért,
+vagy a nyakadba evezve rohadt ujjaival,
+rávegyen, hogy ezt az egész ügyet feldúlja,
+Hogy lényegében nem vagyok őrültségben,
+hanem a mesterségben. – Jó volt, hogy tudatta vele;
+Mert ki más, ha nem királynő, tisztességes, józan, bölcs,
+Elbújna-e a karám elől, a denevértől, a gödörtől,
+az ilyen kedves dolgok? ki tenne ilyet?
+Nem, az értelme és a titkolózás ellenére
+bontsa ki a kosarat a ház tetején.
+Hadd repüljenek a madarak, s mint a híres majom,
+Következtetéseket próbálni, a kosárban kúszni,
+És kitörni a nyakadat.
+GERTRÚD KIRÁLYNŐ
+Légy biztos, ha a szavak leheletből
+és élet leheletből fakadnak, nincs életem, amit belélegezhetnék
+Amit mondtál nekem.
+HAMLET
+Angliába kell mennem; ezt tudod?
+GERTRÚD KIRÁLYNŐ
+Jaj,
+elfelejtettem: ennyi a következtetés.
+HAMLET
+Levelek vannak pecsételve: és a két iskolatársam,
+akikben bízni fogok, mint fogom,
+Ők viselik a megbízást; el kell söpörniük az utamat,
+és gazsággá kell állítaniuk. Hadd működjön;
+Mert az a sport, hogy a mérnök
+felvonja a saját petardját: és nem fog keményen menni
+, de egy yarddal a bányáik alá ásom,
+és a holdba fújom őket: Ó, ez a legédesebb,
+Ha egy sorban két mesterség közvetlenül találkozik.
+Ez az ember fog csomagolni:
+behúzom a bátorságot a szomszéd szobába.
+Anya, jó éjszakát. Valóban, ez a tanácsadó
+most a legcsendesebb, a legtitkosabb és a legsúlyosabb,
+aki az életben egy ostoba csecsemő volt.
+Jöjjön, uram, hogy a végéhez közeledjen magával.
+Jó éjszakát, anya.
+Többször kimennek; HAMLET berángatja POLONIUST
+
+
+FELVÉTEL IV
+I. JELENET. Egy szoba a kastélyban.
+Lépjen be CLAUDIUS KIRÁLY, GERTRUDE KIRÁLYNŐ, ROSENCRANTZ és GUILDENSTERN
+CLAUDIUS KIRÁLY
+Anyag van ezekben a sóhajokban, ezekben a mély hullámzásokban:
+Le kell fordítanod: „megértjük őket.
+Hol van a fiad?
+GERTRÚD KIRÁLYNŐ
+Adja meg nekünk ezt a helyet egy kis időre.
+Exeunt ROSENCRANTZ és GUILDENSTERN
+
+Ó, jó uram, mit láttam ma este!
+CLAUDIUS KIRÁLY
+Mi van, Gertrude? Hogy működik a Hamlet?
+GERTRÚD KIRÁLYNŐ
+Őrült, mint a tenger és a szél, amikor mindketten versengenek.
+Melyik a hatalmasabb: törvénytelen rohamában,
+Az arras mögött valami kavarodást hallva,
+előveszi kardját, kiált: "Pakány, patkány!"
+És ebben az agyafúrt felfogásban megöli
+a láthatatlan jó öreget.
+CLAUDIUS KIRÁLY
+Ó nehéz tett!
+Velünk is így volt, ha ott jártunk volna:
+szabadsága tele van fenyegetésekkel mindenkire;
+Neked magadnak, nekünk, mindenkinek.
+Jaj, hogyan lehet válaszolni erre a véres tettre?
+Nekünk fektetik, kinek gondviselésének
+rövidnek, visszafogottnak és kísértetmentesnek kellett volna lennie,
+Ez az őrült ifjú: de annyi volt a szerelmünk,
+Nem értenénk, mi a legmegfelelőbb;
+De mint egy csúnya betegség gazdája,
+hogy ne árulja el, hadd táplálkozzon
+Még az Élet béléből is. hová tűnt?
+GERTRÚD KIRÁLYNŐ
+Hogy széthúzza a testet, megölte:
+Akit az ő őrültsége, mint valami érc
+a fémalap ásványai között,
+tisztának mutatkozik; sír a tett miatt.
+CLAUDIUS KIRÁLY
+Ó, Gertrude, gyere el!
+A nap már nem érnek a hegyek,
+De mi szállítjuk őt innen: és ezt az aljas tettet
+Nekünk kell, minden fenségünkkel és ügyességgel,
+Mind arccal, mind mentséggel. Szia Guildenstern!
+Írja be újra a ROSENCRANTZ-t és a GUILDENSTERN-t
+
+Barátaim mindketten, csatlakozzatok hozzátok valami további segítséggel:
+Hamlet az őrületben megölte Poloniust,
+és kirángatta anyja szekrényéből:
+Menjetek, keressétek meg; beszélj tisztességesen, és vidd be a testet
+a kápolnába. Könyörgöm, siess ebben.
+Exeunt ROSENCRANTZ és GUILDENSTERN
+
+Gyere, Gertrude, felhívjuk a legbölcsebb barátainkat;
+És tudasd velük, hogy mit akarunk tenni,
+és azt is, hogy mi az, amit idő előtt megcsináltunk. Ó, gyere el!
+A lelkem tele van viszályral és rémülettel.
+Kimennek.
+
+JELENET II. Egy másik szoba a kastélyban.
+Lépjen be a HAMLET-be
+HAMLET
+Biztonságosan elhelyezve.
+ROSENCRANTZ: GUILDENSTERN:
+[Belül] Hamlet! Lord Hamlet!
+HAMLET
+Milyen zaj? ki hívja fel Hamletet?
+Ó, itt jönnek.
+Írja be a ROSENCRANTZ-t és a GUILDENSTERN-t
+
+ROSENCRANTZ
+Mit csináltál, uram, a holttesttel?
+HAMLET
+Porral összekeverve, ahova rokon.
+ROSENCRANTZ
+Mondd meg, hol van, hogy onnan vigyük,
+és vigyük a kápolnába.
+HAMLET
+Ne higgyétek el.
+ROSENCRANTZ
+Hisz mit?
+HAMLET
+Hogy megtarthatom a tanácsodat, és nem a sajátomat.
+Ráadásul szivacstól megkövetelni! milyen
+replikát kell tennie a király fiának?
+ROSENCRANTZ
+Elvisz engem szivacsnak, uram?
+HAMLET
+Igen, uram, ez felszívja a király arcát,
+jutalmait, tekintélyét. De az ilyen tisztek
+végül a legjobb szolgálatot teszik a királynak: úgy tartja őket, mint
+egy majmot, állkapcsa sarkában; első szájjal,
+utoljára lenyelni: amikor szüksége van arra, amit kiszúrtál
+, az csak szorít, és szivacs,
+újra száraz leszel.
+ROSENCRANTZ
+Nem értelek, uram.
+HAMLET
+Örülök neki: ostoba beszéd alszik a
+bolond fülben.
+ROSENCRANTZ
+Uram, meg kell mondania nekünk, hol van a holttest, és el kell mennie
+velünk a királyhoz.
+HAMLET
+A test a királynál van, de a király nincs
+a testnél. A király egy dolog...
+GUILDENSTERN
+Egy dolog, uram!
+HAMLET
+Semmiből: vigyél el hozzá. Hide róka, és minden azután.
+Kimennek.
+
+JELENET III. Egy másik szoba a kastélyban.
+Belépés KING CLAUDIUS, részt vett
+CLAUDIUS KIRÁLY
+Azért küldtem, hogy megkeressem, és megtaláljam a testet.
+Milyen veszélyes, hogy ez az ember elszabadul!
+Mégsem szabad rá kényszerítenünk az erős törvényt:
+Szereti az elzavart sokaságot,
+akik nem az ítéletükben tetszenek, hanem a szemükben;
+És ahol ez így van, a vétkes csapása meg van mérve,
+de soha nem a vétség. Hogy mindent simán és egyenletesen elviseljen,
+Ez a hirtelen elküldés
+Szándékos szünetnek kell tűnnie: a betegségek kétségbeesetten nőttek
+A kétségbeesett eszközzel megkönnyebbülnek,
+vagy egyáltalán nem.
+Írja be a ROSENCRANTZ-t
+
+Hogy most! mi történt?
+ROSENCRANTZ
+Ahol a holttestet ajándékozzák, uram,
+nem kaphatjuk meg tőle.
+CLAUDIUS KIRÁLY
+De hol van?
+ROSENCRANTZ
+Anélkül, uram; őrzött, hogy ismerje örömét.
+CLAUDIUS KIRÁLY
+Vigye elénk.
+ROSENCRANTZ
+Szia Guildenstern! hozd be az én uramat.
+Lépjen be HAMLET és GUILDENSTERN
+
+CLAUDIUS KIRÁLY
+Nos, Hamlet, hol van Polonius?
+HAMLET
+Vacsoránál.
+CLAUDIUS KIRÁLY
+Vacsoránál! ahol?
+HAMLET
+Nem ott, ahol eszik, hanem ahol megeszik: a
+politikai férgek bizonyos összehívása e'en rá. A te
+férged az egyetlen diétás császárod: minden
+teremtményt hizlalunk, hogy hizlaljunk, és magunkat hízunk
+a kukacokért: kövér királyod és sovány koldusod csak
+változó kiszolgálás, két étel, de egy asztalhoz:
+ez a vége.
+CLAUDIUS KIRÁLY
+Jaj, jaj!
+HAMLET
+Az ember halászhat a férgével, amely a
+királyból evett, és ehet abból a halból, amely abból a féregből táplálkozott.
+CLAUDIUS KIRÁLY
+Mit értesz ez alatt?
+HAMLET
+Semmi más, mint hogy megmutassam, hogyan haladhat egy király
+egy koldus zsigereiben.
+CLAUDIUS KIRÁLY
+Hol van Polonius?
+HAMLET
+A mennyben; küldd ide, hogy megnézd: ha a küldöncöd
+nem találja ott, keresd őt a másik helyen
+. De valóban, ha nem ebben a hónapban találja meg
+, akkor orrba kell mennie, amikor felmegy a
+lépcsőn az előcsarnokba.
+CLAUDIUS KIRÁLY
+Menj, keresd meg ott.
+Néhány kísérőnek
+
+HAMLET
+Addig marad, amíg eljössz.
+A kísérők elmennek.
+
+CLAUDIUS KIRÁLY
+Hamlet, ezt a tettet a te különleges biztonságodért –
+amelyet gyengéden végzünk, mint ahogyan nagyon gyászolunk
+azért, amit tettél –,
+tüzes gyorsasággal el kell küldened innen.
+A kéreg készen áll, és a szél segít,
+A munkatársak törődnek, és minden
+Angliáért hajlik.
+HAMLET
+Angliának!
+CLAUDIUS KIRÁLY
+Ó, Hamlet.
+HAMLET
+Jó.
+CLAUDIUS KIRÁLY
+Így van ez, ha tudnád a céljainkat.
+HAMLET
+Látok egy kerubot, aki látja őket. De gyere; Angliáért
+! Isten veled, drága anyám.
+CLAUDIUS KIRÁLY
+Szerető apád, Hamlet.
+HAMLET
+Anyám: apa és anya férfi és feleség; férfi
+és feleség egy test; és így, anyám. Gyere Angliába!
+Kijárat
+
+CLAUDIUS KIRÁLY
+Gyalog kövesd őt; kísértsd meg gyorsan a fedélzeten;
+Ne késleltesse; Ma este elhozom:
+El! mert minden le van pecsételve és kész.
+Más pedig az ügyre támaszkodik: imádkozzatok, siessetek.
+Exeunt ROSENCRANTZ és GUILDENSTERN
+
+És, Anglia, ha az én szerelmem nem éri el…
+Amennyire az én hatalmas hatalmam értelmet ad,
+Mivel a cicatréved mégis nyersnek és vörösnek tűnik
+a dán kard után, és szabad áhítatod
+tiszteleg előttünk – nem szabad hidegen beállítani
+szuverén eljárásunkat; amely teljes egészében importál,
+Az ehhez hasonló levelekkel
+Hamlet jelenlegi halála. Csináld, Anglia;
+Mert mint a hektikus a véremben, dühöng,
+és neked kell meggyógyítanod engem: amíg meg nem tudom, hogy elkészült,
+bár szerencsém, örömeim még el sem kezdődtek.
+Kijárat
+
+JELENET IV. Egy síkság Dániában.
+Lépjen be FORTINBRAS, egy kapitány és katonák, menetelnek
+FORTINBRAS HERCEG
+Menjen, kapitány, köszöntse tőlem a dán királyt;
+Mondd meg neki, hogy az engedélye alapján Fortinbras
+arra vágyik, hogy egy megígért felvonulást vigyen át
+a királysága felett. Tudod a találkozást.
+Ha ő felsége bármit is akarna velünk,
+kötelességünket az ő szemében fejezzük ki;
+És tudassa vele.
+Kapitány
+Nem teszem, uram.
+FORTINBRAS HERCEG
+Menj halkan.
+Lépjen ki a FORTINBRAS-ból és a katonákból.
+
+Lépjen be HAMLET, ROSENCRANTZ, GUILDENSTERN és mások
+
+HAMLET
+Jó uram, kinek a hatalma ezek?
+Kapitány
+Norvégiából származnak, uram.
+HAMLET
+Milyen szándékos volt, uram?
+Kapitány
+Lengyelország egy része ellen.
+HAMLET
+Ki parancsol nekik, uram?
+Kapitány
+Az unokaöccsei a régi Norvégiának, Fortinbrasnak.
+HAMLET
+Ellene megy ez Lengyelország főterének, uram,
+vagy valami határnak?
+Kapitány
+Őszintén szólva, és minden kiegészítés nélkül, azért
+megyünk, hogy egy kis földfoltot nyerjünk
+, amiben nincs más haszon, csak a név.
+Öt dukátot, ötöt fizetni, nem gazdálkodnék vele;
+Nem engedi meg Norvégiát vagy az A-pólus
+rangsoroló árfolyamát sem, ha térítés ellenében adják el.
+HAMLET
+Miért, akkor a Polack soha nem fogja megvédeni.
+Kapitány
+Igen, már helyőrségben van.
+HAMLET
+Kétezer lélek és húszezer dukát
+nem vitatkozik ennek a szalmaszálnak a kérdéséről:
+Ez a sok gazdagság és béke imposztúme,
+amely befelé tör, és nem mutat okot anélkül,
+hogy miért hal meg az ember. Alázatosan köszönöm, uram.
+Kapitány
+Isten veled, uram.
+Kijárat
+
+ROSENCRANTZ
+Elmennél, uram?
+HAMLET
+Egyenesen veled leszek, kicsit előbb.
+Lépjen ki mindenből, kivéve a HAMLET-et.
+
+Hogy minden alkalom ellenem szól,
+és unalmas bosszúmra sarkallja! Mi az ember,
+ha korának legfőbb jószága és piaca
+Nem lenne más, mint aludni és táplálkozni? egy vadállat, nem több.
+Bizony, az, aki ekkora beszéddel készített bennünket,
+Előre és utána nézni, nem adott nekünk
+azt a képességet és isteni okot,
+hogy kihasználatlanul bennünk forgolódjon. Nos, legyen
+az állati feledés, vagy valami őrült skrupulus
+, hogy túlságosan pontosan gondolkodom az eseményen,
+Egy gondolat, aminek csak egy része bölcsessége van,
+és mindig három rész gyáva, nem tudom,
+miért élek még azért, hogy azt mondjam: „Ezt meg kell tenni”;
+Sith van okom, akaratom, erőm és eszközöm,
+hogy ne tegyem. Példák, amelyek durva, mint a föld buzdítanak:
+Legyen szemtanúja ennek az ekkora tömegű és rohamú seregnek
+, amelyet egy finom és gyengéd herceg vezet,
+akinek szelleme isteni ambícióval felfújja
+a száját a láthatatlan eseményre,
+feltárja azt, ami halandó és bizonytalan
+mindazoknak, amelyek szerencsét, halált és veszélyt mernek,
+Még egy tojáshéjért is. Jól lenni nagynak
+nem kavarni nagy vita nélkül,
+de jó, ha veszekedést szalmaszálban találni,
+amikor a becsület a kockán. Hogy állok én akkor,
+akinek megölték az apát, az anyát befoltozták,
+az én értelmem és a vérem izgatója,
+és hagyom, hogy mindenki aludjon? míg szégyenemre
+húszezer ember küszöbön álló halálát látom,
+Hogy fantáziáért és hírnév trükkjéért
+Sírjaikba menjenek, mint ágyak, harcoljanak egy telkért,
+Amelyen a számok nem próbálhatják ki az okot,
+Melyik nem elég sír és földrész,
+hogy elrejtse a megölteket? Ó, innentől kezdve
+a gondolataim véresek legyenek, vagy ne érjenek semmit!
+Kijárat
+
+V. JELENET Elsinore. Egy szoba a kastélyban.
+Lépjen be GERTRUDE KIRÁLYNŐ, HORATIO és egy úriember
+GERTRÚD KIRÁLYNŐ
+nem fogok beszélni vele.
+Úriember
+Udvarias, sőt elvonja a figyelmet:
+A hangulatát sajnálni kell.
+GERTRÚD KIRÁLYNŐ
+Mi lenne neki?
+Úriember
+Sokat beszél az apjáról; azt mondja, hogy hall.
+Vannak trükkök a világban; és megszegi, és megdobogtatja a szívét;
+Irigykedve megtagadja a szalmát; kétségbeesetten beszél dolgokat,
+amelyek csak fél értelmet hordoznak: beszéde semmi,
+de formálatlan használata
+gyűjtésre indítja a hallgatókat; megcélozzák,
+és a szavakat saját gondolataikhoz igazítják;
+Amint a lány kacsint, bólint és gesztusokat
+ad nekik,
+valóban azt gondolná az ember, hogy felmerülhet a gondolat,
+bár semmi sem biztos, mégis nagyon boldogtalan.
+HORATIO
+– Jó volt, hogy beszéltek vele; mert veszélyes sejtéseket szórhat
+a rosszindulatú elmékbe.
+GERTRÚD KIRÁLYNŐ
+Hadd jöjjön be.
+Lépjen ki a HORATIO-ból
+
+Beteg lelkemnek, amilyen a bűn igazi természete,
+minden játék valami nagy tévedés prológusának tűnik:
+Olyannyira tele van mesterkélt féltékenységgel a bűntudat,
+Féltve ömlik ki, hogy kiokádják.
+Írja be újra a HORATIO-t az OPHELIA-val
+
+OPHELIA
+Hol van Dánia gyönyörű fensége?
+GERTRÚD KIRÁLYNŐ
+Hogy most, Ophelia!
+OPHELIA
+[Énekel]
+Honnan tudhatnám igaz szerelmed
+egy másiktól?
+Kakaskalapjával és botjával,
+És szandáljával.
+GERTRÚD KIRÁLYNŐ
+Jaj, édes hölgyem, mi importálja ezt a dalt?
+OPHELIA
+Mondd te? nem, kérlek, mark.
+Énekel
+
+Meghalt és elment, hölgyem,
+meghalt és elment;
+Fején fű-zöld gyep,
+Sarkában kő.
+GERTRÚD KIRÁLYNŐ
+Nem, de Ophelia...
+OPHELIA
+Imádkozz, Mark.
+Énekel
+
+Fehér a lepel, mint a hegyi hó...
+Lépjen be KING CLAUDIUS
+
+GERTRÚD KIRÁLYNŐ
+Jaj, ide figyelj, uram.
+OPHELIA
+[Énekel]
+Édes virágokkal teletűzdelve,
+mely a sírig söpört,
+igaz szerelemes záporokkal járt.
+CLAUDIUS KIRÁLY
+Hogy vagy, szép hölgy?
+OPHELIA
+Nos, Isten éltessen! Azt mondják, a bagoly egy pék
+lánya volt. Uram, tudjuk, mik vagyunk, de nem tudjuk,
+mik lehetünk. Isten legyen az asztalodnál!
+CLAUDIUS KIRÁLY
+Beképzeltség az apjával szemben.
+OPHELIA
+Imádkozzunk, ne legyen szó erről; de amikor
+megkérdezik, mit jelent, mondd ezt:
+Énekel
+
+Holnap Szent Bálint-nap,
+Minden reggel időre,
+És én egy szobalány az ablakodnál,
+Hogy legyek a Valentinod.
+Aztán felkelt, és felvette a ruháit,
+és betette a kamraajtót;
+Engedd be a szobalányt, az a szobalány, aki
+soha többé nem ment el.
+CLAUDIUS KIRÁLY
+Szép Ophelia!
+OPHELIA
+Valóban, eskü nélkül, véget vetek ennek:
+Énekel
+
+Gis és Saint Charity által,
+Alack, és szégyen!
+A fiatal férfiak nem fogják megtenni, ha nem jönnek;
+A kakas szerint ők a hibásak. Megígérted, hogy férjhez megyek
+, mielőtt elbuktál . Én is ezt tettem volna a napsütésben, és nem jöttél volna az ágyamhoz.
+
+
+
+CLAUDIUS KIRÁLY
+Mióta van így?
+OPHELIA
+Remélem minden rendben lesz. Türelmesnek kell lennünk, de nem tudok mást választani, mint sírni, ha azt hinném , hogy a hideg földre
+fektetik .
+Tudni fog róla a bátyám,
+ezért köszönöm jó tanácsodat. Gyere
+edzőm! Jó éjszakát hölgyeim; jó éjszakát édes hölgyeim;
+jó éjszakát, jó éjszakát.
+Kijárat
+
+CLAUDIUS KIRÁLY
+Kövesd őt szorosan; nagyon vigyázz rá,
+kérlek.
+Lépjen ki a HORATIO-ból
+
+Ó, ez a mély gyász mérge; ez mind
+az apja halálából fakad. Ó, Gertrud, Gertrud,
+Ha jön a bánat, nem egyes kémek jönnek
+, hanem zászlóaljakban. Először az apját ölték meg:
+Ezután a fiad elment; és ő a legerőszakosabb szerző
+Saját csak távolítsa el: a nép sáros,
+Sűrű és egészségtelen gondolatai és suttogása,
+a jó Polonius haláláért; s tettük csak zölden,
+Ölelõ-rablóban, hogy közbe jöjjön: szegény Ophelia
+elszakadt önmagától és tisztességes ítélõképességérõl,
+A nélkül, amik nélkül képek vagyunk, vagy puszta vadállatok:
+Utolsó, és annyi mindent magában foglalva,
+a testvére titokban Franciaországból származik;
+Csodájából táplálkozik, felhőkben tartja magát,
+S nem akarja, hogy berregő fülét fertőzze meg az
+apja haláláról szóló pestis beszédekkel;
+Ahol a szükség, az anyag koldusa,
+semmi sem ragadja személyünket a vádláshoz
+fülben és fülben. Ó, kedves Gertrudám, ez,
+Mint egy gyilkos darab, sok helyen
+fölösleges halált ad nekem.
+Zaj belül
+
+GERTRÚD KIRÁLYNŐ
+Jaj, mi ez a zaj?
+CLAUDIUS KIRÁLY
+Hol vannak a svájciaim? Hadd őrizzék az ajtót.
+Lépjen be egy másik úriember
+
+mi a baj?
+Úriember
+Mentsd meg magad, uram:
+Az óceán, túlszárnyalja a listáját,
+Nem eszi meg a lakást heves sietséggel,
+mint az ifjú Laertes, lázadó fejjel,
+O'erviseli tisztjeit. A rabló úrnak nevezi;
+És ahogy a világ még csak kezdetben volt,
+az ókor elfelejtette, szokása nem ismert,
+Minden szó megerősítői és kellékei,
+Azt kiáltják: 'Válasszunk: Laertes lesz a király:'
+Sapkák, kezek és nyelvek, tapsoljanak a felhőkig:
+"Laertes lesz a király, Laertes király!"
+GERTRÚD KIRÁLYNŐ
+Milyen vidáman sírnak a hamis nyomon!
+Ó, ez a pult, ti hamis dán kutyák!
+CLAUDIUS KIRÁLY
+Az ajtók betörtek.
+Zaj belül
+
+Lépjen be LAERTES-be, felfegyverkezve; Dánok követik
+
+LAERTES
+Hol van ez a király? Uraim, kibírja magát.
+Ma
+Nem, gyerünk be.
+LAERTES
+Kérlek, engedj el engem.
+Ma
+Fogjuk, fogjuk.
+Nyugdíjba mennek ajtó nélkül
+
+LAERTES
+Köszönöm: tartsd az ajtót. Ó te aljas király,
+add nekem atyámat!
+GERTRÚD KIRÁLYNŐ
+Nyugodtan, jó Laertes.
+LAERTES
+Az a nyugodt vércsepp gaznak kiált ki,
+felszarvazott apámnak kiált, a paráznanőt még itt is, igaz anyám
+tisztességes, mocskolatlan homloka között .
+
+CLAUDIUS KIRÁLY
+Mi az oka, Laertes,
+hogy a te lázadásod olyan óriásinak tűnik?
+Engedd el, Gertrude; ne félj személyünktől:
+Olyan istenség van, amely megvédi a királyt,
+Hogy az árulás csak kukucskálhat, amit akarna,
+keveset cselekszik akaratából. Mondd, Laertes,
+miért vagy ennyire felháborodva? Engedd el, Gertrude.
+Beszélj, ember.
+LAERTES
+Hol van az apám?
+CLAUDIUS KIRÁLY
+Halott.
+GERTRÚD KIRÁLYNŐ
+De nem tőle.
+CLAUDIUS KIRÁLY
+Hadd követelje jóllakását.
+LAERTES
+Hogyan halt meg? Nem fogok zsonglőrködni:
+a pokolba, hűség! fogadalom, a legfeketebb ördögnek!
+Lelkiismeret és kegyelem, a legmélyebb gödörig!
+merem kárhoztatni. E pontig állok,
+Hogy mind a két világot hanyagságnak adom,
+Jöjjön ami jön; csak én fogok bosszút állni
+Legalaposabban apámért.
+CLAUDIUS KIRÁLY
+Ki marad meg?
+LAERTES
+Az én akaratom, nem az egész világ:
+És az én eszközeimért olyan jól megbarátkozom velük,
+kevéssel messzire jutnak.
+CLAUDIUS KIRÁLY
+Jó Laertes,
+ha bizonyosságot akarsz tudni
+drága apád haláláról, nem áll bosszúdban,
+hogy csapás tét, barátot és ellenséget vonz,
+győztest és veszteset?
+LAERTES
+Senki, csak az ellenségei.
+CLAUDIUS KIRÁLY
+Akkor ismered őket?
+LAERTES
+Ilyen széles jó barátainak széttárom a karomat;
+És mint a kedves életet hozó pelikán,
+eledeld meg őket az én véremmel.
+CLAUDIUS KIRÁLY
+Nos, most úgy beszélsz,
+mint egy jó gyerek és egy igazi úriember.
+Hogy vétktelen vagyok atyád halála miatt,
+és legérzékenyebben gyászolok miatta,
+úgy áthat az ítéletedre,
+mint a nappal a szemedre.
+Ma
+[Belül] Hadd jöjjön be.
+LAERTES
+Hogy most! ez milyen zaj?
+Lépjen be újra az OPHELIA-ba
+
+Ó hőség, szárítsd ki az agyam! hétszer könnyek sót,
+Égessétek ki szemem értelmét és erényét!
+Az ég, őrültségedet súlyban fizetik,
+Míg mérlegünk a gerendát elfordítja. Ó májusi rózsa!
+Kedves szobalány, kedves nővér, édes Ophelia!
+Ó egek! nem lehetséges, egy fiatal szobalány esze
+Olyan erkölcsös legyen, mint egy öregember élete?
+A természet rendben van a szerelemben, és ahol jól van,
+valami értékes példát küld magáról
+a szeretett dolog után.
+OPHELIA
+[Énekel]
+Meztelenül hordták a bieren;
+Hey nonnny, nonny, hey nonnny;
+Sírjában pedig sok könnycsepp hullott: -
+Viszlát, galambom!
+LAERTES
+Ha volna eszed, és bosszút álltál volna,
+ez nem tudna így mozdulni.
+OPHELIA
+[Sings]
+Énekelned kell a-down a-down,
+és hívod őt a-down-a.
+Ó, milyen lesz a kerék! A hamis sáfár az
+, aki ellopta gazdája lányát.
+LAERTES
+Ez nem több, mint az anyag.
+OPHELIA
+Ott van a rozmaring, ez az emlékezés; imádkozz,
+szeress, emlékezz: és van árvácska. ez a gondolatoknak.
+LAERTES
+Egy dokumentum az őrületben, a gondolatokban és az emlékezésben.
+OPHELIA
+Van édeskömény neked, és columbines: van rue
+neked; és itt van néhány számomra: nevezhetjük
+herb-grace o' Sundaysnek: Ó, másképp kell viselned a rue-odat
+. Van egy százszorszép: Adnék neked
+ibolyát, de apám halálakor mind elszáradt
+: azt mondják, jó véget ért,...
+Énekel
+
+Az édes Robin az én örömöm.
+LAERTES
+Gondolat és nyomorúság, szenvedély, maga a pokol,
+a kedvesség és a csinosság felé fordul.
+OPHELIA
+[Énekel]
+És nem jön többé?
+És nem jön újra?
+Nem, nem, meghalt:
+Menj a halotti ágyadba:
+Soha többé nem jön el.
+A szakálla fehér volt, mint a hó,
+Csupa len volt az övé:
+Elment, elment,
+És elvettük a nyögést:
+Isten kegyelme lelkének!
+És minden keresztény lélek közül Istenhez imádkozom. Isten veled.
+Kijárat
+
+LAERTES
+Látod ezt, Istenem?
+CLAUDIUS KIRÁLY
+Laertes, beszélnem kell a gyászoddal,
+vagy megtagadsz tőlem. Menjetek el egymástól,
+válasszátok ki, kik lesznek a legbölcsebb barátaitok.
+És meghallják és ítélkeznek 'Twixt te és én:
+Ha közvetlenül vagy másodlagos kézzel
+találnak minket megérintett, mi a mi királyságunk,
+a mi koronánkat, életünket és mindent, amit csak lehet, a miénk,
+Neked megelégedéssel; de ha nem,
+elégedj meg azzal, hogy kölcsönözd nekünk türelmedet,
+és lelkeddel együtt dolgozunk,
+hogy kellő tartalmat adjunk neki.
+LAERTES
+Legyen ez így;
+Haláleszköze, homályos temetése -
+Nincs trófea, kard, se kikeltetés a csontjain,
+nincs nemes rítus, sem formális hivalkodás -
+Kiáltás, hogy meghallják, mintha az égtől a földig érkezett volna,
+amit nem kell megkérdőjeleznem.
+CLAUDIUS KIRÁLY
+Így lesz;
+És ahol a vétség, hulljon a nagy balta.
+Kérlek, menj velem.
+Kimennek.
+
+VI. JELENET. Egy másik szoba a kastélyban.
+Lépjen be HORATIO és egy szolga
+HORATIO
+Mik azok, akik beszélnének velem?
+Szolga
+Tengerészek, uram: azt mondják, leveleik vannak az ön számára.
+HORATIO
+Hadd jöjjenek be.
+Lépjen ki a szolgából
+
+Nem tudom, hogy a világ melyik részéről
+üdvözöljek, ha nem Lord Hamlettől.
+Lépjen be Sailors
+
+Első tengerész
+Isten áldja, uram.
+HORATIO
+Hadd áldjon meg téged is.
+Első tengerész
+Nem fog tetszeni neki, uram. Van egy levél
+önnek, uram; attól a nagykövettől származik, aki
+Angliába utazott; ha a neved Horatio, ahogy tudom,
+hogy az.
+HORATIO
+[Olvasik] „Horatio, ha ezt figyelmen kívül hagytad
+, adj valami eszközt ezeknek a fickóknak a királynak:
+leveleik vannak neki. Amikor két naposak voltunk
+a tengeren, egy nagyon harcias kinevezésű kalóz
+üldözőbe vett minket. Mivel túlságosan lassúnak találtuk magunkat a vitorlában, kényszerű vitézségre tettünk szert
+, és a markolóban felszálltam
+rájuk: abban a pillanatban megszabadultak a hajónktól; így
+egyedül én lettem a foglyuk. Úgy bántak
+velem, mint az irgalmasság tolvajaival, de tudták, mit tettek
+; Jót kell tennem nekik. A király birtokolja
+azokat a leveleket, amelyeket küldtem; és javíts meg nekem
+olyan gyorsasággal, amilyen gyorsan a halált akarod. Van
+szavam, amit a füledbe kell mondanom, elnémít
+; mégis túl könnyedek a dolog unatkozásához
+. Ezek a jó fickók elhoznak oda
+, ahol én vagyok. Rosencrantz és Guildenstern
+Anglia felé tartanak: sokat kell
+róluk mesélnem. Búcsú.
+– Akit ismersz, HAMLET.
+Gyere, utat nyitok neked ezeknek a leveleidnek;
+És ne tedd gyorsabban, hogy ahhoz irányíts,
+akitől elhoztad őket.
+Kimennek.
+
+VII. JELENET. Egy másik szoba a kastélyban.
+Lépjen be KING CLAUDIUS és LAERTES
+CLAUDIUS KIRÁLY
+Lelkiismeretednek most meg kell pecsételnie ismerősömet,
+és szívedbe kell tenned barátomnak,
+Sith hallottad, és tudó füllel,
+Hogy aki megölte nemes atyádat,
+az Életemet üldözte.
+LAERTES
+Jól látszik: de mondd meg,
+miért nem léptél fel ezek ellen a bravúrok ellen,
+Olyan bûnös és olyan kapitális természetû,
+Mint biztonságod, bölcsességed, minden egyéb,
+Téged fõleg felkavart.
+CLAUDIUS KIRÁLY
+O, két különleges okból;
+Ami számodra talán nagyon szokatlannak tűnik,
+de nekem mégis erősek. A királyné, az anyja
+Szinte a külseje szerint él; és magamnak...
+Az erényem vagy a csapásom, legyen az akármelyik...
+Annyira összefonódik az életemkel és a lelkemmel,
+Hogy ahogy a csillag nem, hanem a szférájában mozog,
+nem tehettem más mellett. A másik motívum,
+Miért ne mennék el nyilvános grófhoz,
+A nagy szerelem az általános nem viseli őt;
+Ki minden hibáját vonzalmukba mártva,
+Mint a forrás, mely fát kővé változtat,
+Életét kegyelmekké változtatná; hogy a nyilaim,
+túlságosan enyhén fásva, hogy ilyen erős szél fújjon,
+ismét az íjamhoz forduljanak,
+és ne ahová céloztam volna őket.
+LAERTES
+És így vesztettem én, egy nemes atyám;
+Egy kétségbeesett viszonyba hajszolt nővér,
+akinek az értéke, ha a dicséret visszakerülhet,
+Kihívója volt minden kor hegyén
+Tökéletességéért: de bosszúm eljön.
+CLAUDIUS KIRÁLY
+Ne törd meg ezért az álmaidat: ne gondold,
+hogy olyan lapos és unalmas cuccokból vagyunk
+, hogy szakállunkat megrázhatja a veszély,
+és mulatságnak gondolhatod. Hamarosan többet fogsz hallani:
+Szerettem atyádat, mi is szeretjük magunkat;
+És ez, remélem, megtanít elképzelni...
+Lépjen be egy Messengerbe
+
+Hogy most! milyen hír?
+Hírnök
+Levelek, uram, Hamlettől:
+Ezt felségednek; ezt a királynőnek.
+CLAUDIUS KIRÁLY
+A Hamlettől! ki hozta őket?
+Hírnök
+Tengerészek, uram, mondják; Nem láttam őket:
+Claudio adta nekem; attól kapta, aki elhozta őket.
+
+CLAUDIUS KIRÁLY
+Laertes, hallani fogod őket. Hagyj minket.
+Lépjen ki a Messengerből
+
+Olvas
+
+„Magas és hatalmas, tudni fogod, hogy meztelenül állok
+királyságod előtt. Holnap könyörgök, hogy lássam
+királyi szemeidet: amikor először bocsánatot kérek tőle, elmesélem hirtelen és különösebb visszatérésem
+alkalmát .
+'HAMLET.'
+Mit jelentsen ez? A többi visszajön?
+Vagy ez valami visszaélés, és semmi ilyesmi?
+LAERTES
+Ismered a kezet?
+CLAUDIUS KIRÁLY
+Ez a Hamlet karakter. 'Meztelen!
+És itt egy utóiratban azt mondja, hogy „egyedül”.
+Tudsz tanácsot adni?
+LAERTES
+Elvesztem benne, nagyuram. De hadd jöjjön;
+Felmelegíti szívemben a betegséget,
+hogy élni fogok, és a fogaiig mondom neki:
+"Így tetted."
+CLAUDIUS KIRÁLY
+Ha így van, Laertes...
+Hogyan kellene ennek így lennie? hogyan másként?--
+Én fogok uralkodni rajtad?
+LAERTES
+Igen, uram;
+Szóval nem fogsz békére kényszeríteni.
+CLAUDIUS KIRÁLY
+A saját békédre. Ha most visszakerül,
+Mint útját ellenőrzi, és
+nem akarja tovább vállalni, kidolgozom
+egy olyan zsákmányra, amely már megérett a készülékemben,
+amely alatt nem választhat, hanem elesik:
+És haláláért nem lehel hibáztató szele,
+de még az anyja is feloldja a gyakorlatot
+, és véletlennek nevezi.
+LAERTES
+Uram, uralkodni fogok;
+Inkább, ha úgy tudnád kitalálni,
+hogy én legyek az orgona.
+CLAUDIUS KIRÁLY
+Jól esik.
+Utazásod óta sokat beszélnek rólad,
+és Hamlet hallása szerint, olyan tulajdonságért
+, amiben, mondják, ragyogsz: a részek összege
+Nem tépett ki belőle akkora irigységet,
+mint az, és az, szerintem,
+a legméltatlanabb ostromról.
+LAERTES
+Ez melyik része, uram?
+CLAUDIUS KIRÁLY
+Nagyon szegény fiatalság sapkájában,
+de szükséges is; mert a fiatalság nem kevésbé lesz
+A könnyű és hanyag festés, amelyet visel,
+mint a letelepedett kor sableja és gazja,
+Egészséget és komolyságot hoz. Két hónapja,
+Itt volt egy normandiai úriember: -
+Láttam magam és szolgáltam a franciák ellen,
+és jól tudnak lóháton ülni: de ez a gáláns
+Boszorkányság nem volt benne; a helyére nőtt;
+És ilyen csodás cselekedetekre hozta a lovát,
+Amint a bátor vadállattal megtestesült és elszegényedett
+: mindeddig felülmúlta a gondolatomat,
+hogy én, formák és trükkök hamisításában,
+elmulasztom, amit tett.
+LAERTES
+Norman nem volt?
+CLAUDIUS KIRÁLY
+Egy normann.
+LAERTES
+Az életemre, Lamond.
+CLAUDIUS KIRÁLY
+Ugyanaz.
+LAERTES
+Jól ismerem: ő valóban az
+egész nemzet fibulája és gyöngyszeme.
+CLAUDIUS KIRÁLY
+Vallomást tett rólad,
+és olyan mesteri jelentést adott neked
+A művészetért és a gyakorlásért a védelmedben,
+és különösen a karddal kapcsolatban,
+hogy felkiáltott: „Igaz látvány lenne,
+ha valaki hozzád hasonlítana: nemzetük sivalkodóinak,
+megesküdött, nem volt sem mozgásuk, sem őrségük, sem szemük,
+ha szembeszálltál velük. Uram, ez a jelentés
+a Hamletről annyira megmérgezte az irigységét
+, hogy nem tehetett mást, mint kívánni és könyörögni, hogy
+jöjjön el, játsszon vele.
+Most, ebből...
+LAERTES
+Mi lesz ebből, uram?
+CLAUDIUS KIRÁLY
+Laertes, kedves volt neked az apád?
+Vagy olyan vagy, mint egy bánat festménye,
+Egy szív nélküli arc?
+LAERTES
+Miért kérdezed ezt?
+CLAUDIUS KIRÁLY
+Nem mintha azt hinném, hogy nem szeretted az apádat;
+De tudom, hogy a szerelmet az idő kezdi;
+És ahogy látom, a bizonyítási részekben
+az Idő minősíti annak szikráját és tüzét.
+A szeretet lángjában lakik
+Egyfajta kanóc vagy tubák, amely elfojtja azt;
+És még mindig semmi sem olyan, mint a jóság;
+Mert a jóság, aki pluritikussá válik,
+túlságosan belehal a sajátjába: hogy mi tennénk
+Tennünk kellene, amikor megtennénk; mert ez „változna”
+És van csökkenése és késése Ahány
+nyelv, annyi kéz, annyi baleset;
+És akkor ez a „kell” olyan, mint egy költekező sóhaj,
+ami fáj az enyhüléstől. De a fekély gyorsaságához:--
+Hamlet visszajön: mit vállalnál, Hogy inkább
+tettekben mutasd meg apád fiát,
+mint szóval?
+LAERTES
+Hogy elvágja a torkát i' a templom.
+CLAUDIUS KIRÁLY
+Valójában egyetlen helynek sem szabad a gyilkosság szentélyévé válnia;
+A bosszúnak nem szabad határokat szabnia. De jó Laertes,
+megtennéd, maradj szorosan a szobádban.
+Hamlet visszatér'd tudni fogja, hogy hazajöttél:
+Felöltjük azokat, akik dicsérik kiválóságodat,
+és dupla lakkot helyeznek a hírnévre
+A francia adott, összehozz benneteket,
+és fogadjon a fejeteken: ő, lévén hanyag,
+Legnagylelkűbb és minden mesterkedéstől mentes,
+Nem fogja átnézni a fóliákat; hogy könnyedén,
+vagy egy kis csoszogással válassz
+egy kardot, és gyakorlás közben
+viszonozd apádért.
+LAERTES
+Nem teszem:
+És erre a célra felkenem a kardomat.
+Vettem egy kenyeret egy hegyi partról,
+olyan halandó, de márts bele kést,
+Ahol vért szív, nincs olyan ritka kataplazma,
+Minden egyszerűből gyűjtöttem, aminek erénye van
+a Hold alatt, megmentheti a dolgot a haláltól
+Ez csak megkarcolva: Megérintem a pontomat
+Ezzel a fertőzővel, hogy ha kissé megepesztem,
+halál lehet.
+CLAUDIUS KIRÁLY
+Gondolkodjunk tovább ezen;
+Mérlegeljük, milyen kényelem illeszthet minket az idő és az eszközök
+alakjához: ha ez nem sikerül,
+és hogy a sodródásunk átnéz a rossz teljesítményünkön:
+„Jobb lenne, ha nem vizsgálnánk meg: ezért
+legyen ennek a projektnek háta vagy második, az tarthat,
+ha ez bizonyítja. Puha! hadd lássam:
+Ünnepélyes fogadást kötünk a ravaszságodra: I ha't.
+Amikor mozgás közben forró vagy és száraz,
+mert a rohamok hevesebbé válnak,
+és hogy inni hív, készítek neki
+egy kelyhet a semmihez, amelybe csak kortyolgat,
+ha véletlenül kiszabadulna a mérgéből,
+célunk ott tarthat.
+Lépjen be GERTRUDE KIRÁLYNŐ
+
+Hogy most, édes királynőm!
+GERTRÚD KIRÁLYNŐ
+Egyik jaj tapos a másik sarkán,
+olyan gyorsan követik; A húgod megfulladt, Laertes.
+LAERTES
+Megfulladt! Ó, hol?
+GERTRÚD KIRÁLYNŐ
+Van egy fűz, ferdén nő patak,
+Amely az üveges patakban mutatja rekedt leveleit;
+Fantasztikus füzérekkel jött oda
+Varjúvirágok, csalánok, százszorszépek és hosszú bíborok
+Hogy a szabadelvű pásztorok durvább nevet adnak,
+De hideg szolgálólányaink holtak ujjai hívják őket:
+Ott, a függő ágakon koronás gazja
+Felakasztva felkapaszkodott, egy irigy szálka tört le;
+Amikor le a gazos trófeáit és magát
+Beesett a síró patakba. Ruhája szétterült;
+És sellőszerűen untatták egy darabig:
+Mikor régi dallamokat énekelt;
+Mint aki nem képes saját szorongatására,
+Vagy mint egy bennszülött lény, aki
+erre az elemre engedett: de sokáig nem lehetett,
+amíg italuktól nehezedő ruhája
+dallamos fekvéséből
+sáros halálba rángatta a szegény nyomorult.
+LAERTES
+Jaj, akkor megfulladt?
+GERTRÚD KIRÁLYNŐ
+Megfulladtam, megfulladtam.
+LAERTES
+Túl sok a vized, szegény Ophelia,
+és ezért megtiltom könnyeimet, de mégis
+ez a mi trükkünk; természet az ő szokása tartja,
+Mondja a szégyen, mit fog: ha ezek elmúlnak,
+Az asszony kint lesz. Adieu, uram:
+Tűz beszédem van, hogy a fain lángolna,
+de ez a bolondság megerősíti.
+Kijárat
+
+CLAUDIUS KIRÁLY
+Kövessük, Gertrude:
+Mennyi mindent kellett tennem, hogy lecsillapítsam a dühét!
+Most attól félek, hogy ez újrakezdi;
+Ezért kövessük.
+Kimennek.
+
+
+V. FELVÉTEL
+I. JELENET Egy templomkert.
+Írj be két bohócot, ásóval stb
+Első Bohóc
+Keresztény temetésbe kell temetni, aki
+szándékosan keresi a saját üdvösségét?
+Második Bohóc
+Mondom néked, hogy ő az, és azért tedd
+egyenesbe a sírját: a korona ráült, és
+keresztény temetésnek találta.
+Első Bohóc
+Hogy lehet ez, hacsak nem fulladt meg a
+saját védelmében?
+Második Bohóc
+Miért, úgy találták.
+Első Bohóc
+Biztosan "se offendendo"; nem is lehet más. Mert
+itt rejlik a lényeg: ha tudatosan megfulladok,
+az cselekményt vitat, és a cselekedetnek három ága van: ez
+: cselekedni, tenni, végrehajtani: argal,
+tudatosan vízbe fulladt.
+Második Bohóc
+Nem, de hallod, jóember delver...
+Első Bohóc
+Engedj el. Itt fekszik a víz; jó: itt
+áll az ember; jó; ha az ember ebbe a vízbe megy,
+és megfullad, akkor elmegy,
+jelölje meg; de ha a víz hozzájut,
+és megfullad, nem magát fojtja meg: argal, aki
+nem vétkes a saját halálában, nem rövidíti meg életét.
+Második Bohóc
+De ez a törvény?
+Első Bohóc
+Igen, házasodj meg, nem; a korona küldetésének törvénye.
+Második Bohóc
+Nem lesz benned az igazság? Ha ez nem úri nő lett volna
+, el kellett volna temetni a
+keresztény temetésben.
+Első Bohóc
+Miért, azt mondod: és annál szánalmasabb, hogy
+a nagy emberek megfulladjanak vagy felakasztathassák magukat ezen a világon
+, mint a keresztényeik
+. Gyere, ásóm. Nincs ősi
+úriember, csak kertészek, árokásók és temetők:
+ők tartják fenn Ádám hivatását.
+Második Bohóc
+úriember volt?
+Első Bohóc
+Ő volt az első, aki valaha fegyvert viselt.
+Második Bohóc
+Miért, nem volt nála.
+Első Bohóc
+Mi van, pogány vagy? Hogyan érted a
+Szentírást? A Szentírás azt mondja: „Ádám ásott”:
+tudna ásni fegyverek nélkül? Még egy kérdést teszek fel
+neked: ha nem a célnak megfelelően válaszolsz
+, valld be magad...
+Második Bohóc
+Menj ide.
+Első Bohóc
+Mi az, aki erősebben épít, mint akár a
+kőműves, akár a hajóépítő, akár az asztalos?
+Második Bohóc
+Az akasztófa-készítő; mert az a keret
+ezer bérlőt él túl.
+Első Bohóc
+Jól szeretem az eszed, jóhiszeműen:
+jól áll az akasztófa; de hogy jó? jót tesz
+azoknak, akik bent vannak: most rosszat teszel, ha azt mondod, hogy az
+akasztófa erősebb, mint a templom: argal,
+az akasztófa jót tesz neked. Hogy ne megint, gyere.
+Második Bohóc
+– Ki épít erősebbet, mint egy kőműves, egy hajóépítő vagy
+egy asztalos?
+Első Bohóc
+Ó, mondd ezt, és ne aggódj.
+Második Bohóc
+Házasodj meg, most már elmondhatom.
+Első Bohóc
+Hogy ne.
+Második Bohóc
+Mise, nem tudom megmondani.
+Lépjen be a HAMLET és a HORATIO távolról
+
+Első Bohóc
+Ne cukkold tovább az agyadat, mert unalmas
+szamár nem fogja javítani a tempóját veréssel; és amikor
+legközelebb felteszik ezt a kérdést, mondd azt, hogy „egy
+sírkészítő: „a házak, amelyeket ő épít,
+a végítéletig tartanak. Menj, vigyél Yaughanba: hozz nekem egy
+pohár italt.
+Lépj ki a Második Bohócból
+
+Kotorászik és énekel
+
+Fiatalkoromban, amikor szerettem, szerettem,
+azt hittem, hogy ez nagyon édes,
+Összehúzódni, ó, az idő, mert, ó, kedvesem,
+ó, azt hittem, nem volt semmi.
+HAMLET
+Ez a fickó nem érzi a dolgát, hogy
+énekel a sírkészítésnél?
+HORATIO
+A szokás a könnyedség tulajdonságává tette benne.
+HAMLET
+Ez e'en így van: a kevés munkát végző kezének van
+finomabb érzéke.
+Első Bohóc
+[Énekel]
+De a kor, lopó lépteivel,
+karmába szorított,
+és eljuttatott a földig,
+mintha soha nem lettem volna.
+Feldob egy koponyát
+
+HAMLET
+Annak a koponyának nyelve volt, és egyszer el tudta énekelni:
+hogy a kés a földhöz vágja, mintha
+Káin állcsontja lenne, ez követte el az első gyilkosságot! Lehet
+, hogy egy politikus pástétom, amit ez a szamár
+most elér; amelyik megkerülné Istent,
+nem igaz?
+HORATIO
+Lehet, uram.
+HAMLET
+Vagy egy udvaroncé; amely azt mondhatná: „Jó napot,
+édes uram! Hogy van, jó uram? Lehet, hogy ez az
+én ilyen uram, aki megdicsérte
+az ilyen uram lovát, amikor könyörögni akart; lehet, hogy nem?
+HORATIO
+Ó, uram.
+HAMLET
+Miért, e'en so: és most az én Lady Worm-é; szegénytelen, és
+egy sexton ásóval kopogtatott a mazzard körül:
+itt van a jó forradalom, és megvolt a trükk, hogy nem
+láttuk. Ezeknek a csontoknak a tenyésztése nem került többe,
+hanem az, hogy a loggatban játsszunk velük? fáj, hogy ne gondoljak rá.
+Első Bohóc
+[Ének]
+Egy csákány, és egy ásó, egy ásó,
+Mert és egy lepel:
+Ó, agyaggödör, hogy készüljön
+Mert ilyen vendég találkozik.
+Feldob egy másik koponyát
+
+HAMLET
+Van egy másik: miért ne lehetne ez egy ügyvéd koponyája
+? Hol vannak most a quiddityei, a paplanjai,
+az ügyei, a hivatali ideje és a trükkjei? miért szenvedi el most ezt a durva gazembert, hogy piszkos lapáttal
+megütögesse a villanyt, és nem árulja el neki az ütős cselekedetét? Zümmögés! Ez a fickó idővel nagy földvásárló lehet , az alapszabályaival, az elismeréseivel, a bírságaival, a dupla utalványaival, a behajtásaival: ez a pénzbírsága és a behajtandó behajtása, hogy a finom pástétom tele legyen finom piszokkal? az utalványai nem garantálnak -e többet a vásárlásaiból, és a dupláját sem, mint egy pár betét hossza és szélessége? Földjének tulajdona aligha fog ebben a dobozban rejleni; és magának az örökösnek nem kell több, ha?
+
+
+
+
+
+
+
+
+
+
+
+HORATIO
+Egy jottányit sem többet, uram.
+HAMLET
+A pergamen nem báránybőrből van?
+HORATIO
+Igen, uram, és a borjúbőrökből is.
+HAMLET
+Ők birkák és borjak, amelyek
+ebben keresnek bizonyosságot. Beszélni fogok ezzel a fickóval. Kié
+ez a sír, uram?
+Első Bohóc
+Az enyém, uram.
+Énekel
+
+Ó, egy agyaggödör, amit készíteni kell
+Mert ilyen vendég találkozik.
+HAMLET
+Azt hiszem, valóban a tiéd; mert nem hazudsz.
+Első Bohóc
+Ön nem hazudik, uram, és ezért nem
+a tiéd: a magam részéről nem hazudok, és mégis az enyém.
+HAMLET
+„Nem hazudsz, nem vagy, és azt mondod, hogy a tiéd
+. ezért hazudsz.
+Első Bohóc
+– Ez egy gyors hazugság, uram; 'Twill nyereség, tőlem neked
+.
+HAMLET
+Milyen embernek ásod?
+Első Bohóc
+Senki számára, uram.
+HAMLET
+Akkor milyen nő?
+Első Bohóc
+Egyiknek sem.
+HAMLET
+Kibe kell eltemetni?
+Első Bohóc
+Egy nő volt, uram; de nyugodjon a lelke, meghalt.
+HAMLET
+Milyen abszolút a gazember! a kártya szerint kell beszélnünk
+, különben a félreértés eltöröl minket. Az Úr által,
+Horatio, ezt a három évet feljegyeztem
+; a kor úgy nőtt, hogy a
+paraszt lábujja olyan közel kerül az udvaronc sarkához, hogy
+kibújik. Mióta vagy
+sírkészítő?
+Első Bohóc
+Az év összes napjai közül arra a napra jutottam,
+amikor utolsó királyunk, Hamlet legyőzte Fortinbrast.
+HAMLET
+Mióta tart?
+Első Bohóc
+Ezt nem tudod megmondani? minden bolond elmondhatja: ez
+volt az a nap, amikor az ifjú Hamlet megszületett; aki
+megőrült, és Angliába küldték.
+HAMLET
+Igen, házasodj meg, miért küldték Angliába?
+Első Bohóc
+Miért, mert megőrült:
+ott fogja magához térni; vagy ha nem, akkor nincs nagy baj.
+HAMLET
+Miért?
+Első Bohóc
+– Twill, ott nem látni benne; ott a férfiak
+ugyanolyan őrültek, mint ő.
+HAMLET
+Hogy őrült meg?
+Első Bohóc
+Nagyon furcsa, mondják.
+HAMLET
+Milyen furcsán?
+Első Bohóc
+Faith, e'en az eszének elvesztésével.
+HAMLET
+Milyen talajon?
+Első Bohóc
+Miért, itt Dániában: harminc éve vagyok itt, férfi
+és fiú.
+HAMLET
+Meddig feküdjön az ember a földön, amíg el nem rohad?
+Első Bohóc
+Meggyőződésem, hogy ha nem rohad meg halála előtt – mivel
+manapság sok piszkos szálka van, ami alig
+tartja meg a fektetést –, akkor kibír nyolc
+-kilenc évig: egy tímár kilenc évig.
+HAMLET
+Miért ő több, mint a másik?
+Első Bohóc
+Miért, uram, a bőre annyira cserzett a mesterségétől, hogy
+sokáig távol tartja a vizet; és a vized
+a parázna holttested fájó bomlása.
+Itt most egy koponya; ez a koponya három és húsz éve feküdt a földben
+.
+HAMLET
+Kié volt?
+Első Bohóc
+Egy kurva őrült fickó volt: szerinted kié?
+HAMLET
+Nem, nem tudom.
+Első Bohóc
+Dögvész érte egy őrült szélhámosért! a'
+fejemre öntött egyszer egy lobogó Rhenish-t. Ugyanez a koponya volt,
+uram, Yorick koponyája, a király bolondja.
+HAMLET
+Ez?
+Első Bohóc
+Ez benne van.
+HAMLET
+Hadd lássam.
+Elveszi a koponyát
+
+Jaj, szegény Yorick! Ismertem őt, Horatio: a
+végtelen tréfa fickója, a legkiválóbb képzelőerő:
+ezerszer hordott a hátamon; és most, milyen
+utálatos ez a képzeletemben! szurdokom felni
+rajta. Itt lógtak azok az ajkak, amelyeket nem is tudom, milyen gyakran csókoltam
+. Hol vannak most a pofáid? a
+szerencsejátékaid? a dalaid? a vidámságod felvillanásaidat,
+amelyek szoktak üvölteni az asztalt? Most már nem
+, hogy kigúnyolja a saját vigyorogását? eléggé elesett?
+Most pedig vidd el hölgyem szobájába, és mondd meg neki, hadd
+fessen egy hüvelyk vastagra, erre a szívességre el kell
+jönnie; nevettesse el ezen. Prithee, Horatio, mondj
+egyet.
+HORATIO
+Mi az, uram?
+HAMLET
+Gondolod, hogy Sándor így nézett ki
+a földön?
+HORATIO
+Egy és ugyanaz.
+HAMLET
+And smelt so? pah!
+Puts down the skull
+
+HORATIO
+E'en so, my lord.
+HAMLET
+To what base uses we may return, Horatio! Why may
+not imagination trace the noble dust of Alexander,
+till he find it stopping a bung-hole?
+HORATIO
+'Twere to consider too curiously, to consider so.
+HAMLET
+No, faith, not a jot; but to follow him thither with
+modesty enough, and likelihood to lead it: as
+thus: Alexander died, Alexander was buried,
+Alexander returneth into dust; the dust is earth; of
+earth we make loam; and why of that loam, whereto he
+was converted, might they not stop a beer-barrel?
+Imperious Caesar, dead and turn'd to clay,
+Might stop a hole to keep the wind away:
+O, that that earth, which kept the world in awe,
+Should patch a wall to expel the winter flaw!
+But soft! but soft! aside: here comes the king.
+Enter Priest, & c. in procession; the Corpse of OPHELIA, LAERTES and Mourners following; KING CLAUDIUS, QUEEN GERTRUDE, their trains, & c
+
+The queen, the courtiers: who is this they follow?
+And with such maimed rites? This doth betoken
+The corse they follow did with desperate hand
+Fordo its own life: 'twas of some estate.
+Couch we awhile, and mark.
+Retiring with HORATIO
+
+LAERTES
+What ceremony else?
+HAMLET
+That is Laertes,
+A very noble youth: mark.
+LAERTES
+What ceremony else?
+First Priest
+Her obsequies have been as far enlarged
+As we have warrantise: her death was doubtful;
+And, but that great command o'ersways the order,
+She should in ground unsanctified have lodged
+Till the last trumpet: for charitable prayers,
+Shards, flints and pebbles should be thrown on her;
+Yet here she is allow'd her virgin crants,
+Her maiden strewments and the bringing home
+Of bell and burial.
+LAERTES
+Must there no more be done?
+First Priest
+No more be done:
+We should profane the service of the dead
+To sing a requiem and such rest to her
+As to peace-parted souls.
+LAERTES
+Lay her i' the earth:
+And from her fair and unpolluted flesh
+May violets spring! I tell thee, churlish priest,
+A ministering angel shall my sister be,
+When thou liest howling.
+HAMLET
+What, the fair Ophelia!
+QUEEN GERTRUDE
+Sweets to the sweet: farewell!
+Scattering flowers
+
+I hoped thou shouldst have been my Hamlet's wife;
+I thought thy bride-bed to have deck'd, sweet maid,
+And not have strew'd thy grave.
+LAERTES
+O, treble woe
+Fall ten times treble on that cursed head,
+Whose wicked deed thy most ingenious sense
+Deprived thee of! Hold off the earth awhile,
+Till I have caught her once more in mine arms:
+Leaps into the grave
+
+Now pile your dust upon the quick and dead,
+Till of this flat a mountain you have made,
+To o'ertop old Pelion, or the skyish head
+Of blue Olympus.
+HAMLET
+[Advancing] What is he whose grief
+Bears such an emphasis? whose phrase of sorrow
+Conjures the wandering stars, and makes them stand
+Like wonder-wounded hearers? This is I,
+Hamlet the Dane.
+Leaps into the grave
+
+LAERTES
+The devil take thy soul!
+Grappling with him
+
+HAMLET
+Thou pray'st not well.
+I prithee, take thy fingers from my throat;
+For, though I am not splenitive and rash,
+Yet have I something in me dangerous,
+Which let thy wiseness fear: hold off thy hand.
+KING CLAUDIUS
+Pluck them asunder.
+QUEEN GERTRUDE
+Hamlet, Hamlet!
+All
+Gentlemen,--
+HORATIO
+Good my lord, be quiet.
+The Attendants part them, and they come out of the grave
+
+HAMLET
+Why I will fight with him upon this theme
+Until my eyelids will no longer wag.
+QUEEN GERTRUDE
+O my son, what theme?
+HAMLET
+I loved Ophelia: forty thousand brothers
+Could not, with all their quantity of love,
+Make up my sum. What wilt thou do for her?
+KING CLAUDIUS
+O, he is mad, Laertes.
+QUEEN GERTRUDE
+For love of God, forbear him.
+HAMLET
+'Swounds, show me what thou'lt do:
+Woo't weep? woo't fight? woo't fast? woo't tear thyself?
+Woo't drink up eisel? eat a crocodile?
+I'll do't. Dost thou come here to whine?
+To outface me with leaping in her grave?
+Be buried quick with her, and so will I:
+And, if thou prate of mountains, let them throw
+Millions of acres on us, till our ground,
+Singeing his pate against the burning zone,
+Make Ossa like a wart! Nay, an thou'lt mouth,
+I'll rant as well as thou.
+QUEEN GERTRUDE
+This is mere madness:
+And thus awhile the fit will work on him;
+Anon, as patient as the female dove,
+When that her golden couplets are disclosed,
+His silence will sit drooping.
+HAMLET
+Hear you, sir;
+What is the reason that you use me thus?
+I loved you ever: but it is no matter;
+Let Hercules himself do what he may,
+The cat will mew and dog will have his day.
+Exit
+
+KING CLAUDIUS
+I pray you, good Horatio, wait upon him.
+Exit HORATIO
+
+To LAERTES
+
+Strengthen your patience in our last night's speech;
+We'll put the matter to the present push.
+Good Gertrude, set some watch over your son.
+This grave shall have a living monument:
+An hour of quiet shortly shall we see;
+Till then, in patience our proceeding be.
+Exeunt
+
+SCENE II. A hall in the castle.
+Enter HAMLET and HORATIO
+HAMLET
+So much for this, sir: now shall you see the other;
+You do remember all the circumstance?
+HORATIO
+Remember it, my lord?
+HAMLET
+Uram, szívemben egyfajta harc dúlt,
+ami nem hagyott elaludni: azt hittem,
+rosszabbul fekszem, mint a lázadások a bilbókban. Elgondolkodva,
+és dicséretet kapunk érte, tudasd velünk,
+tapintatlanságunk néha jó szolgálatot tesz nekünk,
+Ha mély cselekményeink elhalványulnak: és ez megtanít bennünket.
+Van egy istenség, amely formálja a céljainkat,
+durván vágd meg őket, ahogy akarjuk, -
+HORATIO
+Ez a legbiztosabb.
+HAMLET
+Fel a kabinomból,
+Tengeri ruhás sálam körülöttem, a sötétben
+tapogatóztam, hogy megtudjam őket; volt a vágyam.
+Ujjba vette a csomagjukat, és rendben visszament
+a saját szobámba; oly merészvé téve, hogy
+félelmeim megfeledkeznek a modorról, hogy feloldjam
+Nagy megbízatásukat; ahol megtaláltam, Horatio, -
+Ó, királyi gazember! - egy pontos parancs,
+sokféle ok miatt.
+Importálja Dánia és Anglia egészségét is,
+With, ho! ilyen bogarak és goblinok az életemben,
+Hogy a felügyelet alatt, ne legyen szabadidő,
+Nem, hogy ne maradjon a fejsze köszörülése,
+Le kell verni a fejemet.
+HORATIO
+Nem lehetséges?
+HAMLET
+Íme a megbízás: olvassa nyugodtabban.
+De meghallgatod, hogyan jártam el?
+HORATIO
+könyörgöm.
+HAMLET
+Mivel így behálózták a gazemberek, -
+Ha prológot csinálhatnék az agyamnak,
+Elkezdték a darabot - Leültettem,
+Új megbízást készítettem, tisztességesen írtam:
+Valaha úgy tartottam, mint a statisztáink,
+Aljasság tisztességesen írni, és sokat fáradozik
+Hogyan felejtsem el ezt a tanulást, de uram, most már
+ez volt a szolgálatom,
+amit írtam: yeoman?
+HORATIO
+Ó, jó uram.
+HAMLET
+A király komoly megidézése:
+Anglia volt hűséges mellékfolyója,
+ahogy a szerelem közöttük virágozhat , mint a pálma,
+ahogy a béke megerősíti a búzafüzér viseletét
+, és vesszőt kell állnia barátságaik között, és sok ehhez
+hasonló, nagy felelősséggel járó " As " száradási idő megengedett.
+
+
+
+
+HORATIO
+Hogy volt ez pecsételve?
+HAMLET
+Miért, még az égben is rendelt volt.
+Az erszényemben volt apám pecsétje,
+amely annak a dán pecsétnek a mintája volt;
+Az írást összehajtogatta a másik formája,
+Feliratkozott, nem keltett benyomást, biztonságosan elhelyezte,
+A váltó soha nem ismert. Most, másnap volt
+a tengeri harcunk; és mi volt ennek a folytatása, azt
+már tudod.
+HORATIO
+Tehát Guildenstern és Rosencrantz nem megy.
+HAMLET
+Miért, ember, szerették ezt a munkát;
+Nem állnak közel a lelkiismeretemhez; vereségük
+Saját célzásukra nő:
+'Veszélyes, ha a alantas természet jön
+A hágó és a lehullott ingerült pontok között
+hatalmas ellentétek.
+HORATIO
+Micsoda király ez!
+HAMLET
+Ugye, gondolod, nem tartasz ki nekem most:
+Aki megölte a királyomat és parázna anyámat,
+Popp a választások és reményeim között ütött,
+kidobta szögét a megfelelő életemért,
+és ilyen hűvösséggel nem tökéletes a lelkiismeret,
+hogy ezzel a karral elhagyjam? és nem kell-e elkárhozni,
+hagyni, hogy természetünknek ez a nyavalyája
+további gonoszságba kerüljön?
+HORATIO
+Nemsokára tudni fogja Angliából,
+hogy mi a helyzet az ottani üzlettel.
+HAMLET
+Rövid lesz: az interim az enyém;
+Az ember élete pedig nem több, mint azt mondani, hogy „Egy”.
+De nagyon sajnálom, jó Horatio,
+Hogy Laertesnek megfeledkeztem magamról;
+Mert ügyem képénél látom
+Az ő arcképét: udvarolni fogok az ő kegyeinek.
+De persze, a bánatának bátorsága
+toronymagas szenvedélybe tett.
+HORATIO
+Béke! ki jön ide?
+Írja be az OSRIC-t
+
+OSRIC
+Uraságod üdvözöljük vissza Dániába.
+HAMLET
+Alázatosan köszönöm, uram. Ismered ezt a vízi legyet?
+HORATIO
+Nem, jó uram.
+HAMLET
+A te állapotod a kegyelmesebb; mert gonoszság
+ismerni őt. Sok földje van, és termékeny. Legyen a
+vadállat ura a vadállatoknak, és a tarisznya álljon
+a király zűrzavarában. de, ahogy mondom,
+tágas a kosz birtokában.
+OSRIC
+Édes uram, ha uraságod szabadon engedné,
+átadnék neked valamit az ő felségétől.
+HAMLET
+Fogadni fogom, uram,
+lelkem teljes szorgalmával. Használja a motorháztetőt a megfelelő használatára; a fejnek való.
+OSRIC
+Köszönöm uraságodnak, nagyon meleg van.
+HAMLET
+Nem, hidd el, nagyon hideg van; a szél
+északi.
+OSRIC
+Közömbös a hideg, uram, valóban.
+HAMLET
+De mégis úgy gondolom, hogy nagyon fülledt és forró az arcbőrömnek
+.
+OSRIC
+Túlságosan, uram; nagyon fülledt, mint ahogy
+volt, nem tudom megmondani, hogyan. De, uram,
+őfelsége azt parancsolta, hogy jelezzem önnek, hogy nagy fogadást tett
+a fejére: uram, ez a baj...
+HAMLET
+Könyörgöm, ne feledd...
+HAMLET megindítja, hogy vegye fel a kalapját
+
+OSRIC
+Nem, jó uram; a könnyebbségemre, jóhiszeműen.
+Uram, újonnan jött Laertes az udvarba; Higgye el
+nekem, egy abszolút úriember, tele a legkiválóbb
+különbségekkel, nagyon puha társasággal és nagyszerű megjelenéssel:
+valóban, hogy érzelmesen beszéljek róla, ő a
+dzsentri kártyája vagy kalendáriuma, mert megtalálhatja benne azt a
+kontinenst, milyen részt látna egy úriember.
+HAMLET
+Uram, az ő definíciója nem szenved benned kárt;
+bár tudom, ha leltárszerűen felosztanám, az megszédítené
+az emlékezet aritmetikáját, de mégsem tántorog a
+gyors vitorlája tekintetében. De a
+magasztalás valóságában úgy tekintek rá, mint egy
+nagyszerű cikkre; és olyan ínség és ritkaság áradt belőle
+, mint hogy valódi dikciót készítsünk róla,
+az ő tükre a szemléltetője; és ki más keresné
+a nyomát, az ártatlanságát, semmi több.
+OSRIC
+Uraságod a legtévedhetetlenebben beszél róla.
+HAMLET
+Az aggodalom, uram? miért burkoljuk be az urat
+nyersebb leheletünkbe?
+OSRIC
+Uram?
+HORATIO
+Nem lehet más nyelven megérteni?
+Nem fogja, uram, tényleg.
+HAMLET
+Mit jelent ennek az úrnak a jelölése?
+OSRIC
+Laertesről?
+HORATIO
+A pénztárcája már üres; minden arany szava elfogyott.
+HAMLET
+Róla, uram.
+OSRIC
+Tudom, hogy nem vagy tudatlan...
+HAMLET
+Bárcsak megtenné, uram; de hitben, ha megtennéd,
+nem nagyon helyeselne. Nos, uram?
+OSRIC
+Nem vagy tisztában azzal, hogy Laertes milyen kiválóság...
+HAMLET
+Nem merem ezt bevallani, nehogy összemérjem vele
+a kiválóságot; de ahhoz, hogy jól ismerjünk egy embert,
+ismernie kell önmagát.
+OSRIC
+Úgy értem, uram, a fegyveréért; de az általuk felrótt beszámításban
+, a meedben nem illetéktelen.
+HAMLET
+Mi a fegyvere?
+OSRIC
+Rapier és tőr.
+HAMLET
+Ez a két fegyvere: de hát.
+OSRIC
+A király, uram, hat barbár lovat fogadott el vele
+: amelyekre, úgy látom
+, hat francia kard és póniló, a hozzájuk tartozó
+övként, fogasként stb.: három hintó
+, hit szerint, nagyon kedves, nagyon
+érzékeny a markolatra, a legfinomabb
+és a legfinomabb kocsikra.
+HAMLET
+Hogy hívják a kocsikat?
+HORATIO
+Tudtam, hogy biztosan feldobott az a margent, amit korábban tett.
+OSRIC
+A kocsik, uram, a fogasok.
+HAMLET
+A mondat németesebb lenne a dologhoz, ha
+ágyút cipelhetnénk az oldalunkon:
+addig lehet, hogy akasztók. De tovább: hat barbár ló
+hat francia kard ellen, a hozzájuk tartozók és három
+liberális beképzelt kocsi; ez a francia fogadás
+a dánok ellen. Miért van ez "megszabott", ahogy te nevezed?
+OSRIC
+A király, uram, azt fektette le, hogy egy tucat ütéssel
+közted és közte ne haladja meg
+a három ütést: tizenkettőt fektetett kilencért; és
+azonnali tárgyalásra kerülne, ha uraságod
+kezeskedne a választ.
+HAMLET
+Mi van, ha nemmel válaszolok?
+OSRIC
+Úgy értem, uram, az ön személyének ellenállása a tárgyaláson.
+HAMLET
+Sir, I will walk here in the hall: if it please his
+majesty, 'tis the breathing time of day with me; let
+the foils be brought, the gentleman willing, and the
+king hold his purpose, I will win for him an I can;
+if not, I will gain nothing but my shame and the odd hits.
+OSRIC
+Shall I re-deliver you e'en so?
+HAMLET
+To this effect, sir; after what flourish your nature will.
+OSRIC
+I commend my duty to your lordship.
+HAMLET
+Yours, yours.
+Exit OSRIC
+
+He does well to commend it himself; there are no
+tongues else for's turn.
+HORATIO
+This lapwing runs away with the shell on his head.
+HAMLET
+He did comply with his dug, before he sucked it.
+Thus has he--and many more of the same bevy that I
+know the dressy age dotes on--only got the tune of
+the time and outward habit of encounter; a kind of
+yesty collection, which carries them through and
+through the most fond and winnowed opinions; and do
+but blow them to their trial, the bubbles are out.
+Enter a Lord
+
+Lord
+My lord, his majesty commended him to you by young
+Osric, who brings back to him that you attend him in
+the hall: he sends to know if your pleasure hold to
+play with Laertes, or that you will take longer time.
+HAMLET
+I am constant to my purpose; they follow the king's
+pleasure: if his fitness speaks, mine is ready; now
+or whensoever, provided I be so able as now.
+Lord
+The king and queen and all are coming down.
+HAMLET
+In happy time.
+Lord
+The queen desires you to use some gentle
+entertainment to Laertes before you fall to play.
+HAMLET
+She well instructs me.
+Exit Lord
+
+HORATIO
+You will lose this wager, my lord.
+HAMLET
+I do not think so: since he went into France, I
+have been in continual practise: I shall win at the
+odds. But thou wouldst not think how ill all's here
+about my heart: but it is no matter.
+HORATIO
+Nay, good my lord,--
+HAMLET
+It is but foolery; but it is such a kind of
+gain-giving, as would perhaps trouble a woman.
+HORATIO
+If your mind dislike any thing, obey it: I will
+forestall their repair hither, and say you are not
+fit.
+HAMLET
+Not a whit, we defy augury: there's a special
+providence in the fall of a sparrow. If it be now,
+'tis not to come; if it be not to come, it will be
+now; if it be not now, yet it will come: the
+readiness is all: since no man has aught of what he
+leaves, what is't to leave betimes?
+Enter KING CLAUDIUS, QUEEN GERTRUDE, LAERTES, Lords, OSRIC, and Attendants with foils, & c
+
+KING CLAUDIUS
+Come, Hamlet, come, and take this hand from me.
+KING CLAUDIUS puts LAERTES' hand into HAMLET's
+
+HAMLET
+Give me your pardon, sir: I've done you wrong;
+But pardon't, as you are a gentleman.
+This presence knows,
+And you must needs have heard, how I am punish'd
+With sore distraction. What I have done,
+That might your nature, honour and exception
+Roughly awake, I here proclaim was madness.
+Was't Hamlet wrong'd Laertes? Never Hamlet:
+If Hamlet from himself be ta'en away,
+And when he's not himself does wrong Laertes,
+Then Hamlet does it not, Hamlet denies it.
+Who does it, then? His madness: if't be so,
+Hamlet is of the faction that is wrong'd;
+His madness is poor Hamlet's enemy.
+Sir, in this audience,
+Let my disclaiming from a purposed evil
+Free me so far in your most generous thoughts,
+That I have shot mine arrow o'er the house,
+And hurt my brother.
+LAERTES
+I am satisfied in nature,
+Whose motive, in this case, should stir me most
+To my revenge: but in my terms of honour
+I stand aloof; and will no reconcilement,
+Till by some elder masters, of known honour,
+I have a voice and precedent of peace,
+To keep my name ungored. But till that time,
+I do receive your offer'd love like love,
+And will not wrong it.
+HAMLET
+I embrace it freely;
+And will this brother's wager frankly play.
+Give us the foils. Come on.
+LAERTES
+Come, one for me.
+HAMLET
+I'll be your foil, Laertes: in mine ignorance
+Your skill shall, like a star i' the darkest night,
+Stick fiery off indeed.
+LAERTES
+You mock me, sir.
+HAMLET
+No, by this hand.
+KING CLAUDIUS
+Give them the foils, young Osric. Cousin Hamlet,
+You know the wager?
+HAMLET
+Very well, my lord
+Your grace hath laid the odds o' the weaker side.
+KING CLAUDIUS
+I do not fear it; I have seen you both:
+But since he is better'd, we have therefore odds.
+LAERTES
+This is too heavy, let me see another.
+HAMLET
+This likes me well. These foils have all a length?
+They prepare to play
+
+OSRIC
+Ay, my good lord.
+KING CLAUDIUS
+Set me the stoops of wine upon that table.
+If Hamlet give the first or second hit,
+Or quit in answer of the third exchange,
+Let all the battlements their ordnance fire:
+The king shall drink to Hamlet's better breath;
+And in the cup an union shall he throw,
+Richer than that which four successive kings
+In Denmark's crown have worn. Give me the cups;
+And let the kettle to the trumpet speak,
+The trumpet to the cannoneer without,
+The cannons to the heavens, the heavens to earth,
+'Now the king dunks to Hamlet.' Come, begin:
+And you, the judges, bear a wary eye.
+HAMLET
+Come on, sir.
+LAERTES
+Come, my lord.
+They play
+
+HAMLET
+One.
+LAERTES
+Nem.
+HAMLET
+Ítélet.
+OSRIC
+Találat, nagyon tapintható találat.
+LAERTES
+Jól; újra.
+CLAUDIUS KIRÁLY
+Marad; adj innom. Hamlet, ez a gyöngy a tied;
+Íme az egészséged.
+Trombiták szólalnak meg, belül ágyú dördült el
+
+Add neki a poharat.
+HAMLET
+Előbb lejátszom ezt a meccset; állítsa be egy időre. Jön.
+Játszanak
+
+Újabb találat; mit mondasz?
+LAERTES
+Egy érintés, egy érintés, bevallom.
+CLAUDIUS KIRÁLY
+A fiunk nyerni fog.
+GERTRÚD KIRÁLYNŐ
+Kövér, és alig kap levegőt.
+Tessék, Hamlet, vedd a szalvétámat, dörzsöld meg a szemöldöködet;
+A királynő a te vagyonodra tör, Hamlet.
+HAMLET
+jó asszonyom!
+CLAUDIUS KIRÁLY
+Gertrude, ne igyál.
+GERTRÚD KIRÁLYNŐ
+fogom, uram; Imádkozom, bocsáss meg.
+CLAUDIUS KIRÁLY
+[Félre] Ez a megmérgezett pohár: már késő.
+HAMLET
+Még nem merek inni, asszonyom; általa.
+GERTRÚD KIRÁLYNŐ
+Gyere, hadd töröljem meg az arcod.
+LAERTES
+Uram, most megütöm.
+CLAUDIUS KIRÁLY
+Nem hiszem, hogy nem.
+LAERTES
+[Félre] És mégis szinte sérti a lelkiismeretemet.
+HAMLET
+Jöjjön, a harmadiknak, Laertes: te, de nyájas;
+Kérlek, menj el a legjobb erőszakoddal;
+Attól tartok, hogy ostobaságra teszel engem.
+LAERTES
+Azt mondod? Gyerünk.
+Játszanak
+
+OSRIC
+Semmi, sehogy.
+LAERTES
+Hozzád most!
+LAERTES sebeket HAMLET; majd dulakodás közben kardot cserélnek, HAMLET pedig megsebesíti LAERTEST
+
+CLAUDIUS KIRÁLY
+Oszd meg őket; felbőszülnek.
+HAMLET
+Nem, gyere újra.
+GERTRUDE KIRÁLYNŐ elesik
+
+OSRIC
+Nézd a királynőt ott, ho!
+HORATIO
+Mindkét oldalon vérzik. Hogy van, uram?
+OSRIC
+Hogy nem, Laertes?
+LAERTES
+Miért, mint egy erdei kakas a saját springe-omhoz, Osric;
+Igazságosan megölnek a saját árulásommal.
+HAMLET
+Hogy van a királynő?
+CLAUDIUS KIRÁLY
+Megesik, amikor látja, hogy véreznek.
+GERTRÚD KIRÁLYNŐ
+Nem, nem, az ital, az ital, ó, kedves Hamlet,
+az ital, az ital! Meg vagyok mérgezve.
+Meghal
+
+HAMLET
+Ó gazember! Ho! legyen zárva az ajtó:
+Árulás! Keresd meg.
+LAERTES
+Itt van, Hamlet: Hamlet, megöltek;
+A világon egyetlen gyógyszer sem tehet jót neked;
+Benned nincs fél óra élet;
+Az áruló eszköz a kezedben van,
+sértetlenül és megmérgezve: a rossz gyakorlat
+rám fordult, íme, itt fekszem,
+Soha fel nem kelek: anyád mérgezett:
+Nem bírom tovább: a király, a király a hibás.
+HAMLET
+A lényeg! - méregdrága is!
+Akkor méreg, a munkádra.
+Leszúrja CLAUDIUS KIRÁLYT
+
+Minden
+Árulás! árulás!
+CLAUDIUS KIRÁLY
+Ó, mégis védelmezz engem, barátaim; de megbántott vagyok.
+HAMLET
+Tessék, vérfertőző, gyilkos, átkozott dán,
+igya meg ezt a főzetet. Itt van a szakszervezeted?
+Kövesd anyámat.
+CLAUDIUS KIRÁLY meghal
+
+LAERTES
+Igazán szolgálják;
+Ez egy mérgező vérmérséklet.
+Bocsáss meg velem, nemes Hamlet:
+Az enyém és az apám halála nem ér rád,
+és a tied rám.
+Meghal
+
+HAMLET
+Az ég szabadítson meg tőle! követlek téged.
+Meghaltam, Horatio. Nyomorult királynő, búcsú!
+Te, aki sápadtnak látszol és remegsz ettől a lehetőségtől,
+Te csak némák vagy közönséged ennek a tettnek.
+Ha csak időm lett volna – ahogy ez a bukott őrmester, a halál,
+szigorú a letartóztatása – Ó, mondhatnám…
+De legyen. Horatio, meghaltam;
+te élsz; számolj be rólam és ügyemről
+az elégedetleneknek.
+HORATIO
+Soha ne higgye el:
+Inkább antik római vagyok, mint dán:
+Maradt még egy kis ital.
+HAMLET
+Mint ember vagy,
+add nekem a poharat: engedd el; az égre, nem fogom.
+Ó, jó Horatio, micsoda sebzett név, Az
+ismeretlen dolgok mögöttem élnek!
+Ha valaha is a szívedben tartasz,
+távol maradsz egy ideig a boldogságtól,
+És ebben a zord világban szívd fel a lélegzeted a fájdalomtól,
+hogy elmeséld az én történetemet.
+Máris távol, és befelé lőtt
+
+Micsoda harci zaj ez?
+OSRIC
+Fiatal Fortinbrák, hódítással Lengyelországból származnak,
+Anglia követeinek ad
+Ez a harcias röplabda.
+HAMLET
+Ó, meghalok, Horatio;
+Az erős méreg megdöbbenti a lelkemet:
+nem tudom megélni az angliai híreket;
+De megjövendölöm a választási fényeket
+Fortinbrason: övé az én haldokló hangom;
+Tehát mondd el neki az eseményeket, többet és kevesebbet,
+amelyek kérték. A többi a csend.
+Meghal
+
+HORATIO
+Most megreped egy nemes szív. Jó éjt édes királyfi:
+És az angyalok repülõjei énekelnek téged nyugalomra!
+Miért jön ide a dob?
+március belül
+
+Lépjen be FORTINBRAS, az angol nagykövetek és mások
+
+FORTINBRAS HERCEG
+Hol van ez a látvány?
+HORATIO
+Mit látnál?
+Ha semmi baj vagy csoda, hagyd abba a keresést.
+FORTINBRAS HERCEG
+Ez a kőbánya pusztítástól sír. Ó büszke halál,
+milyen lakoma vár örök celládban,
+Hogy ennyi fejedelem egy lövésben
+Olyan véresen ütöttél?
+Első nagykövet
+A látvány komor;
+És a mi ügyeink Angliából túl későn jönnek:
+Értetlenek a fülek, amelyek hallásra késztetnének,
+hogy elmondhassuk neki, hogy beteljesült a parancsa,
+hogy Rosencrantz és Guildenstern meghaltak:
+Hol köszönjük?
+HORATIO
+Nem az ő szájából,
+Volt az élet képessége, hogy megköszönje:
+Soha nem adott parancsot a halálukra.
+De mivel, hát ugorj rá erre a véres kérdésre:
+Te a Polack-háborúkból, és te Angliából,
+Megérkeztél, adj parancsot, hogy ezek a testek
+magasan a színpadon álljanak a kilátás elé;
+És hadd beszéljek a még tudatlan világgal,
+hogyan történtek ezek: így fogsz hallani
+testi, véres és természetellenes cselekedetekről,
+véletlen ítéletekről, véletlen lemészárlásokról,
+ravasz és kényszerű okok által elkövetett halálesetekről,
+És ennek eredményeként a célok félreértették
+Fall'n a feltalálók olvasatai szerint: mindezt igazán meg tudom
+adni.
+FORTINBRAS HERCEG
+Siessünk hallani,
+S a legnemesebbeket hívjuk a hallgatóság elé.
+Számomra bánattal ölelem szerencsémet:
+van némi emlékjogom ebben a királyságban,
+ami most arra hív, hogy előnyömet szerezzem.
+HORATIO
+Erről nekem is lesz okom beszélni,
+és az ő szájából, akinek a hangja még jobban megszólal;
+De ez mindjárt megtörténik,
+még akkor is, ha az emberek elméje vad; nehogy több tévedés
+történjen.
+FORTINBRAS HERCEG
+Négy kapitány
+hordja Hamletet, mint egy katona, a színpadra;
+Valószínű ugyanis, hogy ha felöltözték volna,
+a legkirályibbnak bizonyult volna, és az átmenetére
+a katonák zenéje és a háború szertartásai
+hangosan szólnak érte.
+Vedd fel a testeket: egy ilyen látvány, mint ez,
+mezővé válik, de itt sok rosszat mutat.
+Menj, mondd a katonáknak, hogy lőjenek.
+Halott menet. Exeunt, elhordja a holttesteket; ami után egy lőszert lőnek le
