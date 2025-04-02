@@ -24,13 +24,17 @@ public class Pliki {
         System.out.println(pliki);
         // ----------------------- dodanie zawartosci -----------------------
         for(File f : tlumaczenia) {
-            pliki.get(f.getName()).add(zawartosc(f));
+            if (f.isDirectory()) {
+                File[] plikiTxt = f.listFiles(((dir, name) -> name.endsWith(".txt"))); //dodanie nowych plikow txt do kolejki
+                if(!pliki.isEmpty())
+                    for(File plik: plikiTxt)
+                        pliki.get(f.getName()).add(zawartosc(plik));
+            }
         }
         System.out.println(pliki);
 
         return pliki;
     }
-
     private static String zawartosc(File f) {
         StringBuilder sb = new StringBuilder();
         try {
@@ -43,15 +47,7 @@ public class Pliki {
         }
         return usuniecieSpecyficznychZnakow(sb.toString().toUpperCase());
     }
-
     private static String usuniecieSpecyficznychZnakow(String ciag) {
-        //todo zrobic to pattern macherem
-        StringBuilder temp = new StringBuilder();
-        for (int i = 0; i < ciag.length(); i++) {
-            if (Character.isLetter(ciag.charAt(i))) {
-                temp.append(ciag.charAt(i));//zupelnie usuniecie znakow typu "ó"","
-            }
-        }
-        return temp.toString();
+        return ciag.replaceAll("[^A-Z]", ""); //wymiana wszystkiego poza [A-Z] na nic
     }
 }

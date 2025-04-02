@@ -7,7 +7,7 @@ public class Main {
         Map<String, ArrayList<String>> pliki = Pliki.loadFiles("Jezyki");//sciezka do folderu z plikami txt
         //folder powinien byc w tym samym folderze co main
 
-        System.out.println(pliki);
+
         //todo podzielenie na zbior treningowy i testowy
 
         //todo dla kazdego jezyka jeden perceptron
