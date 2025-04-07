@@ -1,11 +1,12 @@
+import java.text.Normalizer;
 import java.util.*;
 
 //czas: do nastepnych zajec
 public class Main {
     public static void main(String[] args) {
-        int IloscCwiczen = 5;
-        double prog = 0;
-        double alpha = 0.1;
+        int IloscCwiczen = 2000; //2000
+        double prog = 0.5; //0.4
+        double alpha = 0.5; //0.5
 
         //foldery powinny byc w tym samym folderze co main
         System.out.println("------------zbior treningowy--------------");
@@ -27,47 +28,41 @@ public class Main {
             perceptrons.put(klucz, new Perceptron(znakiIlosciWystapien.get("PL").size(), prog, alpha));
         }
 
-
         // ------------- Faza 1 -> przejscie po zbiorze treningowym -------------
-        System.out.print("wynik dla epoki 0: ");
-        obliczanieDlaZbioru(pliki, znakiIlosciWystapien, perceptrons);
+        obliczanieDlaZbioru(pliki, perceptrons);
 
         // ------------- Faza 2 -> nauka na zbiorze treningowym -------------
-        int iloscEpokBezBledu = 0;
         int iloscEpok = 1;
-        while (iloscEpokBezBledu <= IloscCwiczen){
+        while (iloscEpok <= IloscCwiczen){
             iloscEpok++;
-            double wynik = obliczanieDlaZbioru(pliki,znakiIlosciWystapien,perceptrons);
-            if ( wynik == 1.0)
-                iloscEpokBezBledu++;
-            else
-                iloscEpokBezBledu = 0;
-
-            System.out.println("wynik dla epoki " + iloscEpok+" : " + wynik);
+            obliczanieDlaZbioru(pliki,perceptrons);
         }
         // ------------- Faza 3 -> przejscie po zbiorze testowym i obliczenie celnosci -------------
-        System.out.print("wynik dla zbioru testowego: ");
-        obliczanieDlaZbioru(Objects.requireNonNull(zbiorTestowy), znakiIlosciWystapien, perceptrons);
+        System.out.println("wynik dla zbioru testowego: ");
+        obliczanieDlaTestowego(Objects.requireNonNull(zbiorTestowy), perceptrons);
 
         // ------------- Faza 4 -> przejscie dla danych z konsoli -------------
         Scanner sc = new Scanner(System.in);
-        System.out.println("podaj tekst do klasyfikacji lub sciezke do pliku do klasyfikacji: ");
+        System.out.println("podaj tekst do klasyfikacji lub sciezke do pliku do klasyfikacji (np. ZbiorTestowy\\PL\\JulianTuwim-PL.txt ): ");
         String odpowiedz = sc.nextLine();
-        if (odpowiedz.contains("/") || odpowiedz.contains("\\"))
-            obliczanieDlaZbioru(Objects.requireNonNull(Pliki.loadFiles(odpowiedz)), znakiIlosciWystapien,perceptrons);
-        else {
+        if (odpowiedz.contains("/") || odpowiedz.contains("\\")) {
+            Map<String, ArrayList<String>> plikDane = Pliki.loadFiles(odpowiedz);
+            if (plikDane == null) {
+                System.out.println("Nie udało się wczytać pliku: " + odpowiedz);
+            } else {
+                obliczanieDlaTestowego(plikDane, perceptrons);
+            }
+        } else {
             Map<String, ArrayList<String>> temp = new HashMap<>();
-            ArrayList<String > aOdpowiedz = new ArrayList<>();
+            ArrayList<String> aOdpowiedz = new ArrayList<>();
             aOdpowiedz.add(odpowiedz);
-            temp.put("0",aOdpowiedz);
-            obliczanieDlaZbioru(temp, znakiIlosciWystapien, perceptrons);
+            temp.put("0", aOdpowiedz);
+            System.out.println();
+            obliczanieDlaTestowego(temp, perceptrons);
         }
-
-        //todo i z pliku i z konsoli
-        //todo zwraca jezyk w jakim jest napisany na podstawie porownania zgadniecia i klucza
     }
 
-    private static Map<Character, Integer> zliczIloscWystapien(ArrayList<String> temp){
+    public static Map<Character, Integer> zliczIloscWystapien(ArrayList<String> temp){
         Map<Character, Integer> mapaZnakow = new HashMap<>();
         //wypelnienie literami od A do Z z wartosciami 0, zeby kazdy perceptron mial 26 wag
         for (char c = 'A'; c <= 'Z'; c++) {
@@ -75,47 +70,73 @@ public class Main {
         }
 
         for (String tekst : temp){
+            tekst = normalizacjaTekstu(tekst);
             for(int i = 0; i < tekst.length(); i++){
                 mapaZnakow.put(tekst.charAt(i), mapaZnakow.get(tekst.charAt(i))+1);
             }
         }
+
         return mapaZnakow;
     }
+    public static String normalizacjaTekstu(String tekst){
+        tekst = tekst.toUpperCase(Locale.ROOT);
+        tekst = java.text.Normalizer.normalize(tekst, Normalizer.Form.NFD);//nfd -> rozbije w znaku ę -> e i ,
+        tekst = tekst.replaceAll("[^\\p{ASCII}]", "");//usuniecie wszystkich ciapek i spacji
+        return tekst.replaceAll("[^A-Z]", "");
+    }
 
-    public static double obliczanieDlaZbioru(Map<String, ArrayList<String>> zbiorTestowy,
-                                           Map<String, Map<Character, Integer>> znakiIlosciWystapien ,
+    public static void obliczanieDlaZbioru(Map<String, ArrayList<String>> zbiorTestowy,
                                            Map<String, Perceptron> perceptrons) {
-        /*
-        Napisać jednowarstwową sieć, która przyjmuje na wejście częstości poszczególnych liter w tekście,
-        a na wyjściu zwraca język, w jakim tekst jest napisany.
-        Program powinien również wczytać dane testowe na których zweryfikuje swoją poprawność.
-        Program ma być w stanie przyjąć wejście zarówno w formie pliku tekstowego podanego przez użytkownika,
-        jak i w formie tekstu wpisanego z konsoli.*/
-        double celnosc = 0;
-        int licznikPojedynczychJezykow = 0;
 
-        for (String jezyk: zbiorTestowy.keySet()) {
+        for (String jezykPliku : zbiorTestowy.keySet()){
+
+            Map<Character,Integer> iloscWystapienDlaTekstu = zliczIloscWystapien(zbiorTestowy.get(jezykPliku));
+            ArrayList<Double> literyWagi = UzupelnienieTabWag(iloscWystapienDlaTekstu);
+
+            Map<String, Integer> poprawneOdpowiedzi = new HashMap<>();
+            for (String key : perceptrons.keySet()){
+                if (jezykPliku.equals(key))
+                    poprawneOdpowiedzi.put(key,1);
+                else
+                    poprawneOdpowiedzi.put(key,0);
+            }
+
+            for (String jezykPerceptronu: perceptrons.keySet()){
+                perceptrons.get(jezykPerceptronu).deltha(literyWagi,poprawneOdpowiedzi.get(jezykPerceptronu));
+            }
+
+        }
+    }
+    private static void obliczanieDlaTestowego(Map<String, ArrayList<String>> plikDane,
+                                               Map<String,Perceptron> perceptrons) {
+
+        for (String jezyk: plikDane.keySet()) {
             // ------------------ petla dla kazdego z jezykow -------------------
-            for (String tekst: zbiorTestowy.get(jezyk)) {
+            for (String tekst: plikDane.get(jezyk)) {
                 ArrayList<String> temp = new ArrayList<>();
                 temp.add(tekst);
-                Map<Character,Integer> iloscWystapienDlaTekstu = zliczIloscWystapien(temp);
+                Map<Character, Integer> iloscWystapienDlaTekstu = zliczIloscWystapien(temp);
                 ArrayList<Double> literyWagi = UzupelnienieTabWag(iloscWystapienDlaTekstu);
-
-                // ------------------- uczenie perceptronu -------------------
-                if (perceptrons.get(jezyk).deltha(literyWagi, 1) == 1)
-                    celnosc++;
-                licznikPojedynczychJezykow++;
+                System.out.println("-------------------------------------");
+                for (String jezykiPerceptronow: perceptrons.keySet()) {
+                    System.out.print("odpowiedz perceptrona dla jezyka: " + jezykiPerceptronow+": ");
+                    System.out.println(perceptrons.get(jezykiPerceptronow).Klasyfikacja(literyWagi));
+                }
             }
         }
-                    //perceptron.Klasyfikacja(/*tablica wag*/) == 1 ?  :
-        return celnosc/licznikPojedynczychJezykow;
     }
 
     private static ArrayList<Double> UzupelnienieTabWag(Map<Character, Integer> iloscWystapienDlaTekstu) {
         ArrayList<Double> temp = new ArrayList<>();
-        for (Character litera: iloscWystapienDlaTekstu.keySet()) {
-            temp.add(Double.valueOf(iloscWystapienDlaTekstu.get(litera)));
+        int licznik = 0;
+
+        for (char c = 'A'; c<='Z'; c++){
+            licznik+=iloscWystapienDlaTekstu.getOrDefault(c,0);
+        }
+
+        for(char c = 'A'; c <= 'Z'; c++)
+        {
+            temp.add( (iloscWystapienDlaTekstu.getOrDefault(c,0)/ (double) licznik));
         }
         return temp;
     }

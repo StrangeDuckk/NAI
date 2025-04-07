@@ -10,11 +10,20 @@ public class Pliki {
 
         File folderJezyki = new File(path);
 
-        if (!folderJezyki.isDirectory() || !folderJezyki.exists()) {
+        if (!folderJezyki.exists()) {
             System.out.println("zla sciezka do folderu z plikami txt dla jezykow");
             return null;
         }
-        //---------- utworzenie mapy z jezykami takimi jakie tytuly folderow ----------
+
+        // ------------------ dla pojedynczego pliku ---------------------
+        if (folderJezyki.isFile() && path.endsWith(".txt")) {
+            ArrayList<String> zawartosci = new ArrayList<>();
+            zawartosci.add(zawartosc(folderJezyki));
+            pliki.put("INPUT", zawartosci); // klucz "INPUT"
+            return pliki;
+        }
+
+        // ---------- utworzenie mapy z jezykami takimi jakie tytuly folderow ----------
         File[] tlumaczenia = folderJezyki.listFiles();
         for (File f : tlumaczenia) {
             pliki.put(f.getName(), new ArrayList<>());
@@ -36,16 +45,13 @@ public class Pliki {
     private static String zawartosc(File f) {
         StringBuilder sb = new StringBuilder();
         try {
-            Scanner sc = new Scanner(f);//acces denied
+            Scanner sc = new Scanner(f);
             while (sc.hasNextLine()) {
                 sb.append(sc.nextLine());
             }
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
-        return usuniecieSpecyficznychZnakow(sb.toString().toUpperCase());
-    }
-    private static String usuniecieSpecyficznychZnakow(String ciag) {
-        return ciag.replaceAll("[^A-Z]", ""); //wymiana wszystkiego poza [A-Z] na nic
+        return Main.normalizacjaTekstu(sb.toString().toUpperCase());
     }
 }

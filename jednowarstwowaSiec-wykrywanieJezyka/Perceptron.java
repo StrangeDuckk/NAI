@@ -24,36 +24,36 @@ public class Perceptron {
     public Perceptron(int dlugoscTablicaWag, double prog, double alpha) {
         tablicaWag = new ArrayList<>();
         for (int i = 0; i < dlugoscTablicaWag; i++) {
-            tablicaWag.add(Math.random()); //losowe wartosci wag
+            tablicaWag.add(/*Math.random()*/0.0); //losowe wartosci wag lub 0, przy 0 za kazdym razem wynik taki sam
         }
         this.prog = prog;
         this.alpha = alpha;
     }
 
-    public double NetObliczenie(ArrayList<Double> tablicaWag, ArrayList<Double> inputVector) {
+    public double NetObliczenie(ArrayList<Double> inputVector) {
         double Net = 0;
         for (int i = 0; i < inputVector.size(); i++) {
-            Net += inputVector.get(i)*tablicaWag.get(i);
+            Net += inputVector.get(i)*this.tablicaWag.get(i);
         }
         return Net;
     }
 
-    public double deltha/*learn*/(ArrayList<Double> inputVector, int answer) {//dla kazdego w train jako pierwsza -> uczenie
+    public void deltha(ArrayList<Double> inputVector, int answer) {
         int wynik = Klasyfikacja(inputVector);
-        if (wynik==answer){
-            return answer; //potem sprawdzac czy wagi sie zmienily
-        }
-        else//odpowiedz jest inna, wracamy do nauki
-        {
-            ArrayList<Double> newWagi = new ArrayList<>();
-            double Net = NetObliczenie(tablicaWag, newWagi);
-            this.prog = prog - (answer-wynik)*alpha;//sprawdzic czy to bedzie dzialac
 
-            return Net>=prog?1:0;
+        if (wynik != answer) {
+            for (int i = 0; i < tablicaWag.size(); i++) {
+                double w = tablicaWag.get(i);
+                double x = inputVector.get(i);
+                this.tablicaWag.set(i, w + alpha * (answer - wynik) * x);
+            }
+
+            // Aktualizacja progu
+            this.prog = prog - alpha * (answer - wynik);
         }
     }
 
-    public int Klasyfikacja(ArrayList<Double> inputVektor) {//dla uczenia
-        return NetObliczenie(tablicaWag, inputVektor) >= prog?1:0;
+    public int Klasyfikacja(ArrayList<Double> inputVektor) {
+        return NetObliczenie(inputVektor) >= this.prog?1:0;
     }
 }
