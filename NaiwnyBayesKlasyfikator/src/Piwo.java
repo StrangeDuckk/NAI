@@ -3,7 +3,6 @@ public class Piwo {
     private String chmiel;
     private String goryczka;
     private String styl;
-    private String strzal;
 
     public Piwo(String barwa, String chmiel, String goryczka, String styl) {
         this.barwa = barwa;
@@ -12,12 +11,6 @@ public class Piwo {
         this.styl = styl;
     }
 
-    public String getStrzal() {
-        return strzal;
-    }
-    public void setStrzal(String strzal) {
-        this.strzal = strzal;
-    }
     public String getBarwa() {
         return barwa;
     }
@@ -38,7 +31,6 @@ public class Piwo {
                 ", chmiel='" + chmiel + '\'' +
                 ", goryczka='" + goryczka + '\'' +
                 ", styl='" + styl + '\'' +
-                ", strzal='" + strzal + '\'' +
                 "}";
     }
 }

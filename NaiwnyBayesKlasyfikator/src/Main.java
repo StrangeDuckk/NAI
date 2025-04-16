@@ -32,5 +32,8 @@ public class Main {
 
         bayes.zaklasyfikujPiwo(piwo1);
         bayes.zaklasyfikujPiwo(piwo2);
+
+        // ---------------- pytanie do uzytkownika ----------------
+        //todo odpytanie uzytkownika
     }
 }
