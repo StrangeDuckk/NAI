@@ -61,17 +61,32 @@ public class Bayes {
         HashMap<String, Double> obliczoneWybory = new HashMap<>();
         for (String styl : stylePiwa.keySet()) {
             // ---------------- obliczenie dla barwy ----------------
-            //todo obliczenia prawdopodobienstwa
-            // barwa -> podana pod warunkiem stylu/ ilosc tych barw w stylu
+
+            // prawdopodobienstwo na dana barwe pod warunkiem stylu / ilosc stylu
+            double pracwBarwa = 0.0;
+            int temp = this.barwy.get(styl).getOrDefault(piwoDoKlasyfikacji.getBarwa(),0);
+            if (temp != 0)
+               pracwBarwa = (double) temp/this.stylePiwa.get(styl);
+            else
+                pracwBarwa = ((double) temp + 1) / (this.stylePiwa.get(styl) + this.barwy.get(styl).size());//todo sprawdzenie czy po barwy dodawanie
+
+            System.out.println(pracwBarwa);
             // chmiel -> podana pod warunkiem stylu/ ilosc tego chmielu w stylu
+
             // goryczka -> podana pod warunkiem stylu/ ilosc tej goryczy w stylu
 
-            // ---------------- wygładzanie ----------------
-            //todo w przypadku gdy podana pod warunkiem stylu
-            // lub ilosc danego elementu w stylu jest rowna zero lub null, zrob wygladzenie, do licznika +1
-            // do mianownika + jesli to byla barwa to ilosc barw
+            // prawdopodobienstwo na dany styl // tutaj nigdy nie bedzie potrzebne wygladzanie
+            double prawdStyl = (double) this.stylePiwa.get(styl) / this.tablicaPiw.size();
         }
         //todo wybor maxa
+    }
+    public double wygladzenie(String styl, String atrybut)
+    {
+        // ---------------- wygładzanie ----------------
+        //todo w przypadku gdy podana pod warunkiem stylu
+        // lub ilosc danego elementu w stylu jest rowna zero lub null, zrob wygladzenie, do licznika +1
+        // do mianownika + jesli to byla barwa to ilosc barw
+        return 0.0;
     }
 
     public ArrayList<Piwo> getTablicaPiw() {
