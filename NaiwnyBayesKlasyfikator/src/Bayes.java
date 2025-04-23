@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -15,7 +16,6 @@ public class Bayes {
 
     public void wypelnienieHashMap(){
         // ---------------- mapa klas styli i ilosci wystapien w treningowym ----------------
-        //todo zmienic na zwykle intigery a nie na tablice
         this.stylePiwa = new HashMap<>();
         for (Piwo piwo : tablicaPiw) {
             if (!stylePiwa.containsKey(piwo.getStyl()))
@@ -67,19 +67,48 @@ public class Bayes {
             int temp = this.barwy.get(styl).getOrDefault(piwoDoKlasyfikacji.getBarwa(),0);
             if (temp != 0)
                pracwBarwa = (double) temp/this.stylePiwa.get(styl);
-            else
+            else // wygladzenie
                 pracwBarwa = ((double) temp + 1) / (this.stylePiwa.get(styl) + this.barwy.get(styl).size());//todo sprawdzenie czy po barwy dodawanie
 
-            System.out.println(pracwBarwa);
             // chmiel -> podana pod warunkiem stylu/ ilosc tego chmielu w stylu
+            double prawdChmiel = 0.0;
+            temp = this.chmiel.get(styl).getOrDefault(piwoDoKlasyfikacji.getChmiel(),0);
+            if (temp!=0)
+                prawdChmiel = (double) temp / this.stylePiwa.get(styl);
+            else// wygladzenie
+                prawdChmiel = ((double) temp+1) / (this.stylePiwa.get(styl) + this.chmiel.get(styl).size());
 
             // goryczka -> podana pod warunkiem stylu/ ilosc tej goryczy w stylu
+            double prawdGoryczka = 0.0;
+            temp = this.gorycze.get(styl).getOrDefault(piwoDoKlasyfikacji.getGoryczka(),0);
+            if (temp!=0)
+                prawdGoryczka = (double) temp / this.stylePiwa.get(styl);
+            else// wygladzenie
+                prawdGoryczka = ((double) temp+1) / (this.stylePiwa.get(styl) + this.gorycze.get(styl).size());
 
             // prawdopodobienstwo na dany styl // tutaj nigdy nie bedzie potrzebne wygladzanie
             double prawdStyl = (double) this.stylePiwa.get(styl) / this.tablicaPiw.size();
+
+            double wynik = pracwBarwa * prawdChmiel * prawdGoryczka * prawdStyl;
+            obliczoneWybory.put(styl, wynik);
         }
-        //todo wybor maxa
+        System.out.println("Piwo: " + piwoDoKlasyfikacji +
+                "\nzostalo zaklasyfikowane jako: " + znajdzMax(obliczoneWybory));
+        System.out.println("-----------------------------------------------------------------------------------");
     }
+
+    private String znajdzMax(HashMap<String, Double> obliczoneWybory) {
+        String maxKey = "";
+        Double max = Double.MIN_VALUE;
+        for (String key: obliczoneWybory.keySet()){
+            if (obliczoneWybory.get(key) > max){
+                maxKey = key;
+                max = obliczoneWybory.get(key);
+            }
+        }
+        return maxKey;
+    }
+
     public double wygladzenie(String styl, String atrybut)
     {
         // ---------------- wygładzanie ----------------

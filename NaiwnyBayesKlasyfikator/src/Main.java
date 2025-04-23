@@ -25,15 +25,21 @@ public class Main {
         }
         bayes.wypelnienieHashMap();
         System.out.println(bayes.getTablicaPiw());
+        System.out.println("-----------------------------------------------------------------------------------");
 
         // ---------------- klasyfikacja dwoch piw ----------------
-        Piwo piwo1 = new Piwo("ciemna","marynka","duza","stout");
-        Piwo piwo2 = new Piwo("bursztynowa","citra","niska","marcowe");
+        Piwo piwo1 = new Piwo("bursztynowa","citra","niska","marcowe");
 
         bayes.zaklasyfikujPiwo(piwo1);
-        bayes.zaklasyfikujPiwo(piwo2);
 
         // ---------------- pytanie do uzytkownika ----------------
-        //todo odpytanie uzytkownika
+        Scanner sc = new Scanner(System.in);
+        System.out.println("podaj barwę piwa (ciemna/bursztynowa/zlota): ");
+        String barwa = sc.nextLine();
+        System.out.println("podaj rodzaj chmielu (marynka,citra,lomik): ");
+        String chmiel = sc.nextLine();
+        System.out.println("podaj goryczkę (duza/niska): ");
+        String goryczka = sc.nextLine();
+        bayes.zaklasyfikujPiwo(new Piwo(barwa,chmiel,goryczka,"TO_FIND"));
     }
 }
