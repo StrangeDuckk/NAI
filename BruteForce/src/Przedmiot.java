@@ -4,12 +4,16 @@ import java.util.List;
 import java.util.Map;
 
 public class Przedmiot {
+    private static int pojemnoscPlecaka;
     private int waga;
     private int wartosc;
 
     public Przedmiot(int waga, int wartosc) {
         this.waga = waga;
         this.wartosc = wartosc;
+    }
+    public static void SetPojemnoscPlecaka(int pojemnosc){
+        pojemnoscPlecaka = pojemnosc;
     }
 
      public static List<Przedmiot> obliczBruteForce(Map<Integer, Przedmiot> przedmiotyLista){
@@ -46,16 +50,52 @@ public class Przedmiot {
              sumyWagIWartosci.get(licznik).add(sumaWartosc);
              licznik++;
          }
-         System.out.println(sumyWagIWartosci);
 
          //--------- walidacja czy suma wag sie zgadza ---------
-//        ArrayList<ArrayList>
+        ArrayList<ArrayList<Integer>> spelniajaceWarunkiSumyWagIWartosci = new ArrayList<>();
+        licznik = 0;
+        int staryIndex = 0;
+        for (ArrayList<Integer> sumyWiW : sumyWagIWartosci)
+        {
+            if(sumyWiW.get(0) <= pojemnoscPlecaka){
+                spelniajaceWarunkiSumyWagIWartosci.add( new ArrayList<>());
+                spelniajaceWarunkiSumyWagIWartosci.get(licznik).add(staryIndex);
+                spelniajaceWarunkiSumyWagIWartosci.get(licznik).add(sumyWiW.get(0));
+                spelniajaceWarunkiSumyWagIWartosci.get(licznik).add(sumyWiW.get(1));
+                licznik++;
+            }
+            staryIndex++;
+        }
 
+        //zwrocenie maxa
+        int max = FindMax(spelniajaceWarunkiSumyWagIWartosci);
+        int indexMax;
+        for (indexMax = 0; indexMax < spelniajaceWarunkiSumyWagIWartosci.size(); indexMax++){
+            if (max == spelniajaceWarunkiSumyWagIWartosci.get(indexMax).get(2))
+                break;
+        }
 
-        return null;
+        List<Przedmiot> przedmiotOutput = new ArrayList<>();
+        for (int i = 0; i < wynikiBin.get(indexMax).size(); i++){
+            if (wynikiBin.get(indexMax).get(i) == 1){
+                przedmiotOutput.add(przedmiotyLista.get(i));
+            }
+        }
+
+        return przedmiotOutput;
      }
 
-     private static ArrayList<Integer> zamienNaBin(int i) {
+    private static int FindMax(ArrayList<ArrayList<Integer>> spelniajaceWarunkiSumyWagIWartosci) {
+        int max = 0;
+        for (ArrayList<Integer> sumy : spelniajaceWarunkiSumyWagIWartosci){
+            if (sumy.get(1) >max){
+                max = sumy.get(1);
+            }
+        }
+        return max;
+    }
+
+    private static ArrayList<Integer> zamienNaBin(int i) {
         ArrayList<Integer> wynik = new ArrayList<>();
         if (i == 0){
             wynik.add(0);
@@ -68,13 +108,12 @@ public class Przedmiot {
         }
 
         return wynik;
-     }
-
-    public int getWartosc() {
-        return wartosc;
     }
 
-    public int getWaga() {
-        return waga;
+    @Override
+    public String toString() {
+        return "\nPrzedmiot\n{" +
+                "\n\twaga=" + waga +
+                ", \n\twartosc=" + wartosc +"\n}";
     }
 }
